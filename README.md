@@ -1,12 +1,10 @@
 # valuation-systems
 
-Uses web scraping to obtain from UN COMTRADE whereas a country C in the year Y uses CIF, FOB or a special system to report imports or exports.
+Uses web scraping to obtain from UN COMTRADE whereas a country C in the year Y uses CIF, FOB or a special system to report imports or exports. The standard is FOB for exports and CIF for imports, but that's not always the case.
 
-The reason to do so is that COMTRADE website doesn't not provide a single Excel file to provide that information or similar, but provides hundreds of tabs in-brower that make it very hard to copy and paste the information in Excel.
+The reason to do this is that COMTRADE website doesn't not provide a single Excel file (or other format) to provide that information, but provides hundreds of tabs that make it very hard to copy and paste the information in Excel.
 
-The standard is FOB for exports and CIF for imports, but that's not always the case.
-
-This repo uses Selenium to import thousands of tables from UN COMTRADE into R. There is no readily available Excel or similar, except the RDS file I've included here.
+This repo uses Selenium to import thousands of tables from UN COMTRADE into R. There is no readily available Excel or similar, except the [RDS file](https://github.com/pachadotdev/valuation-systems/raw/main/trade_valuation_system_per_country.rds) I've included here.
 
 Data preview for the end result:
 
