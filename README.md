@@ -1,6 +1,8 @@
 # valuation-systems
 
-Uses web scraping to obtain whereas a country C in the year Y uses CIF, FOB or a special system to report imports or exports.
+Uses web scraping to obtain from UN COMTRADE whereas a country C in the year Y uses CIF, FOB or a special system to report imports or exports.
+
+The reason to do so is that COMTRADE website doesn't not provide a single Excel file to provide that information or similar, but provides hundreds of tabs in-brower that make it very hard to copy and paste the information in Excel.
 
 The standard is FOB for exports and CIF for imports, but that's not always the case.
 
