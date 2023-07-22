@@ -1,0 +1,5 @@
+reporter,reported_classification,reported_currency,trade_flow,currency_conversion_factor,trade_system,valuation,partner,r,y
+Angola(1962),SITC Rev.1,PTE,Import,0.03478,Special,CIF,Origin,24,1962
+Angola(1962),SITC Rev.1,PTE,Export,0.03478,Special,FOB,Last Known Destination,24,1962
+Morocco(1962),SITC Rev.1,MAD,Import,0.1976,Special,CIF,Origin,504,1962
+Morocco(1962),SITC Rev.1,MAD,Export,0.1976,Special,FOB,Last Known Destination,504,1962

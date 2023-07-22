@@ -1,0 +1,247 @@
+reporter,reported_classification,reported_currency,trade_flow,currency_conversion_factor,trade_system,valuation,partner,r,y
+Afghanistan(1973),SITC Rev.1,USD,Import,1,General,CIF,Origin,4,1973
+Afghanistan(1973),SITC Rev.1,USD,Export,1,General,FOB,Last Known Destination,4,1973
+Algeria(1973),SITC Rev.1,DZD,Import,0.254507,Special,CIF,Origin,12,1973
+Algeria(1973),SITC Rev.1,DZD,Export,0.25486,Special,FOB,Consignment,12,1973
+Angola(1973),SITC Rev.1,PTE,Import,0.40849,Special,CIF,Origin,24,1973
+Angola(1973),SITC Rev.1,PTE,Export,0.40685,Special,FOB,Last Known Destination,24,1973
+Antigua and Barbuda(1973),SITC Rev.1,XCD,Import,0.51081,Special,CIF,Origin,28,1973
+Antigua and Barbuda(1973),SITC Rev.1,XCD,Export,0.510808,General,FOB,Last Known Destination,28,1973
+Argentina(1973),SITC Rev.1,USD,Import,1,Special,CIF,Origin,32,1973
+Argentina(1973),SITC Rev.1,USD,Export,1,Special,FOB,Last Known Destination,32,1973
+Australia(1973),SITC Rev.1,AUD,Import,1.42298,General,FOB,Origin,36,1973
+Australia(1973),SITC Rev.1,AUD,Export,1.41694,General,FOB,Last Known Destination,36,1973
+Austria(1973),SITC Rev.1,ATS,Import,0.5165,Special,CIF,Origin,40,1973
+Austria(1973),SITC Rev.1,ATS,Export,0.51823,Special,FOB,Last Known Destination,40,1973
+Bahrain(1973),SITC Rev.1,BHD,Import,2.5046,Special,CIF,Origin,48,1973
+Bahrain(1973),SITC Rev.1,BHD,Export,2.4883,Special,FOB,Last Known Destination,48,1973
+Barbados(1973),SITC Rev.1,BBD,Import,0.5101,General,CIF,Origin,52,1973
+Barbados(1973),SITC Rev.1,BBD,Export,0.51579,General,FOB,Last Known Destination,52,1973
+Belgium-Luxembourg(1973),SITC Rev.1,BEF,Import,0.025774,Special,CIF,Origin,58,1973
+Belgium-Luxembourg(1973),SITC Rev.1,BEF,Export,0.0258,Special,FOB,Last Known Destination,58,1973
+Benin(1973),SITC Rev.1,XOF,Import,0.449489,Special,CIF,Origin,204,1973
+Benin(1973),SITC Rev.1,XOF,Export,0.4449,Special,FOB,Last Known Destination,204,1973
+Bermuda(1973),SITC Rev.1,BMD,Import,1,General,CIF,Origin,60,1973
+Bermuda(1973),SITC Rev.1,BMD,Export,1,General,FOB,Last Known Destination,60,1973
+Bolivia (Plurinational State of)(1973),SITC Rev.1,USD,Import,1,NULL,NULL,,68,1973
+Bolivia (Plurinational State of)(1973),SITC Rev.1,USD,Export,1,Special,FOB,Last Known Destination,68,1973
+Brazil(1973),SITC Rev.1,USD,Import,1,Special,CIF,Purchase,76,1973
+Brazil(1973),SITC Rev.1,USD,Export,1,General,FOB,Last Known Destination,76,1973
+Brunei Darussalam(1973),SITC Rev.1,BND,Import,0.407668,Special,CIF,Origin,96,1973
+Brunei Darussalam(1973),SITC Rev.1,BND,Export,0.40846,General,FOB,Last Known Destination,96,1973
+Burkina Faso(1973),SITC Rev.1,XOF,Import,0.452019,Special,CIF,Origin,854,1973
+Burkina Faso(1973),SITC Rev.1,XOF,Export,0.45337,Special,FOB,Last Known Destination,854,1973
+Cameroon(1973),SITC Rev.1,XOF,Import,0.449368,Special,CIF,Origin,120,1973
+Cameroon(1973),SITC Rev.1,XOF,Export,0.4501,Special,FOB,Last Known Destination,120,1973
+Canada(1973),SITC Rev.1,CAD,Import,0.99996,General,FOB,Consignment,124,1973
+Canada(1973),SITC Rev.1,CAD,Export,0.99999,General,FOB,Consignment,124,1973
+Central African Rep.(1973),SITC Rev.1,XOF,Import,0.449,Special,CIF,Origin,140,1973
+Central African Rep.(1973),SITC Rev.1,XOF,Export,0.449,Special,FOB,Last Known Destination,140,1973
+Chad(1973),SITC Rev.1,XOF,Import,0.52252,Special,CIF,Origin,148,1973
+Chad(1973),SITC Rev.1,XOF,Export,0.49684,Special,FOB,Last Known Destination,148,1973
+Chile(1973),SITC Rev.1,USD,Import,1,Special,CIF,Purchase,152,1973
+Chile(1973),SITC Rev.1,USD,Export,1,Special,FOB,Sale,152,1973
+"China, Hong Kong SAR(1973)",SITC Rev.1,HKD,Import,0.194137,General,CIF,Consignment,344,1973
+"China, Hong Kong SAR(1973)",SITC Rev.1,HKD,Export,0.19428,General,FOB,Last Known Destination,344,1973
+"China, Macao SAR(1973)",SITC Rev.1,MOP,Import,0.19157,Special,CIF,Origin,446,1973
+"China, Macao SAR(1973)",SITC Rev.1,MOP,Export,0.19521,Special,FOB,Last Known Destination,446,1973
+Colombia(1973),SITC Rev.1,USD,Import,1,Special,CIF,Origin,170,1973
+Colombia(1973),SITC Rev.1,USD,Export,1,Special,FOB,Last Known Destination,170,1973
+Dem. Rep. of the Congo(1973),SITC Rev.1,CDF,Import,2,Special,CIF,Origin,180,1973
+Dem. Rep. of the Congo(1973),SITC Rev.1,CDF,Export,2,Special,FOB,Last Known Destination,180,1973
+Egypt(1973),SITC Rev.1,EGP,Import,2.53222,Special,CIF,Consignment,818,1973
+Egypt(1973),SITC Rev.1,EGP,Export,2.519386,General,FOB,Last Known Destination,818,1973
+Madagascar(1973),SITC Rev.1,MGF,Import,0.449953,Special,CIF,Origin,450,1973
+Madagascar(1973),SITC Rev.1,MGF,Export,0.45296,Special,FOB,Last Known Destination,450,1973
+Malawi(1973),SITC Rev.1,MWK,Import,1.24132,General,CIF,Origin,454,1973
+Malawi(1973),SITC Rev.1,MWK,Export,1.24239,General,FOB,Last Known Destination,454,1973
+Mauritius(1973),SITC Rev.1,MUR,Import,0.18525,General,CIF,Origin,480,1973
+Mauritius(1973),SITC Rev.1,MUR,Export,0.18413,General,FOB,Last Known Destination,480,1973
+Seychelles(1973),SITC Rev.1,SCR,Import,0.183824,Special,CIF,Origin,690,1973
+Seychelles(1973),SITC Rev.1,SCR,Export,0.183824,Domestic,FOB,Last Known Destination,690,1973
+Fmr Sudan(1973),SITC Rev.1,SDD,Import,2.872,General,CIF,Origin,736,1973
+Fmr Sudan(1973),SITC Rev.1,SDD,Export,2.872,General,FOB,Last Known Destination,736,1973
+Zambia(1973),SITC Rev.1,ZMK,Import,1.53391,General,FOB,Origin,894,1973
+Zambia(1973),SITC Rev.1,ZMK,Export,1.539598,General,FOB,Last Known Destination,894,1973
+Congo(1973),SITC Rev.1,XOF,Import,0.451,Special,CIF,Origin,178,1973
+Congo(1973),SITC Rev.1,XOF,Export,0.451,Special,FOB,Last Known Destination,178,1973
+Cook Isds(1973),SITC Rev.1,NZD,Import,1.363,General,FOB,Origin,184,1973
+Cook Isds(1973),SITC Rev.1,NZD,Export,NA,NULL,NULL,,184,1973
+Costa Rica(1973),SITC Rev.1,USD,Import,1,Special,CIF,Origin,188,1973
+Costa Rica(1973),SITC Rev.1,USD,Export,1,Special,FOB,Last Known Destination,188,1973
+Côte d'Ivoire(1973),SITC Rev.1,XOF,Import,0.450723,General,CIF,Origin,384,1973
+Côte d'Ivoire(1973),SITC Rev.1,XOF,Export,0.44909,General,FOB,Last Known Destination,384,1973
+Cyprus(1973),SITC Rev.1,CYP,Import,2.86223,General,CIF,Consignment,196,1973
+Cyprus(1973),SITC Rev.1,CYP,Export,2.86189,General,FOB,Last Known Destination,196,1973
+Czechoslovakia(1973),SITC Rev.1,CZK,Import,0.171413,General,FOB,Purchase,200,1973
+Czechoslovakia(1973),SITC Rev.1,CZK,Export,0.17086,General,FOB,Sale,200,1973
+Denmark(1973),SITC Rev.1,DKK,Import,0.16612,General,CIF,Origin,208,1973
+Denmark(1973),SITC Rev.1,DKK,Export,0.1663,General,FOB,Last Known Destination,208,1973
+Dominican Rep.(1973),SITC Rev.1,DOP,Import,1,General,FOB,Origin,214,1973
+Dominican Rep.(1973),SITC Rev.1,DOP,Export,1,General,FOB,Last Known Destination,214,1973
+Gambia(1973),SITC Rev.1,GMD,Import,0.58168,General,CIF,Consignment,270,1973
+Gambia(1973),SITC Rev.1,GMD,Export,0.6145,General,FOB,Last Known Destination,270,1973
+Ghana(1973),SITC Rev.1,GHC,Import,0.855432,General,CIF,Origin,288,1973
+Ghana(1973),SITC Rev.1,GHC,Export,0.85609,General,FOB,Last Known Destination,288,1973
+Liberia(1973),SITC Rev.1,USD,Import,1,General,CIF,Origin,430,1973
+Liberia(1973),SITC Rev.1,USD,Export,1,General,FOB,Last Known Destination,430,1973
+Niger(1973),SITC Rev.1,XOF,Import,0.454333,Special,CIF,Origin,562,1973
+Niger(1973),SITC Rev.1,XOF,Export,0.454333,Special,FOB,Last Known Destination,562,1973
+Nigeria(1973),SITC Rev.1,NGN,Import,1.52,General,CIF,Origin,566,1973
+Nigeria(1973),SITC Rev.1,NGN,Export,1.52,General,FOB,Last Known Destination,566,1973
+Senegal(1973),SITC Rev.1,XOF,Import,0.450086,Special,CIF,Origin,686,1973
+Senegal(1973),SITC Rev.1,XOF,Export,0.45072,Special,FOB,Last Known Destination,686,1973
+Sierra Leone(1973),SITC Rev.1,SLL,Import,1.18497,General,CIF,Origin,694,1973
+Sierra Leone(1973),SITC Rev.1,SLL,Export,1.18767,General,FOB,Last Known Destination,694,1973
+Togo(1973),SITC Rev.1,XOF,Import,0.449055,Special,CIF,Origin,768,1973
+Togo(1973),SITC Rev.1,XOF,Export,0.44635,Special,FOB,Last Known Destination,768,1973
+Ecuador(1973),SITC Rev.1,USD,Import,1,General,CIF,Origin,218,1973
+Ecuador(1973),SITC Rev.1,USD,Export,1,Special,FOB,Last Known Destination,218,1973
+El Salvador(1973),SITC Rev.1,SVC,Import,0.4,Special,CIF,Origin,222,1973
+El Salvador(1973),SITC Rev.1,SVC,Export,0.4,Special,FOB,Last Known Destination,222,1973
+Hungary(1973),SITC Rev.1,USD,Import,1,General,CIF,Purchase,348,1973
+Hungary(1973),SITC Rev.1,USD,Export,1,General,FOB,Sale,348,1973
+Iceland(1973),SITC Rev.1,ISK,Import,0.11267,Special,CIF,Origin,352,1973
+Iceland(1973),SITC Rev.1,ISK,Export,0.1116,Special,FOB,Last Known Destination,352,1973
+Norway(1973),SITC Rev.1,NOK,Import,0.172745,General,CIF,Origin,579,1973
+Norway(1973),SITC Rev.1,NOK,Export,0.17274,General,FOB,Last Known Destination,579,1973
+Switzerland(1973),SITC Rev.1,CHF,Import,0.317713,Special,CIF,Consignment,757,1973
+Switzerland(1973),SITC Rev.1,CHF,Export,0.31805,Special,FOB,Last Known Destination,757,1973
+Finland(1973),SITC Rev.1,FIM,Import,0.254391,General,CIF,Origin,246,1973
+Finland(1973),SITC Rev.1,FIM,Export,0.254561,General,FOB,Last Known Destination,246,1973
+Fmr Fed. Rep. of Germany(1973),SITC Rev.1,USD,Import,1,Special,CIF,Origin,280,1973
+Fmr Fed. Rep. of Germany(1973),SITC Rev.1,USD,Export,1,Special,FOB,Last Known Destination,280,1973
+Fmr Yugoslavia(1973),SITC Rev.1,YUD,Import,0.58823,Special,CIF,Origin,890,1973
+Fmr Yugoslavia(1973),SITC Rev.1,YUD,Export,0.58823,Special,FOB,Last Known Destination,890,1973
+France(1973),SITC Rev.1,FRF,Import,0.225583,Special,CIF,Origin,251,1973
+France(1973),SITC Rev.1,FRF,Export,0.22566,Special,FOB,Last Known Destination,251,1973
+Greece(1973),SITC Rev.1,GRD,Import,0.338018,Special,CIF,Consignment,300,1973
+Greece(1973),SITC Rev.1,GRD,Export,0.33964,Special,FOB,Last Known Destination,300,1973
+Ireland(1973),SITC Rev.1,IEP,Import,2.45362,General,CIF,Origin,372,1973
+Ireland(1973),SITC Rev.1,IEP,Export,2.45203,General,FOB,Last Known Destination,372,1973
+Italy(1973),SITC Rev.1,ITL,Import,0.171324,Special,CIF,Origin,381,1973
+Italy(1973),SITC Rev.1,ITL,Export,0.17135,Special,FOB,Last Known Destination,381,1973
+Malta(1973),SITC Rev.1,MTL,Import,2.72529,General,CIF,Origin,470,1973
+Malta(1973),SITC Rev.1,MTL,Export,2.72872,General,FOB,Last Known Destination,470,1973
+Netherlands(1973),SITC Rev.1,NLG,Import,0.360458,Special,CIF,Consignment,528,1973
+Netherlands(1973),SITC Rev.1,NLG,Export,0.359657,Special,FOB,Last Known Destination,528,1973
+Portugal(1973),SITC Rev.1,PTE,Import,0.4109,Special,CIF,Origin,620,1973
+Portugal(1973),SITC Rev.1,PTE,Export,0.41,Special,FOB,Last Known Destination,620,1973
+Spain(1973),SITC Rev.1,ESP,Import,0.170866,Special,CIF,Origin,724,1973
+Spain(1973),SITC Rev.1,ESP,Export,0.17053,Special,FOB,Last Known Destination,724,1973
+Sweden(1973),SITC Rev.1,SEK,Import,0.229481,General,CIF,Origin,752,1973
+Sweden(1973),SITC Rev.1,SEK,Export,0.22956,General,FOB,Last Known Destination,752,1973
+United Kingdom(1973),SITC Rev.1,GBP,Import,2.44999,General,CIF,Consignment,826,1973
+United Kingdom(1973),SITC Rev.1,GBP,Export,2.45158,General,FOB,Last Known Destination,826,1973
+Fiji(1973),SITC Rev.1,FJD,Import,1.16505,General,CIF,Origin,242,1973
+Fiji(1973),SITC Rev.1,FJD,Export,1.148573,General,FOB,Last Known Destination,242,1973
+Fmr Ethiopia(1973),SITC Rev.1,ETB,Import,0.475474,General,CIF,Origin,230,1973
+Fmr Ethiopia(1973),SITC Rev.1,ETB,Export,0.47229,General,FOB,Last Known Destination,230,1973
+"Fmr Panama, excl.Canal Zone(1973)",SITC Rev.1,USD,Import,1,Special,CIF,Origin,590,1973
+"Fmr Panama, excl.Canal Zone(1973)",SITC Rev.1,USD,Export,1,Special,FOB,Last Known Destination,590,1973
+Fmr Rep. of Vietnam(1973),SITC Rev.1,USD,Import,1,Special,CIF,Origin,868,1973
+Fmr Rep. of Vietnam(1973),SITC Rev.1,USD,Export,1,Special,FOB,Last Known Destination,868,1973
+French Guiana(1973),SITC Rev.1,FRF,Import,0.225918,Special,CIF,Origin,254,1973
+French Guiana(1973),SITC Rev.1,FRF,Export,0.22724,Special,FOB,Last Known Destination,254,1973
+French Polynesia(1973),SITC Rev.1,XPF,Import,0.012512,Special,CIF,Origin,258,1973
+French Polynesia(1973),SITC Rev.1,XPF,Export,0.01263,Special,FOB,Last Known Destination,258,1973
+Guadeloupe(1973),SITC Rev.1,FRF,Import,0.25972,Special,CIF,Origin,312,1973
+Guadeloupe(1973),SITC Rev.1,FRF,Export,0.2731,Special,FOB,Last Known Destination,312,1973
+Guatemala(1973),SITC Rev.1,GTQ,Import,1,Special,CIF,Origin,320,1973
+Guatemala(1973),SITC Rev.1,GTQ,Export,1,Special,FOB,Last Known Destination,320,1973
+Guyana(1973),SITC Rev.1,GYD,Import,0.47026,Special,CIF,Origin,328,1973
+Guyana(1973),SITC Rev.1,GYD,Export,0.46812,General,FOB,Last Known Destination,328,1973
+Haiti(1973),SITC Rev.1,HTG,Import,0.2,General,CIF,Origin,332,1973
+Haiti(1973),SITC Rev.1,HTG,Export,0.2,General,FOB,Last Known Destination,332,1973
+Honduras(1973),SITC Rev.1,USD,Import,1,Special,CIF,Origin,340,1973
+Honduras(1973),SITC Rev.1,HNL,Export,0.5,Special,FOB,Last Known Destination,340,1973
+"India, excl. Sikkim(1973)",SITC Rev.1,INR,Import,0.130255,General,CIF,Consignment,356,1973
+"India, excl. Sikkim(1973)",SITC Rev.1,INR,Export,0.13055,General,FOB,Last Known Destination,356,1973
+Indonesia(1973),SITC Rev.1,USD,Import,1,Special,CIF,Origin,360,1973
+Indonesia(1973),SITC Rev.1,USD,Export,1,Special,FOB,Last Known Destination,360,1973
+Iran(1973),SITC Rev.1,IRR,Import,0.14509,Special,CIF,Purchase,364,1973
+Iran(1973),SITC Rev.1,IRR,Export,0.14509,Special,FOB,Consignment,364,1973
+Iraq(1973),SITC Rev.1,IQD,Import,3.32372,Special,CIF,Origin,368,1973
+Iraq(1973),SITC Rev.1,IQD,Export,3.34127,General,FOB,Last Known Destination,368,1973
+Israel(1973),SITC Rev.1,USD,Import,1,Special,CIF,Purchase,376,1973
+Israel(1973),SITC Rev.1,USD,Export,1,Special,FOB,Last Known Destination,376,1973
+Jamaica(1973),SITC Rev.1,JMD,Import,1.1,Special,CIF,Origin,388,1973
+Jamaica(1973),SITC Rev.1,JMD,Export,1.1,Special,FOB,Last Known Destination,388,1973
+Japan(1973),SITC Rev.1,JPY,Import,0.368244,General,CIF,Origin,392,1973
+Japan(1973),SITC Rev.1,JPY,Export,0.368157,General,FOB,Last Known Destination,392,1973
+Jordan(1973),SITC Rev.1,JOD,Import,3.03041,Special,CIF,Origin,400,1973
+Jordan(1973),SITC Rev.1,JOD,Export,3.0285,Special,FOB,Last Known Destination,400,1973
+Kiribati(1973),SITC Rev.1,AUD,Import,1.42268,Special,CIF,Origin,296,1973
+Kiribati(1973),SITC Rev.1,AUD,Export,1.4226,Special,FOB,Last Known Destination,296,1973
+Kuwait(1973),SITC Rev.1,KWD,Import,3.35562,Special,CIF,Origin,414,1973
+Kuwait(1973),SITC Rev.1,KWD,Export,3.35447,Special,FOB,Last Known Destination,414,1973
+Lao People's Dem. Rep.(1973),SITC Rev.1,LAK,Import,0.166667,Special,FOB,Origin,418,1973
+Lao People's Dem. Rep.(1973),SITC Rev.1,LAK,Export,0.166667,Special,FOB,Last Known Destination,418,1973
+Myanmar(1973),SITC Rev.1,MMK,Import,0.203372,General,CIF,Origin,104,1973
+Myanmar(1973),SITC Rev.1,MMK,Export,0.20418,General,FOB,Consignment,104,1973
+Samoa(1973),SITC Rev.1,WST,Import,1.4831,General,CIF,Origin,882,1973
+Samoa(1973),SITC Rev.1,WST,Export,1.482744,General,FOB,Last Known Destination,882,1973
+Solomon Isds(1973),SITC Rev.1,AUD,Import,1.42612,Special,CIF,Origin,90,1973
+Solomon Isds(1973),SITC Rev.1,AUD,Export,1.44166,Special,FOB,Last Known Destination,90,1973
+Somalia(1973),SITC Rev.1,SOS,Import,0.159512,Special,CIF,Origin,706,1973
+Somalia(1973),SITC Rev.1,SOS,Export,0.15928,Special,FOB,Last Known Destination,706,1973
+Vanuatu(1973),SITC Rev.1,VUV,Import,1.2391,General,CIF,Consignment,548,1973
+Vanuatu(1973),SITC Rev.1,VUV,Export,1.2391,General,FOB,Last Known Destination,548,1973
+Lebanon(1973),SITC Rev.1,LBP,Import,0.38607,Special,CIF,Origin,422,1973
+Lebanon(1973),SITC Rev.1,LBP,Export,0.38607,Special,FOB,Consignment,422,1973
+Libya(1973),SITC Rev.1,LYD,Import,3.33839,General,CIF,Origin,434,1973
+Libya(1973),SITC Rev.1,LYD,Export,3.3374,General,FOB,Last Known Destination,434,1973
+Malaysia(1973),SITC Rev.1,MYR,Import,0.411613,General,CIF,Origin,458,1973
+Malaysia(1973),SITC Rev.1,MYR,Export,0.41232,General,FOB,Last Known Destination,458,1973
+Martinique(1973),SITC Rev.1,FRF,Import,0.225486,Special,CIF,Origin,474,1973
+Martinique(1973),SITC Rev.1,FRF,Export,0.22619,Special,FOB,Last Known Destination,474,1973
+Paraguay(1973),SITC Rev.1,USD,Import,1,Special,CIF,Consignment,600,1973
+Paraguay(1973),SITC Rev.1,USD,Export,1,Special,FOB,Last Known Destination,600,1973
+Mexico(1973),SITC Rev.1,MXN,Import,0.8,General,CIF,Consignment,484,1973
+Mexico(1973),SITC Rev.1,MXN,Export,0.8,General,FOB,Consignment,484,1973
+Morocco(1973),SITC Rev.1,MAD,Import,0.234782,Special,CIF,Origin,504,1973
+Morocco(1973),SITC Rev.1,MAD,Export,0.234022,Special,FOB,Last Known Destination,504,1973
+USA (before 1981)(1973),SITC Rev.1,USD,Import,1,General,FOB,Origin,841,1973
+USA (before 1981)(1973),SITC Rev.1,USD,Export,1,General,FOB,Last Known Destination,841,1973
+Neth. Antilles and Aruba(1973),SITC Rev.1,ANG,Import,0.558659,Special,FOB,Consignment,532,1973
+Neth. Antilles and Aruba(1973),SITC Rev.1,ANG,Export,0.558659,Special,FOB,Last Known Destination,532,1973
+New Zealand(1973),SITC Rev.1,NZD,Import,1.3687,General,CIF,Origin,554,1973
+New Zealand(1973),SITC Rev.1,NZD,Export,1.357623,General,FOB,Last Known Destination,554,1973
+Nicaragua(1973),SITC Rev.1,USD,Import,1,General,CIF,Origin,558,1973
+Nicaragua(1973),SITC Rev.1,USD,Export,1,General,FOB,Last Known Destination,558,1973
+Algeria(1973),SITC Rev.1,DZD,Import,0.254507,Special,CIF,Origin,12,1973
+Algeria(1973),SITC Rev.1,DZD,Export,0.25486,Special,FOB,Consignment,12,1973
+Tunisia(1973),SITC Rev.1,TND,Import,2.2865,Special,CIF,Origin,788,1973
+Tunisia(1973),SITC Rev.1,TND,Export,2.2863,General,FOB,Last Known Destination,788,1973
+Bermuda(1973),SITC Rev.1,BMD,Import,1,General,CIF,Origin,60,1973
+Bermuda(1973),SITC Rev.1,BMD,Export,1,General,FOB,Last Known Destination,60,1973
+Papua New Guinea(1973),SITC Rev.1,AUD,Import,1.47533,General,CIF,Origin,598,1973
+Papua New Guinea(1973),SITC Rev.1,AUD,Export,1.47332,General,FOB,Last Known Destination,598,1973
+Rep. of Korea(1973),SITC Rev.1,USD,Import,1,Special,CIF,Origin,410,1973
+Rep. of Korea(1973),SITC Rev.1,USD,Export,1,General,FOB,Last Known Destination,410,1973
+Turkey(1973),SITC Rev.1,TRL,Import,0.70028,Special,CIF,Origin,792,1973
+Turkey(1973),SITC Rev.1,TRL,Export,0.73019,Special,FOB,Last Known Destination,792,1973
+Qatar(1973),SITC Rev.1,QAR,Import,0.24991,General,CIF,Origin,634,1973
+Qatar(1973),SITC Rev.1,QAR,Export,0.24989,General,FOB,Last Known Destination,634,1973
+Venezuela(1973),SITC Rev.1,USD,Import,1,General,FOB,Origin,862,1973
+Venezuela(1973),SITC Rev.1,USD,Export,1,General,FOB,Consignment,862,1973
+Pakistan(1973),SITC Rev.1,PKR,Import,0.099508,General,CIF,Origin,586,1973
+Pakistan(1973),SITC Rev.1,PKR,Export,0.09932,General,FOB,Consignment,586,1973
+Peru(1973),SITC Rev.1,USD,Import,1,Special,CIF,Origin,604,1973
+Peru(1973),SITC Rev.1,USD,Export,1,Special,FOB,Last Known Destination,604,1973
+Philippines(1973),SITC Rev.1,USD,Import,1,General,CIF,Origin,608,1973
+Philippines(1973),SITC Rev.1,USD,Export,1,General,NULL,Last Known Destination,608,1973
+Réunion(1973),SITC Rev.1,FRF,Import,0.226463,Special,CIF,Origin,638,1973
+Réunion(1973),SITC Rev.1,FRF,Export,0.22516,Special,FOB,Last Known Destination,638,1973
+Saint Lucia(1973),SITC Rev.1,XCD,Import,0.487301,Special,CIF,Origin,662,1973
+Saint Lucia(1973),SITC Rev.1,XCD,Export,0.510808,General,FOB,Last Known Destination,662,1973
+Singapore(1973),SITC Rev.1,SGD,Import,0.405157,General,CIF,Origin,702,1973
+Singapore(1973),SITC Rev.1,SGD,Export,0.40528,General,FOB,Last Known Destination,702,1973
+Suriname(1973),SITC Rev.1,SRG,Import,0.558659,General,CIF,Origin,740,1973
+Suriname(1973),SITC Rev.1,SRG,Export,0.55865,General,FOB,Last Known Destination,740,1973
+Thailand(1973),SITC Rev.1,THB,Import,0.4915,General,CIF,Origin,764,1973
+Thailand(1973),SITC Rev.1,THB,Export,0.4905,General,FOB,Consignment,764,1973
+Trinidad and Tobago(1973),SITC Rev.1,TTD,Import,0.506525,Special,CIF,Origin,780,1973
+Trinidad and Tobago(1973),SITC Rev.1,TTD,Export,0.506026,Special,FOB,Last Known Destination,780,1973
+US Virgin Isds(1973),SITC Rev.1,USD,Import,1,General,FOB,Origin,850,1973
+US Virgin Isds(1973),SITC Rev.1,USD,Export,1,General,FOB,Last Known Destination,850,1973

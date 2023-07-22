@@ -1,0 +1,307 @@
+reporter,reported_classification,reported_currency,trade_flow,currency_conversion_factor,trade_system,valuation,partner,r,y
+Albania(2021),HS2017,ALL,Import,0.00966,Special,CIF,Origin,8,2021
+Albania(2021),HS2017,ALL,Export,0.00966,Special,FOB,Last Known Destination,8,2021
+Andorra(2021),HS2017,EUR,Import,1.18254,General,CIF,Origin,20,2021
+Andorra(2021),HS2017,EUR,Export,1.176319,General,FOB,Last Known Destination,20,2021
+Angola(2021),HS2017,AOA,Import,0.001584,Special,CIF,Origin,24,2021
+Angola(2021),HS2017,AOA,Export,0.001584,Special,FOB,Last Known Destination,24,2021
+Argentina(2021),HS2017,USD,Import,1,Special,CIF,Origin,32,2021
+Argentina(2021),HS2017,USD,Export,1,Special,FOB,Last Known Destination,32,2021
+Armenia(2021),HS2017,USD,Import,1,General,CIF,Origin,51,2021
+Armenia(2021),HS2017,USD,Export,1,General,FOB,Last Known Destination,51,2021
+Aruba(2021),HS2012,AWG,Import,0.558659,General,CIF,Origin,533,2021
+Aruba(2021),HS2012,AWG,Export,0.558659,General,FOB,Last Known Destination,533,2021
+Australia(2021),HS2017,AUD,Import,0.751188,General,FOB,Origin,36,2021
+Australia(2021),HS2017,AUD,Export,0.751188,General,FOB,Last Known Destination,36,2021
+Austria(2021),HS2017,EUR,Import,1.18274,Special,CIF,Origin,40,2021
+Austria(2021),HS2017,EUR,Export,1.18274,Special,FOB,Last Known Destination,40,2021
+Azerbaijan(2021),HS2017,USD,Import,1,General,CIF,Origin,31,2021
+Azerbaijan(2021),HS2017,USD,Export,1,General,FOB,Last Known Destination,31,2021
+Bahrain(2021),HS2017,BHD,Import,2.659574,General,CIF,Origin,48,2021
+Bahrain(2021),HS2017,BHD,Export,2.659574,General,FOB,Last Known Destination,48,2021
+Barbados(2021),HS2017,BBD,Import,0.5,General,CIF,Origin,52,2021
+Barbados(2021),HS2017,BBD,Export,0.5,General,FOB,Last Known Destination,52,2021
+Belarus(2021),HS2017,USD,Import,1,General,CIF,Origin,112,2021
+Belarus(2021),HS2017,USD,Export,1,General,FOB,Last Known Destination,112,2021
+Belgium(2021),HS2017,EUR,Import,1.18274,Special,CIF,Origin/Consignment for Intra EU,56,2021
+Belgium(2021),HS2017,EUR,Export,1.18274,Special,FOB,Last Known Destination,56,2021
+Belize(2021),HS2017,BZD,Import,0.5,General,CIF,Origin,84,2021
+Belize(2021),HS2017,BZD,Export,0.5,General,FOB,Last Known Destination,84,2021
+Benin(2021),HS2017,XOF,Import,0.001803,General,CIF,Origin,204,2021
+Benin(2021),HS2017,XOF,Export,0.001803,General,FOB,Last Known Destination,204,2021
+Bermuda(2021),HS2017,USD,Import,1,General,FOB,Origin,60,2021
+Bermuda(2021),HS2017,USD,Export,1,General,FOB,Last Known Destination,60,2021
+Bolivia (Plurinational State of)(2021),HS2017,USD,Import,1,General,CIF,Origin,68,2021
+Bolivia (Plurinational State of)(2021),HS2017,USD,Export,1,General,FOB,Last Known Destination,68,2021
+Bosnia Herzegovina(2021),HS2017,USD,Import,1,Special,CIF,Origin,70,2021
+Bosnia Herzegovina(2021),HS2017,USD,Export,1,Special,FOB,Last Known Destination,70,2021
+Botswana(2021),HS2017,USD,Import,1,General,CIF,Origin,72,2021
+Botswana(2021),HS2017,USD,Export,1,General,FOB,Last Known Destination,72,2021
+Brazil(2021),HS2017,USD,Import,1,Special,CIF/FOB,Origin,76,2021
+Brazil(2021),HS2017,USD,Export,1,Special,FOB,Last Known Destination,76,2021
+Brunei Darussalam(2021),HS2017,USD,Import,1,Special,CIF,Origin,96,2021
+Brunei Darussalam(2021),HS2017,USD,Export,1,Special,FOB,Last Known Destination,96,2021
+Bulgaria(2021),HS2017,BGL,Import,0.604677,Special,CIF,Consignment,100,2021
+Bulgaria(2021),HS2017,BGL,Export,0.604677,Special,FOB,Last Known Destination,100,2021
+Burkina Faso(2021),HS2017,XAF,Import,0.001803,General,CIF,Origin,854,2021
+Burkina Faso(2021),HS2017,XAF,Export,0.001803,General,FOB,Last Known Destination,854,2021
+Burundi(2021),HS2017,BIF,Import,0.000506,General,CIF,Origin,108,2021
+Burundi(2021),HS2017,BIF,Export,0.000506,General,FOB,Last Known Destination,108,2021
+Cambodia(2021),HS2017,USD,Import,1,General,CIF,Origin,116,2021
+Cambodia(2021),HS2017,USD,Export,1,General,FOB,Last Known Destination,116,2021
+Canada(2021),HS2017,CAD,Import,0.797526,General,FOB,Origin,124,2021
+Canada(2021),HS2017,CAD,Export,0.797526,General,FOB,Last Known Destination,124,2021
+Cayman Isds(2021),HS2017,KYD,Import,1.200005,General,CIF,Origin,136,2021
+Cayman Isds(2021),HS2017,KYD,Export,1.200005,General,FOB,Last Known Destination,136,2021
+Chile(2021),HS2017,USD,Import,1,General,CIF/FOB,Consignment,152,2021
+Chile(2021),HS2017,USD,Export,1,General,FOB,Last Known Destination,152,2021
+China(2021),HS2017,USD,Import,1,General,CIF,Origin,156,2021
+China(2021),HS2017,USD,Export,1,General,FOB,Last Known Destination,156,2021
+"China, Hong Kong SAR(2021)",HS2017,HKD,Import,0.128646,General,CIF,Consignment,344,2021
+"China, Hong Kong SAR(2021)",HS2017,HKD,Export,0.128646,General,FOB,Last Known Destination,344,2021
+"China, Macao SAR(2021)",HS2017,MOP,Import,0.124914,General,CIF,Origin,446,2021
+"China, Macao SAR(2021)",HS2017,MOP,Export,0.124914,General,FOB,Last Known Destination,446,2021
+Georgia(2021),HS2017,USD,Import,1,General,CIF,Consignment,268,2021
+Georgia(2021),HS2017,USD,Export,1,General,FOB,Last Known Destination,268,2021
+Kazakhstan(2021),HS2017,USD,Import,1,General,CIF,Origin,398,2021
+Kazakhstan(2021),HS2017,USD,Export,1,General,FOB,Last Known Destination,398,2021
+Kyrgyzstan(2021),HS2017,USD,Import,1,General,CIF,Origin,417,2021
+Kyrgyzstan(2021),HS2017,USD,Export,1,General,FOB,Last Known Destination,417,2021
+Rep. of Moldova(2021),HS2017,USD,Import,1,General,CIF,Origin,498,2021
+Rep. of Moldova(2021),HS2017,USD,Export,1,General,FOB,Last Known Destination,498,2021
+Russian Federation(2021),HS2017,USD,Import,1,General,CIF,Origin,643,2021
+Russian Federation(2021),HS2017,USD,Export,1,General,FOB,Last Known Destination,643,2021
+Tajikistan(2021),HS2012,USD,Import,1,General,CIF,Origin,762,2021
+Tajikistan(2021),HS2012,USD,Export,1,General,FOB,Consignment,762,2021
+Ukraine(2021),HS2017,USD,Import,1,General,CIF,Origin,804,2021
+Ukraine(2021),HS2017,USD,Export,1,General,FOB,Last Known Destination,804,2021
+Uzbekistan(2021),HS2017,USD,Import,1,General,CIF,Origin,860,2021
+Uzbekistan(2021),HS2017,USD,Export,1,General,FOB,Last Known Destination,860,2021
+Colombia(2021),HS2017,USD,Import,1,Special,CIF,Origin,170,2021
+Colombia(2021),HS2017,USD,Export,1,Special,FOB,Last Known Destination,170,2021
+Comoros(2021),HS2017,USD,Import,1,General,CIF,Consignment,174,2021
+Comoros(2021),HS2017,USD,Export,1,General,FOB,Last Known Destination,174,2021
+Dem. Rep. of the Congo(2021),HS2017,USD,Import,1,General,CIF,Origin,180,2021
+Dem. Rep. of the Congo(2021),HS2017,USD,Export,1,General,FOB,Last Known Destination,180,2021
+Egypt(2021),HS2012,EGP,Import,0.06392,General,CIF,Origin,818,2021
+Egypt(2021),HS2012,EGP,Export,0.06392,General,FOB,Last Known Destination,818,2021
+Ethiopia(2021),HS2017,USD,Import,1,General,CIF,Origin,231,2021
+Ethiopia(2021),HS2017,USD,Export,1,General,FOB,Last Known Destination,231,2021
+Kenya(2021),HS2017,KES,Import,0.009121,General,CIF,Origin,404,2021
+Kenya(2021),HS2017,KES,Export,0.009121,General,FOB,Last Known Destination,404,2021
+Madagascar(2021),HS2017,MGA,Import,0.000261,General,CIF,Origin,450,2021
+Madagascar(2021),HS2017,MGA,Export,0.000261,General,FOB,Last Known Destination,450,2021
+Malawi(2021),HS2017,MWK,Import,0.001241,General,CIF,Origin,454,2021
+Malawi(2021),HS2017,MWK,Export,0.001241,General,FOB,Last Known Destination,454,2021
+Mauritius(2021),HS2017,MUR,Import,0.023985,General,CIF/FOB,Origin,480,2021
+Mauritius(2021),HS2017,MUR,Export,0.023985,General,FOB,Last Known Destination,480,2021
+Namibia(2021),HS2017,NAD,Import,0.067665,General,CIF,Origin,516,2021
+Namibia(2021),HS2017,NAD,Export,0.067665,General,FOB,Last Known Destination,516,2021
+Rwanda(2021),HS2012,USD,Import,1,General,CIF,Origin,646,2021
+Rwanda(2021),HS2012,USD,Export,1,General,FOB,Last Known Destination,646,2021
+Seychelles(2021),HS2017,SCR,Import,0.0591,General,CIF,Origin,690,2021
+Seychelles(2021),HS2017,SCR,Export,0.0591,General,FOB,Last Known Destination,690,2021
+Eswatini(2021),HS2017,USD,Import,1,General,CIF,Origin,748,2021
+Eswatini(2021),HS2017,USD,Export,1,General,FOB,Last Known Destination,748,2021
+United Rep. of Tanzania(2021),HS2017,USD,Import,1,General,CIF,Origin,834,2021
+United Rep. of Tanzania(2021),HS2017,USD,Export,1,General,FOB,Last Known Destination,834,2021
+Zambia(2021),HS2017,ZMK,Import,0.049954,General,CIF,Origin,894,2021
+Zambia(2021),HS2017,ZMK,Export,0.049954,General,FOB,Last Known Destination,894,2021
+Zimbabwe(2021),HS2017,USD,Import,1,General,CIF,Origin,716,2021
+Zimbabwe(2021),HS2017,USD,Export,1,General,FOB,Last Known Destination,716,2021
+Congo(2021),HS2017,USD,Import,1,General,CIF,Origin,178,2021
+Congo(2021),HS2017,USD,Export,1,General,FOB,Last Known Destination,178,2021
+Costa Rica(2021),HS2017,USD,Import,1,Special,CIF,Origin,188,2021
+Costa Rica(2021),HS2017,USD,Export,1,Special,FOB,Last Known Destination,188,2021
+Croatia(2021),HS2017,USD,Import,1,Special,CIF,Origin,191,2021
+Croatia(2021),HS2017,USD,Export,1,Special,FOB,Last Known Destination,191,2021
+Cyprus(2021),HS2017,EUR,Import,1.18274,General,CIF,Origin/Consignment for Intra EU,196,2021
+Cyprus(2021),HS2017,EUR,Export,1.18274,General,FOB,Last Known Destination,196,2021
+Czechia(2021),HS2017,USD,Import,1,Special,CIF,Origin,203,2021
+Czechia(2021),HS2017,USD,Export,1,Special,FOB,Last Known Destination,203,2021
+Denmark(2021),HS2017,DKK,Import,0.159055,General,CIF,Origin/Consignment for Intra EU,208,2021
+Denmark(2021),HS2017,DKK,Export,0.159055,General,FOB,Last Known Destination,208,2021
+Dominican Rep.(2021),HS2017,USD,Import,1,General,CIF/FOB,Origin,214,2021
+Dominican Rep.(2021),HS2017,USD,Export,1,General,FOB,Last Known Destination,214,2021
+Gambia(2021),HS2017,USD,Import,1,General,CIF,Origin,270,2021
+Gambia(2021),HS2017,USD,Export,1,General,FOB,Last Known Destination,270,2021
+Niger(2021),HS2017,USD,Import,1,General,CIF,Origin,562,2021
+Niger(2021),HS2017,USD,Export,1,General,FOB,Last Known Destination,562,2021
+Nigeria(2021),HS2012,NGN,Import,0.002498,General,CIF,Origin,566,2021
+Nigeria(2021),HS2012,NGN,Export,0.002498,General,FOB,Last Known Destination,566,2021
+Senegal(2021),HS2017,XOF,Import,0.001803,General,CIF,Origin,686,2021
+Senegal(2021),HS2017,XOF,Export,0.001803,General,FOB,Last Known Destination,686,2021
+Togo(2021),HS2017,XOF,Import,0.001803,General,CIF,Origin,768,2021
+Togo(2021),HS2017,XOF,Export,0.001803,General,FOB,Last Known Destination,768,2021
+Ecuador(2021),HS2017,USD,Import,1,Special,CIF,Origin,218,2021
+Ecuador(2021),HS2017,USD,Export,1,Special,FOB,Last Known Destination,218,2021
+El Salvador(2021),HS2017,USD,Import,1,General,CIF,Origin,222,2021
+El Salvador(2021),HS2017,USD,Export,1,General,FOB,Last Known Destination,222,2021
+Estonia(2021),HS2017,USD,Import,1,General Extra-EU/Special Intra-EU,CIF,Consignment,233,2021
+Estonia(2021),HS2017,USD,Export,1,General Extra-EU/Special Intra-EU,FOB,Last Known Destination,233,2021
+EU(2021),HS2017,EUR,Import,1.18243,Special,CIF,Origin,97,2021
+EU(2021),HS2017,EUR,Export,1.181708,Special,FOB,Last Known Destination,97,2021
+Albania(2021),HS2017,ALL,Import,0.00966,Special,CIF,Origin,8,2021
+Albania(2021),HS2017,ALL,Export,0.00966,Special,FOB,Last Known Destination,8,2021
+Hungary(2021),HS2017,USD,Import,1,Special,CIF,Consignment,348,2021
+Hungary(2021),HS2017,USD,Export,1,Special,FOB,Last Known Destination,348,2021
+Poland(2021),HS2017,USD,Import,1,Special,CIF,Origin,616,2021
+Poland(2021),HS2017,USD,Export,1,Special,FOB,Last Known Destination,616,2021
+Romania(2021),HS2017,USD,Import,1,Special,CIF,Origin/Consignment for Intra EU,642,2021
+Romania(2021),HS2017,USD,Export,1,Special,FOB,Last Known Destination,642,2021
+Slovakia(2021),HS2017,EUR,Import,1.18274,Special,CIF,Origin,703,2021
+Slovakia(2021),HS2017,EUR,Export,1.18274,Special,FOB,Last Known Destination,703,2021
+Iceland(2021),HS2017,ISK,Import,0.007875,Special,CIF,Origin,352,2021
+Iceland(2021),HS2017,ISK,Export,0.007875,Special,FOB,Last Known Destination,352,2021
+Norway(2021),HS2017,NOK,Import,0.116414,General,CIF,Origin,579,2021
+Norway(2021),HS2017,NOK,Export,0.116414,General,FOB,Last Known Destination,579,2021
+Switzerland(2021),HS2017,CHF,Import,1.094153,Special,CIF,Origin,757,2021
+Switzerland(2021),HS2017,CHF,Export,1.094153,Special,FOB,Last Known Destination,757,2021
+Latvia(2021),HS2017,EUR,Import,1.18274,Special,CIF,Origin/Consignment for Intra EU,428,2021
+Latvia(2021),HS2017,EUR,Export,1.18274,Special,FOB,Last Known Destination,428,2021
+Lithuania(2021),HS2017,USD,Import,1,Special,CIF,Origin/Consignment for Intra EU,440,2021
+Lithuania(2021),HS2017,USD,Export,1,Special,FOB,Last Known Destination,440,2021
+Finland(2021),HS2017,EUR,Import,1.18274,Special,CIF,Origin,246,2021
+Finland(2021),HS2017,EUR,Export,1.18274,Special,FOB,Last Known Destination,246,2021
+France(2021),HS2017,EUR,Import,1.18274,Special,CIF,Origin,251,2021
+France(2021),HS2017,EUR,Export,1.18274,Special,FOB,Last Known Destination,251,2021
+Germany(2021),HS2017,EUR,Import,1.180852,Special,CIF,Origin,276,2021
+Germany(2021),HS2017,EUR,Export,1.180516,Special,FOB,Last Known Destination,276,2021
+Greece(2021),HS2017,EUR,Import,1.18274,Special,CIF,Origin/Consignment for Intra EU,300,2021
+Greece(2021),HS2017,EUR,Export,1.18274,Special,FOB,Last Known Destination,300,2021
+Ireland(2021),HS2017,EUR,Import,1.18274,General,CIF,Origin,372,2021
+Ireland(2021),HS2017,EUR,Export,1.18274,General,FOB,Last Known Destination,372,2021
+Italy(2021),HS2017,EUR,Import,1.18274,Special,CIF,Origin/Consignment for Intra EU,381,2021
+Italy(2021),HS2017,EUR,Export,1.18274,Special,FOB,Last Known Destination,381,2021
+Luxembourg(2021),HS2017,EUR,Import,1.18274,Special,CIF,Origin/Consignment for Intra EU,442,2021
+Luxembourg(2021),HS2017,EUR,Export,1.18274,Special,FOB,Last Known Destination,442,2021
+Malta(2021),HS2017,EUR,Import,1.18274,General,CIF,Origin,470,2021
+Malta(2021),HS2017,EUR,Export,1.18274,General,FOB,Last Known Destination,470,2021
+Netherlands(2021),HS2017,EUR,Import,1.18274,Special,CIF,Origin/Consignment for Intra EU,528,2021
+Netherlands(2021),HS2017,EUR,Export,1.18274,Special,FOB,Last Known Destination,528,2021
+Portugal(2021),HS2017,EUR,Import,1.18274,Special,CIF,Origin/Consignment for Intra EU,620,2021
+Portugal(2021),HS2017,EUR,Export,1.18274,Special,FOB,Last Known Destination,620,2021
+Slovenia(2021),HS2017,USD,Import,1,Special,CIF,Origin,705,2021
+Slovenia(2021),HS2017,USD,Export,1,Special,FOB,Last Known Destination,705,2021
+Spain(2021),HS2017,EUR,Import,1.18274,Special,CIF,Origin/Consignment for Intra EU,724,2021
+Spain(2021),HS2017,EUR,Export,1.18274,Special,FOB,Last Known Destination,724,2021
+Sweden(2021),HS2017,SEK,Import,0.116597,Special,CIF,Origin/Consignment for Intra EU,752,2021
+Sweden(2021),HS2017,SEK,Export,0.116597,Special,FOB,Last Known Destination,752,2021
+North Macedonia(2021),HS2017,USD,Import,1,Special,CIF,Origin,807,2021
+North Macedonia(2021),HS2017,USD,Export,1,Special,FOB,Last Known Destination,807,2021
+United Kingdom(2021),HS2017,GBP,Import,1.375393,General,CIF,Origin/Consignment for Intra EU,826,2021
+United Kingdom(2021),HS2017,GBP,Export,1.375393,General,FOB,Last Known Destination,826,2021
+Fiji(2021),HS2017,FJD,Import,0.482944,General,CIF,Origin,242,2021
+Fiji(2021),HS2017,FJD,Export,0.482944,General,FOB,Last Known Destination,242,2021
+French Polynesia(2021),HS2017,XPF,Import,0.009913,Special,CIF,Origin,258,2021
+French Polynesia(2021),HS2017,XPF,Export,0.009913,Special,FOB,Last Known Destination,258,2021
+Grenada(2021),HS2012,XCD,Import,0.37037,Special,CIF,Origin,308,2021
+Grenada(2021),HS2012,XCD,Export,0.37037,Special,FOB,Last Known Destination,308,2021
+Guatemala(2021),HS2017,USD,Import,1,Special,CIF,Origin,320,2021
+Guatemala(2021),HS2017,USD,Export,1,Special,FOB,Last Known Destination,320,2021
+Guyana(2021),HS2017,GYD,Import,0.004796,Special,CIF,Origin,328,2021
+Guyana(2021),HS2017,GYD,Export,0.004796,Special,FOB,Last Known Destination,328,2021
+Honduras(2021),HS2017,USD,Import,1,Special,CIF,Origin,340,2021
+Honduras(2021),HS2017,USD,Export,1,Special,FOB,Last Known Destination,340,2021
+India(2021),HS2017,INR,Import,0.013526,General,CIF,Origin,699,2021
+India(2021),HS2017,INR,Export,0.013526,General,FOB,Last Known Destination,699,2021
+Indonesia(2021),HS2017,USD,Import,1,General,CIF,Origin,360,2021
+Indonesia(2021),HS2017,USD,Export,1,General,FOB,Last Known Destination,360,2021
+Israel(2021),HS2017,USD,Import,1,Special,CIF,Origin,376,2021
+Israel(2021),HS2017,USD,Export,1,Special,FOB,Sale,376,2021
+Jamaica(2021),HS2017,USD,Import,1,Special,CIF,Origin,388,2021
+Jamaica(2021),HS2017,USD,Export,1,Special,FOB,Last Known Destination,388,2021
+Japan(2021),HS2017,JPY,Import,0.009111,General,CIF,Origin,392,2021
+Japan(2021),HS2017,JPY,Export,0.009111,General,FOB,Last Known Destination,392,2021
+Jordan(2021),HS2017,JOD,Import,1.408451,General,CIF,Origin,400,2021
+Jordan(2021),HS2017,JOD,Export,1.408451,General,FOB,Last Known Destination,400,2021
+Kuwait(2021),HS2017,USD,Import,1,Special,CIF,Origin,414,2021
+Kuwait(2021),HS2017,USD,Export,1,Special,FOB,Last Known Destination,414,2021
+Lao People's Dem. Rep.(2021),HS2017,USD,Import,1,Special,CIF,Origin,418,2021
+Lao People's Dem. Rep.(2021),HS2017,USD,Export,1,Special,FOB,Last Known Destination,418,2021
+Lesotho(2021),HS2017,LSL,Import,0.067643,General,CIF,Consignment,426,2021
+Lesotho(2021),HS2017,LSL,Export,0.067643,General,FOB,Last Known Destination,426,2021
+Maldives(2021),HS2017,MVR,Import,0.06505,General,CIF,Consignment,462,2021
+Maldives(2021),HS2017,MVR,Export,0.06505,General,FOB,Last Known Destination,462,2021
+Mauritania(2021),HS2017,USD,Import,1,General,CIF,Origin,478,2021
+Mauritania(2021),HS2017,USD,Export,1,General,FOB,Last Known Destination,478,2021
+Mozambique(2021),HS2017,USD,Import,1,General,CIF,Origin,508,2021
+Mozambique(2021),HS2017,USD,Export,1,General,FOB,Last Known Destination,508,2021
+Myanmar(2021),HS2017,USD,Import,1,General,CIF,Origin,104,2021
+Myanmar(2021),HS2017,USD,Export,1,General,FOB,Last Known Destination,104,2021
+Nepal(2021),HS2017,USD,Import,1,General,CIF,Origin,524,2021
+Nepal(2021),HS2017,USD,Export,1,General,FOB,Last Known Destination,524,2021
+Samoa(2021),HS2017,WST,Import,0.391222,General,CIF,Origin,882,2021
+Samoa(2021),HS2017,WST,Export,0.391222,General,FOB,Last Known Destination,882,2021
+Sao Tome and Principe(2021),HS2007,STD,Import,0.048635,Special,CIF,Origin,678,2021
+Sao Tome and Principe(2021),HS2007,STD,Export,0.048635,Special,FOB,Last Known Destination,678,2021
+Lebanon(2021),HS2017,USD,Import,1,General,CIF,Origin,422,2021
+Lebanon(2021),HS2017,USD,Export,1,General,FOB,Last Known Destination,422,2021
+Malaysia(2021),HS2017,MYR,Import,0.241354,General,CIF,Origin,458,2021
+Malaysia(2021),HS2017,MYR,Export,0.241354,General,FOB,Last Known Destination,458,2021
+Paraguay(2021),HS2017,USD,Import,1,General,CIF/FOB,Origin,600,2021
+Paraguay(2021),HS2017,USD,Export,1,General,FOB,Last Known Destination,600,2021
+Uruguay(2021),HS2017,USD,Import,1,Special,CIF,Origin,858,2021
+Uruguay(2021),HS2017,USD,Export,1,Special,FOB,Last Known Destination,858,2021
+Mexico(2021),HS2017,USD,Import,1,General,FOB,Origin,484,2021
+Mexico(2021),HS2017,USD,Export,1,General,FOB,Last Known Destination,484,2021
+Mongolia(2021),HS2017,USD,Import,1,General,CIF,Origin,496,2021
+Mongolia(2021),HS2017,USD,Export,1,General,FOB,Last Known Destination,496,2021
+Montenegro(2021),HS2017,EUR,Import,1.182905,Special,CIF,Origin,499,2021
+Montenegro(2021),HS2017,EUR,Export,1.182905,Special,FOB,Last Known Destination,499,2021
+Morocco(2021),HS2017,MAD,Import,0.111253,Special,CIF,Origin,504,2021
+Morocco(2021),HS2017,MAD,Export,0.111253,Special,FOB,Last Known Destination,504,2021
+USA(2021),HS2017,USD,Import,1,General,CIF,Origin,842,2021
+USA(2021),HS2017,USD,Export,1,General,FOB,Last Known Destination,842,2021
+New Zealand(2021),HS2017,NZD,Import,0.707314,General,CIF/FOB,Origin,554,2021
+New Zealand(2021),HS2017,NZD,Export,0.707314,General,FOB,Last Known Destination,554,2021
+Nicaragua(2021),HS2017,USD,Import,1,General,CIF,Origin,558,2021
+Nicaragua(2021),HS2017,USD,Export,1,General,FOB,Last Known Destination,558,2021
+Tunisia(2021),HS2017,TND,Import,0.35785,General,CIF,Origin,788,2021
+Tunisia(2021),HS2017,TND,Export,0.35785,General,FOB,Last Known Destination,788,2021
+Bermuda(2021),HS2017,USD,Import,1,General,FOB,Origin,60,2021
+Bermuda(2021),HS2017,USD,Export,1,General,FOB,Last Known Destination,60,2021
+Rep. of Korea(2021),HS2017,USD,Import,1,General,CIF,Origin,410,2021
+Rep. of Korea(2021),HS2017,USD,Export,1,General,FOB,Last Known Destination,410,2021
+Turkey(2021),HS2017,USD,Import,1,General,CIF/FOB,Origin,792,2021
+Turkey(2021),HS2017,USD,Export,1,General,FOB,Last Known Destination,792,2021
+Oman(2021),HS2017,OMR,Import,2.60078,General,CIF,Origin,512,2021
+Oman(2021),HS2017,OMR,Export,2.60078,General,FOB,Last Known Destination,512,2021
+Qatar(2021),HS2017,QAR,Import,0.274725,General,CIF,Origin,634,2021
+Qatar(2021),HS2017,QAR,Export,0.274725,General,FOB,Last Known Destination,634,2021
+Saudi Arabia(2021),HS2017,SAR,Import,0.266667,General,CIF,Origin,682,2021
+Saudi Arabia(2021),HS2017,SAR,Export,0.266667,General,FOB,Last Known Destination,682,2021
+United Arab Emirates(2021),HS2017,AED,Import,0.272294,Special,CIF,Origin,784,2021
+United Arab Emirates(2021),HS2017,AED,Export,0.272294,Special,FOB,Last Known Destination,784,2021
+"Other Asia, nes(2021)",HS2017,USD,Import,1,Special,CIF,Origin,490,2021
+"Other Asia, nes(2021)",HS2017,USD,Export,1,Special,FOB,Last Known Destination,490,2021
+Pakistan(2021),HS2017,PKR,Import,0.006138,General,CIF,Origin,586,2021
+Pakistan(2021),HS2017,PKR,Export,0.006138,General,FOB,Last Known Destination,586,2021
+Panama(2021),HS2017,PAB,Import,1,Special,CIF,Origin,591,2021
+Panama(2021),HS2017,PAB,Export,1,Special,FOB,Last Known Destination,591,2021
+Peru(2021),HS2017,USD,Import,1,Special,CIF,Origin,604,2021
+Peru(2021),HS2017,USD,Export,1,Special,FOB,Last Known Destination,604,2021
+Philippines(2021),HS2017,USD,Import,1,General,CIF,Origin,608,2021
+Philippines(2021),HS2017,USD,Export,1,General,FOB,Last Known Destination,608,2021
+Botswana(2021),HS2017,USD,Import,1,General,CIF,Origin,72,2021
+Botswana(2021),HS2017,USD,Export,1,General,FOB,Last Known Destination,72,2021
+South Africa(2021),HS2017,ZAR,Import,0.067665,General,FOB,Origin,710,2021
+South Africa(2021),HS2017,ZAR,Export,0.067665,General,FOB,Last Known Destination,710,2021
+Saint Vincent and the Grenadines(2021),HS2007,XCD,Import,0.37037,Special,CIF,Origin,670,2021
+Saint Vincent and the Grenadines(2021),HS2007,XCD,Export,0.37037,Special,FOB,Last Known Destination,670,2021
+Serbia(2021),HS2017,USD,Import,1,General,CIF,Origin,688,2021
+Serbia(2021),HS2017,USD,Export,1,General,FOB,Last Known Destination,688,2021
+Singapore(2021),HS2017,SGD,Import,0.744334,General,CIF,Origin,702,2021
+Singapore(2021),HS2017,SGD,Export,0.744334,General,FOB,Last Known Destination,702,2021
+Sri Lanka(2021),HS2017,LKR,Import,0.005392,General,CIF,Origin,144,2021
+Sri Lanka(2021),HS2017,LKR,Export,0.005392,General,FOB,Last Known Destination,144,2021
+State of Palestine(2021),HS2012,USD,Import,1,General,CIF,Origin,275,2021
+State of Palestine(2021),HS2012,USD,Export,1,General,FOB,Last Known Destination,275,2021
+Suriname(2021),HS2007,USD,Import,1,General,CIF,Origin,740,2021
+Suriname(2021),HS2007,USD,Export,1,General,FOB,Last Known Destination,740,2021
+Thailand(2021),HS2017,USD,Import,1,Special,CIF,Origin,764,2021
+Thailand(2021),HS2017,USD,Export,1,Special,FOB,Last Known Destination,764,2021
+Trinidad and Tobago(2021),HS2012,TTD,Import,0.147961,Special,CIF,Origin,780,2021
+Trinidad and Tobago(2021),HS2012,TTD,Export,0.147961,Special,FOB,Last Known Destination,780,2021
+Viet Nam(2021),HS2017,USD,Import,1,General,CIF,Origin,704,2021
+Viet Nam(2021),HS2017,USD,Export,1,General,FOB,Last Known Destination,704,2021

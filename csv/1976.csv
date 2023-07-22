@@ -1,0 +1,269 @@
+reporter,reported_classification,reported_currency,trade_flow,currency_conversion_factor,trade_system,valuation,partner,r,y
+Afghanistan(1976),SITC Rev.1,USD,Import,1,General,CIF,Origin,4,1976
+Afghanistan(1976),SITC Rev.1,USD,Export,1,General,FOB,Last Known Destination,4,1976
+Algeria(1976),SITC Rev.2,DZD,Import,0.240092,Special,CIF,Origin,12,1976
+Algeria(1976),SITC Rev.2,DZD,Export,0.24014,Special,FOB,Consignment,12,1976
+Argentina(1976),SITC Rev.1,USD,Import,1,Special,CIF,Origin,32,1976
+Argentina(1976),SITC Rev.1,USD,Export,1,Special,FOB,Last Known Destination,32,1976
+Australia(1976),SITC Rev.1,AUD,Import,1.22423,General,FOB,Origin,36,1976
+Australia(1976),SITC Rev.1,AUD,Export,1.2247,General,FOB,Last Known Destination,36,1976
+Austria(1976),SITC Rev.1,ATS,Import,0.55916,Special,CIF,Origin,40,1976
+Austria(1976),SITC Rev.1,ATS,Export,0.55924,Special,FOB,Last Known Destination,40,1976
+Bahamas(1976),SITC Rev.1,BSD,Import,1,General,CIF,Origin,44,1976
+Bahamas(1976),SITC Rev.1,BSD,Export,1,General,FOB,Last Known Destination,44,1976
+Bahrain(1976),SITC Rev.1,BHD,Import,2.52775,Special,CIF,Origin,48,1976
+Bahrain(1976),SITC Rev.1,BHD,Export,2.527751,Special,FOB,Last Known Destination,48,1976
+Barbados(1976),SITC Rev.1,XCD,Import,0.49905,General,CIF,Origin,52,1976
+Barbados(1976),SITC Rev.1,XCD,Export,0.49905,General,FOB,Last Known Destination,52,1976
+Belgium-Luxembourg(1976),SITC Rev.1,BEF,Import,0.25939,Special,CIF,Origin,58,1976
+Belgium-Luxembourg(1976),SITC Rev.1,BEF,Export,0.25967,Special,FOB,Last Known Destination,58,1976
+Belize(1976),SITC Rev.1,BZD,Import,0.45155,General,CIF,Origin,84,1976
+Belize(1976),SITC Rev.1,BZD,Export,0.451552,General,FOB,Last Known Destination,84,1976
+Bermuda(1976),SITC Rev.1,BMD,Import,1,General,CIF,Origin,60,1976
+Bermuda(1976),SITC Rev.1,BMD,Export,1,General,FOB,Last Known Destination,60,1976
+Bolivia (Plurinational State of)(1976),SITC Rev.1,USD,Import,1,Special,CIF,Origin,68,1976
+Bolivia (Plurinational State of)(1976),SITC Rev.1,USD,Export,1,Special,FOB,Last Known Destination,68,1976
+Brazil(1976),SITC Rev.1,USD,Import,1,Special,CIF,Purchase,76,1976
+Brazil(1976),SITC Rev.1,USD,Export,1,General,FOB,Last Known Destination,76,1976
+Brunei Darussalam(1976),SITC Rev.1,BND,Import,0.393523,Special,CIF,Origin,96,1976
+Brunei Darussalam(1976),SITC Rev.1,BND,Export,0.39447,General,FOB,Last Known Destination,96,1976
+Burkina Faso(1976),SITC Rev.2,XOF,Import,0.42015,Special,CIF,Origin,854,1976
+Burkina Faso(1976),SITC Rev.2,XOF,Export,0.42014,Special,FOB,Last Known Destination,854,1976
+Burundi(1976),SITC Rev.2,BIF,Import,1.149,Special,CIF,Origin,108,1976
+Burundi(1976),SITC Rev.2,BIF,Export,1.1171,Special,FOB,Last Known Destination,108,1976
+Cameroon(1976),SITC Rev.2,XOF,Import,0.40749,Special,CIF,Origin,120,1976
+Cameroon(1976),SITC Rev.2,XOF,Export,0.41863,Special,FOB,Last Known Destination,120,1976
+Canada(1976),SITC Rev.1,CAD,Import,1.0146,General,FOB,Consignment,124,1976
+Canada(1976),SITC Rev.1,CAD,Export,1.014595,General,FOB,Consignment,124,1976
+Central African Rep.(1976),SITC Rev.2,XOF,Import,0.419343,Special,CIF,Origin,140,1976
+Central African Rep.(1976),SITC Rev.2,XOF,Export,0.4174,NULL,FOB,Last Known Destination,140,1976
+Chile(1976),SITC Rev.1,USD,Import,1,Special,CIF,Purchase,152,1976
+Chile(1976),SITC Rev.1,USD,Export,1,Special,FOB,Sale,152,1976
+"China, Hong Kong SAR(1976)",SITC Rev.1,HKD,Import,0.203128,General,CIF,Consignment,344,1976
+"China, Hong Kong SAR(1976)",SITC Rev.1,HKD,Export,0.20313,General,FOB,Last Known Destination,344,1976
+"China, Macao SAR(1976)",SITC Rev.2,MOP,Import,0.184781,Special,CIF,Origin,446,1976
+"China, Macao SAR(1976)",SITC Rev.2,MOP,Export,0.18612,Special,FOB,Last Known Destination,446,1976
+Colombia(1976),SITC Rev.1,USD,Import,1,Special,CIF,Origin,170,1976
+Colombia(1976),SITC Rev.1,USD,Export,1,Special,FOB,Last Known Destination,170,1976
+Dem. Rep. of the Congo(1976),SITC Rev.1,CDF,Import,1.23277,Special,CIF,Origin,180,1976
+Dem. Rep. of the Congo(1976),SITC Rev.1,CDF,Export,1.24421,Special,FOB,Last Known Destination,180,1976
+Egypt(1976),SITC Rev.1,EGP,Import,2.55558,Special,CIF,Consignment,818,1976
+Egypt(1976),SITC Rev.1,EGP,Export,2.555582,Special,FOB,Last Known Destination,818,1976
+Kenya(1976),SITC Rev.1,KES,Import,0.11948,General,CIF,Origin,404,1976
+Kenya(1976),SITC Rev.1,KES,Export,0.11948,General,FOB,Last Known Destination,404,1976
+Madagascar(1976),SITC Rev.2,MGF,Import,0.416753,Special,CIF,Origin,450,1976
+Madagascar(1976),SITC Rev.2,MGF,Export,0.41648,Special,FOB,Last Known Destination,450,1976
+Malawi(1976),SITC Rev.1,MWK,Import,1.09194,General,CIF,Origin,454,1976
+Malawi(1976),SITC Rev.1,MWK,Export,1.09178,General,FOB,Last Known Destination,454,1976
+Mauritius(1976),SITC Rev.1,MUR,Import,0.149559,General,CIF,Origin,480,1976
+Mauritius(1976),SITC Rev.1,MUR,Export,0.14976,General,FOB,Last Known Destination,480,1976
+Seychelles(1976),SITC Rev.1,SCR,Import,0.149652,Special,CIF,Origin,690,1976
+Seychelles(1976),SITC Rev.1,SCR,Export,0.149652,Domestic,FOB,Last Known Destination,690,1976
+Fmr Sudan(1976),SITC Rev.1,SDD,Import,2.87158,General,CIF,Origin,736,1976
+Fmr Sudan(1976),SITC Rev.1,SDD,Export,2.87158,General,FOB,Last Known Destination,736,1976
+United Rep. of Tanzania(1976),SITC Rev.1,TZS,Import,0.119235,General,CIF,Origin,834,1976
+United Rep. of Tanzania(1976),SITC Rev.1,TZS,Export,0.119387,General,FOB,Last Known Destination,834,1976
+Uganda(1976),SITC Rev.1,UGX,Import,0.11952,General,CIF,Origin,800,1976
+Uganda(1976),SITC Rev.1,UGX,Export,0.119487,General,FOB,Last Known Destination,800,1976
+Zambia(1976),SITC Rev.2,ZMK,Import,1.39761,General,FOB,Origin,894,1976
+Zambia(1976),SITC Rev.2,ZMK,Export,1.383852,General,FOB,Last Known Destination,894,1976
+Congo(1976),SITC Rev.1,XOF,Import,0.419274,Special,CIF,Origin,178,1976
+Congo(1976),SITC Rev.1,XOF,Export,0.419,Special,FOB,Last Known Destination,178,1976
+Costa Rica(1976),SITC Rev.1,USD,Import,1,Special,CIF,Origin,188,1976
+Costa Rica(1976),SITC Rev.1,USD,Export,1,Special,FOB,Last Known Destination,188,1976
+Côte d'Ivoire(1976),SITC Rev.2,XOF,Import,0.415992,General,CIF,Origin,384,1976
+Côte d'Ivoire(1976),SITC Rev.2,XOF,Export,0.41548,General,FOB,Last Known Destination,384,1976
+Cuba(1976),SITC Rev.1,CUP,Import,NA,NULL,NULL,,192,1976
+Cuba(1976),SITC Rev.1,CUP,Export,1.3264,Special,FOB,Sale,192,1976
+Cyprus(1976),SITC Rev.2,CYP,Import,2.43116,General,CIF,Consignment,196,1976
+Cyprus(1976),SITC Rev.2,CYP,Export,2.424956,General,FOB,Last Known Destination,196,1976
+Czechoslovakia(1976),SITC Rev.1,CZK,Import,0.173339,General,FOB,Purchase,200,1976
+Czechoslovakia(1976),SITC Rev.1,CZK,Export,0.17329,General,FOB,Sale,200,1976
+Denmark(1976),SITC Rev.2,DKK,Import,0.165664,General,CIF,Origin,208,1976
+Denmark(1976),SITC Rev.2,DKK,Export,0.16562,General,FOB,Last Known Destination,208,1976
+Dominican Rep.(1976),SITC Rev.1,DOP,Import,1,General,FOB,Origin,214,1976
+Dominican Rep.(1976),SITC Rev.1,DOP,Export,1,General,FOB,Last Known Destination,214,1976
+Gambia(1976),SITC Rev.1,GMD,Import,0.451182,General,CIF,Consignment,270,1976
+Gambia(1976),SITC Rev.1,GMD,Export,0.46469,General,FOB,Last Known Destination,270,1976
+Ghana(1976),SITC Rev.1,GHC,Import,0.869569,General,CIF,Origin,288,1976
+Ghana(1976),SITC Rev.1,GHC,Export,0.869569,General,FOB,Last Known Destination,288,1976
+Guinea-Bissau(1976),SITC Rev.2,PTE,Import,0.033225,Special,CIF,Origin,624,1976
+Guinea-Bissau(1976),SITC Rev.2,PTE,Export,0.03269,Special,FOB,Last Known Destination,624,1976
+Liberia(1976),SITC Rev.1,USD,Import,1,General,CIF,Origin,430,1976
+Liberia(1976),SITC Rev.1,USD,Export,1,General,FOB,Last Known Destination,430,1976
+Mali(1976),SITC Rev.1,XOF,Import,0.210036,Special,CIF,Origin,466,1976
+Mali(1976),SITC Rev.1,XOF,Export,0.20557,Special,FOB,Last Known Destination,466,1976
+Niger(1976),SITC Rev.2,XOF,Import,0.416753,Special,CIF,Origin,562,1976
+Niger(1976),SITC Rev.2,XOF,Export,0.41972,Special,FOB,Last Known Destination,562,1976
+Nigeria(1976),SITC Rev.1,NGN,Import,1.58651,General,CIF,Origin,566,1976
+Nigeria(1976),SITC Rev.1,NGN,Export,1.58662,General,FOB,Last Known Destination,566,1976
+Sierra Leone(1976),SITC Rev.1,SLL,Import,0.89321,General,CIF,Origin,694,1976
+Sierra Leone(1976),SITC Rev.1,SLL,Export,0.90051,General,FOB,Last Known Destination,694,1976
+Togo(1976),SITC Rev.2,XOF,Import,0.416753,General,CIF,Origin,768,1976
+Togo(1976),SITC Rev.2,XOF,Export,0.41972,Special,FOB,Last Known Destination,768,1976
+Ecuador(1976),SITC Rev.1,USD,Import,1,General,CIF,Origin,218,1976
+Ecuador(1976),SITC Rev.1,USD,Export,1,Special,FOB,Last Known Destination,218,1976
+El Salvador(1976),SITC Rev.1,SVC,Import,0.4,Special,CIF,Origin,222,1976
+El Salvador(1976),SITC Rev.1,SVC,Export,0.4,Special,FOB,Last Known Destination,222,1976
+Hungary(1976),SITC Rev.2,USD,Import,1,General,CIF,Purchase,348,1976
+Hungary(1976),SITC Rev.2,USD,Export,1,General,FOB,Sale,348,1976
+Iceland(1976),SITC Rev.1,ISK,Import,0.005562,Special,CIF,Origin,352,1976
+Iceland(1976),SITC Rev.1,ISK,Export,0.00557,Special,FOB,Last Known Destination,352,1976
+Norway(1976),SITC Rev.2,NOK,Import,0.183709,General,CIF,Origin,579,1976
+Norway(1976),SITC Rev.2,NOK,Export,0.1835,General,FOB,Last Known Destination,579,1976
+Switzerland(1976),SITC Rev.2,CHF,Import,0.400689,Special,CIF,Consignment,757,1976
+Switzerland(1976),SITC Rev.2,CHF,Export,0.40073,Special,FOB,Last Known Destination,757,1976
+Faeroe Isds(1976),SITC Rev.2,DKK,Import,0.169844,General,CIF,Origin,234,1976
+Faeroe Isds(1976),SITC Rev.2,DKK,Export,0.16982,General,FOB,Last Known Destination,234,1976
+Finland(1976),SITC Rev.2,FIM,Import,0.258792,General,CIF,Origin,246,1976
+Finland(1976),SITC Rev.2,FIM,Export,0.258665,General,FOB,Last Known Destination,246,1976
+Fmr Fed. Rep. of Germany(1976),SITC Rev.1,USD,Import,1,Special,CIF,Origin,280,1976
+Fmr Fed. Rep. of Germany(1976),SITC Rev.1,USD,Export,1,Special,FOB,Last Known Destination,280,1976
+Fmr Yugoslavia(1976),SITC Rev.1,YUD,Import,0.58823,Special,CIF,Origin,890,1976
+Fmr Yugoslavia(1976),SITC Rev.1,YUD,Export,0.58823,Special,FOB,Last Known Destination,890,1976
+France(1976),SITC Rev.1,FRF,Import,0.209,Special,CIF,Origin,251,1976
+France(1976),SITC Rev.1,FRF,Export,0.20921,Special,FOB,Last Known Destination,251,1976
+Greece(1976),SITC Rev.2,GRD,Import,0.27277,Special,CIF,Consignment,300,1976
+Greece(1976),SITC Rev.2,GRD,Export,0.2727,Special,FOB,Last Known Destination,300,1976
+Ireland(1976),SITC Rev.2,IEP,Import,1.79475,General,CIF,Origin,372,1976
+Ireland(1976),SITC Rev.2,IEP,Export,1.78319,General,FOB,Last Known Destination,372,1976
+Italy(1976),SITC Rev.1,ITL,Import,0.119616,Special,CIF,Origin,381,1976
+Italy(1976),SITC Rev.1,ITL,Export,0.11962,Special,FOB,Last Known Destination,381,1976
+Malta(1976),SITC Rev.1,MTL,Import,2.35041,General,CIF,Origin,470,1976
+Malta(1976),SITC Rev.1,MTL,Export,2.34543,General,FOB,Last Known Destination,470,1976
+Netherlands(1976),SITC Rev.1,NLG,Import,0.37963,Special,CIF,Consignment,528,1976
+Netherlands(1976),SITC Rev.1,NLG,Export,0.379328,Special,FOB,Last Known Destination,528,1976
+Portugal(1976),SITC Rev.1,PTE,Import,0.32998,Special,CIF,Origin,620,1976
+Portugal(1976),SITC Rev.1,PTE,Export,0.3311,Special,FOB,Last Known Destination,620,1976
+Spain(1976),SITC Rev.1,ESP,Import,0.14933,Special,CIF,Origin,724,1976
+Spain(1976),SITC Rev.1,ESP,Export,0.1496,Special,FOB,Last Known Destination,724,1976
+Sweden(1976),SITC Rev.2,SEK,Import,0.230161,General,CIF,Origin,752,1976
+Sweden(1976),SITC Rev.2,SEK,Export,0.229881,General,FOB,Last Known Destination,752,1976
+United Kingdom(1976),SITC Rev.1,GBP,Import,1.79357,General,CIF,Consignment,826,1976
+United Kingdom(1976),SITC Rev.1,GBP,Export,1.79489,General,FOB,Last Known Destination,826,1976
+Fiji(1976),SITC Rev.1,FJD,Import,1.10423,General,CIF,Origin,242,1976
+Fiji(1976),SITC Rev.1,FJD,Export,1.100353,General,FOB,Last Known Destination,242,1976
+Fmr Arab Rep. of Yemen(1976),SITC Rev.2,YER,Import,0.21918,General,CIF,Consignment,886,1976
+Fmr Arab Rep. of Yemen(1976),SITC Rev.2,YER,Export,0.21918,General,FOB,Last Known Destination,886,1976
+Fmr Ethiopia(1976),SITC Rev.2,ETB,Import,0.479501,General,CIF,Origin,230,1976
+Fmr Ethiopia(1976),SITC Rev.2,ETB,Export,0.479501,General,FOB,Last Known Destination,230,1976
+"Fmr Panama, excl.Canal Zone(1976)",SITC Rev.1,PAB,Import,1,Special,CIF,Origin,590,1976
+"Fmr Panama, excl.Canal Zone(1976)",SITC Rev.1,PAB,Export,1,Special,FOB,Last Known Destination,590,1976
+French Guiana(1976),SITC Rev.2,FRF,Import,0.208236,Special,CIF,Origin,254,1976
+French Guiana(1976),SITC Rev.2,FRF,Export,0.20971,Special,FOB,Last Known Destination,254,1976
+French Polynesia(1976),SITC Rev.2,XPF,Import,0.01148,Special,CIF,Origin,258,1976
+French Polynesia(1976),SITC Rev.2,XPF,Export,0.01148,Special,FOB,Last Known Destination,258,1976
+Gabon(1976),SITC Rev.2,XOF,Import,0.414906,Special,CIF,Origin,266,1976
+Gabon(1976),SITC Rev.2,XOF,Export,0.41862,Special,FOB,Last Known Destination,266,1976
+Greenland(1976),SITC Rev.2,DKK,Import,0.165816,General,CIF,Origin,304,1976
+Greenland(1976),SITC Rev.2,DKK,Export,0.16645,General,FOB,Last Known Destination,304,1976
+Guadeloupe(1976),SITC Rev.2,FRF,Import,0.209868,Special,CIF,Origin,312,1976
+Guadeloupe(1976),SITC Rev.2,FRF,Export,0.20959,Special,FOB,Last Known Destination,312,1976
+Guatemala(1976),SITC Rev.1,GTQ,Import,1,Special,CIF,Origin,320,1976
+Guatemala(1976),SITC Rev.1,GTQ,Export,1,Special,FOB,Last Known Destination,320,1976
+Guyana(1976),SITC Rev.1,GYD,Import,0.392157,Special,CIF,Origin,328,1976
+Guyana(1976),SITC Rev.1,GYD,Export,0.392157,Special,FOB,Last Known Destination,328,1976
+Haiti(1976),SITC Rev.1,HTG,Import,0.2,General,CIF,Origin,332,1976
+Haiti(1976),SITC Rev.1,HTG,Export,0.2,General,FOB,Last Known Destination,332,1976
+Honduras(1976),SITC Rev.1,USD,Import,1,Special,CIF,Origin,340,1976
+Honduras(1976),SITC Rev.1,HNL,Export,0.5,Special,FOB,Last Known Destination,340,1976
+India(1976),SITC Rev.1,INR,Import,0.111637,General,CIF,Consignment,699,1976
+India(1976),SITC Rev.1,INR,Export,0.111611,General,FOB,Last Known Destination,699,1976
+Indonesia(1976),SITC Rev.1,USD,Import,1,Special,CIF,Origin,360,1976
+Indonesia(1976),SITC Rev.1,USD,Export,1,Special,FOB,Last Known Destination,360,1976
+Iran(1976),SITC Rev.1,IRR,Import,0.141755,Special,CIF,Purchase,364,1976
+Iran(1976),SITC Rev.1,IRR,Export,0.14174,Special,FOB,Consignment,364,1976
+Iraq(1976),SITC Rev.1,IQD,Import,3.38621,Special,CIF,Origin,368,1976
+Iraq(1976),SITC Rev.1,IQD,Export,3.3862,Special,FOB,Last Known Destination,368,1976
+Israel(1976),SITC Rev.1,USD,Import,1,Special,CIF,Purchase,376,1976
+Israel(1976),SITC Rev.1,USD,Export,1,Special,FOB,Last Known Destination,376,1976
+Jamaica(1976),SITC Rev.1,JMD,Import,1.1,Special,CIF,Origin,388,1976
+Jamaica(1976),SITC Rev.1,JMD,Export,1.1,Special,FOB,Last Known Destination,388,1976
+Japan(1976),SITC Rev.2,USD,Import,1,General,CIF,Origin,392,1976
+Japan(1976),SITC Rev.2,USD,Export,1,General,FOB,Last Known Destination,392,1976
+Jordan(1976),SITC Rev.1,JOD,Import,3.01065,Special,CIF,Origin,400,1976
+Jordan(1976),SITC Rev.1,JOD,Export,3.01106,Special,FOB,Last Known Destination,400,1976
+Kiribati(1976),SITC Rev.1,AUD,Import,1.22404,Special,CIF,Origin,296,1976
+Kiribati(1976),SITC Rev.1,AUD,Export,1.2254,Special,FOB,Last Known Destination,296,1976
+Kuwait(1976),SITC Rev.1,KWD,Import,3.42543,Special,CIF,Origin,414,1976
+Kuwait(1976),SITC Rev.1,KWD,Export,3.42272,Special,FOB,Last Known Destination,414,1976
+Myanmar(1976),SITC Rev.1,MMK,Import,0.14786,General,CIF,Origin,104,1976
+Myanmar(1976),SITC Rev.1,MMK,Export,0.14772,General,FOB,Consignment,104,1976
+Nepal(1976),SITC Rev.1,NPR,Import,0.125,General,CIF,Consignment,524,1976
+Nepal(1976),SITC Rev.1,NPR,Export,0.125,General,NULL,Last Known Destination,524,1976
+Solomon Isds(1976),SITC Rev.1,AUD,Import,1.21846,Special,CIF,Origin,90,1976
+Solomon Isds(1976),SITC Rev.1,AUD,Export,1.21317,Special,FOB,Last Known Destination,90,1976
+Somalia(1976),SITC Rev.1,SOS,Import,0.158856,Special,CIF,Origin,706,1976
+Somalia(1976),SITC Rev.1,SOS,Export,0.158856,Special,FOB,Last Known Destination,706,1976
+Libya(1976),SITC Rev.1,LYD,Import,3.37781,General,CIF,Origin,434,1976
+Libya(1976),SITC Rev.1,LYD,Export,3.37781,General,FOB,Last Known Destination,434,1976
+Malaysia(1976),SITC Rev.1,MYR,Import,0.39338,General,CIF,Origin,458,1976
+Malaysia(1976),SITC Rev.1,MYR,Export,0.39392,General,FOB,Last Known Destination,458,1976
+Martinique(1976),SITC Rev.2,FRF,Import,0.210526,Special,CIF,Origin,474,1976
+Martinique(1976),SITC Rev.2,FRF,Export,0.20955,Special,FOB,Last Known Destination,474,1976
+Paraguay(1976),SITC Rev.1,USD,Import,1,Special,CIF,Consignment,600,1976
+Paraguay(1976),SITC Rev.1,USD,Export,1,Special,FOB,Last Known Destination,600,1976
+Uruguay(1976),SITC Rev.1,USD,Import,1,Special,CIF,Consignment,858,1976
+Uruguay(1976),SITC Rev.1,USD,Export,1,Special,FOB,Last Known Destination,858,1976
+Mexico(1976),SITC Rev.1,MXN,Import,0.6636,General,CIF,Consignment,484,1976
+Mexico(1976),SITC Rev.1,MXN,Export,0.64592,General,FOB,Consignment,484,1976
+Montserrat(1976),SITC Rev.1,XCD,Import,0.38348,Special,CIF,Origin,500,1976
+Montserrat(1976),SITC Rev.1,XCD,Export,0.38348,Special,FOB,Last Known Destination,500,1976
+Morocco(1976),SITC Rev.2,MAD,Import,0.22654,Special,CIF,Origin,504,1976
+Morocco(1976),SITC Rev.2,MAD,Export,0.226214,Special,FOB,Last Known Destination,504,1976
+USA (before 1981)(1976),SITC Rev.1,USD,Import,1,General,FOB,Origin,841,1976
+USA (before 1981)(1976),SITC Rev.1,USD,Export,1,General,FOB,Last Known Destination,841,1976
+Neth. Antilles and Aruba(1976),SITC Rev.1,ANG,Import,0.555556,Special,FOB,Consignment,532,1976
+Neth. Antilles and Aruba(1976),SITC Rev.1,ANG,Export,0.555556,Special,FOB,Last Known Destination,532,1976
+New Caledonia(1976),SITC Rev.2,XPF,Import,0.011422,Special,CIF,Origin,540,1976
+New Caledonia(1976),SITC Rev.2,XPF,Export,0.011489,Special,FOB,Last Known Destination,540,1976
+New Zealand(1976),SITC Rev.1,NZD,Import,0.994799,General,CIF,Origin,554,1976
+New Zealand(1976),SITC Rev.1,NZD,Export,0.992731,General,FOB,Last Known Destination,554,1976
+Nicaragua(1976),SITC Rev.1,USD,Import,1,General,CIF,Origin,558,1976
+Nicaragua(1976),SITC Rev.1,USD,Export,1,General,FOB,Last Known Destination,558,1976
+Algeria(1976),SITC Rev.2,DZD,Import,0.240092,Special,CIF,Origin,12,1976
+Algeria(1976),SITC Rev.2,DZD,Export,0.24014,Special,FOB,Consignment,12,1976
+Tunisia(1976),SITC Rev.1,TND,Import,2.32878,General,CIF,Origin,788,1976
+Tunisia(1976),SITC Rev.1,TND,Export,2.33195,General,FOB,Last Known Destination,788,1976
+Bermuda(1976),SITC Rev.1,BMD,Import,1,General,CIF,Origin,60,1976
+Bermuda(1976),SITC Rev.1,BMD,Export,1,General,FOB,Last Known Destination,60,1976
+Papua New Guinea(1976),SITC Rev.1,AUD,Import,1.26241,General,CIF,Origin,598,1976
+Papua New Guinea(1976),SITC Rev.1,AUD,Export,1.25947,General,FOB,Last Known Destination,598,1976
+Tonga(1976),SITC Rev.1,TOP,Import,1.22495,General,CIF,Origin,776,1976
+Tonga(1976),SITC Rev.1,TOP,Export,1.22241,General,FOB,Last Known Destination,776,1976
+Rep. of Korea(1976),SITC Rev.2,USD,Import,1,Special,CIF,Origin,410,1976
+Rep. of Korea(1976),SITC Rev.2,USD,Export,1,General,FOB,Last Known Destination,410,1976
+Turkey(1976),SITC Rev.1,USD,Import,1,Special,CIF,Origin,792,1976
+Turkey(1976),SITC Rev.1,USD,Export,1,Special,FOB,Last Known Destination,792,1976
+Oman(1976),SITC Rev.1,OMR,Import,2.89519,General,CIF,Origin,512,1976
+Oman(1976),SITC Rev.1,OMR,Export,NA,NULL,NULL,,512,1976
+Qatar(1976),SITC Rev.1,QAR,Import,0.252428,General,CIF,Origin,634,1976
+Qatar(1976),SITC Rev.1,QAR,Export,0.25238,General,FOB,Last Known Destination,634,1976
+Saudi Arabia(1976),SITC Rev.2,SAR,Import,0.283286,General,CIF,Consignment,682,1976
+Saudi Arabia(1976),SITC Rev.2,SAR,Export,0.283286,General,FOB,Consignment,682,1976
+Venezuela(1976),SITC Rev.1,USD,Import,1,General,FOB,Origin,862,1976
+Venezuela(1976),SITC Rev.1,USD,Export,1,General,FOB,Consignment,862,1976
+Pakistan(1976),SITC Rev.1,PKR,Import,0.10101,General,CIF,Origin,586,1976
+Pakistan(1976),SITC Rev.1,PKR,Export,0.10101,General,FOB,Consignment,586,1976
+Peru(1976),SITC Rev.2,USD,Import,1,Special,FOB,Origin,604,1976
+Peru(1976),SITC Rev.2,USD,Export,1,Special,FOB,Last Known Destination,604,1976
+Philippines(1976),SITC Rev.1,USD,Import,1,General,CIF,Origin,608,1976
+Philippines(1976),SITC Rev.1,USD,Export,1,General,,Last Known Destination,608,1976
+Réunion(1976),SITC Rev.2,FRF,Import,0.208935,Special,CIF,Origin,638,1976
+Réunion(1976),SITC Rev.2,FRF,Export,0.20878,Special,FOB,Last Known Destination,638,1976
+So. African Customs Union(1976),SITC Rev.2,ZAR,Import,1.15,General,CIF,Origin,711,1976
+So. African Customs Union(1976),SITC Rev.2,ZAR,Export,1.15,General,FOB,Last Known Destination,711,1976
+Saint Lucia(1976),SITC Rev.1,XCD,Import,0.37037,Special,CIF,Origin,662,1976
+Saint Lucia(1976),SITC Rev.1,XCD,Export,0.38348,General,FOB,Last Known Destination,662,1976
+Saint Vincent and the Grenadines(1976),SITC Rev.1,XCD,Import,0.38348,Special,CIF,Origin,670,1976
+Saint Vincent and the Grenadines(1976),SITC Rev.1,XCD,Export,0.38348,General,FOB,Last Known Destination,670,1976
+Singapore(1976),SITC Rev.1,SGD,Import,0.404812,General,CIF,Origin,702,1976
+Singapore(1976),SITC Rev.1,SGD,Export,0.40487,General,FOB,Last Known Destination,702,1976
+Sri Lanka(1976),SITC Rev.1,LKR,Import,0.117766,Special,CIF,Origin,144,1976
+Sri Lanka(1976),SITC Rev.1,LKR,Export,0.11772,General,FOB,Last Known Destination,144,1976
+Syria(1976),SITC Rev.1,SYP,Import,0.25477,Special,FOB,Origin,760,1976
+Syria(1976),SITC Rev.1,SYP,Export,0.25477,Special,FOB,Last Known Destination,760,1976
+Thailand(1976),SITC Rev.2,THB,Import,0.4902,General,CIF,Origin,764,1976
+Thailand(1976),SITC Rev.2,THB,Export,0.4902,General,FOB,Consignment,764,1976
+Trinidad and Tobago(1976),SITC Rev.1,TTD,Import,0.40267,Special,CIF,Origin,780,1976
+Trinidad and Tobago(1976),SITC Rev.1,TTD,Export,0.40475,Special,FOB,Last Known Destination,780,1976

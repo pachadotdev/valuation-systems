@@ -1,0 +1,339 @@
+reporter,reported_classification,reported_currency,trade_flow,currency_conversion_factor,trade_system,valuation,partner,r,y
+Afghanistan(2018),HS2012,USD,Import,1,General,CIF,Origin,4,2018
+Afghanistan(2018),HS2012,USD,Export,1,General,FOB,Last Known Destination,4,2018
+Albania(2018),HS2017,ALL,Import,0.009262,Special,CIF,Origin,8,2018
+Albania(2018),HS2017,ALL,Export,0.009264,Special,FOB,Last Known Destination,8,2018
+Andorra(2018),HS2017,EUR,Import,1.178366,General,CIF,Origin,20,2018
+Andorra(2018),HS2017,EUR,Export,1.18431,General,FOB,Last Known Destination,20,2018
+Angola(2018),HS2017,AOA,Import,0.003955,General,CIF,Origin,24,2018
+Angola(2018),HS2017,AOA,Export,0.003955,General,FOB,Last Known Destination,24,2018
+Antigua and Barbuda(2018),HS2007,XCD,Import,0.37037,General,CIF,Origin,28,2018
+Antigua and Barbuda(2018),HS2007,XCD,Export,0.37037,General,FOB,Last Known Destination,28,2018
+Argentina(2018),HS2017,USD,Import,1,General,CIF,Origin,32,2018
+Argentina(2018),HS2017,USD,Export,1,General,FOB,Last Known Destination,32,2018
+Armenia(2018),HS2017,USD,Import,1,General,CIF,Origin,51,2018
+Armenia(2018),HS2017,USD,Export,1,General,FOB,Last Known Destination,51,2018
+Aruba(2018),HS2012,USD,Import,0.558659,General,CIF,Origin,533,2018
+Aruba(2018),HS2012,USD,Export,0.558659,General,FOB,Last Known Destination,533,2018
+Australia(2018),HS2017,AUD,Import,0.746843,General,FOB,Origin,36,2018
+Australia(2018),HS2017,AUD,Export,0.746323,General,FOB,Last Known Destination,36,2018
+Austria(2018),HS2017,EUR,Import,1.181084,Special,CIF,Origin,40,2018
+Austria(2018),HS2017,EUR,Export,1.181373,Special,FOB,Last Known Destination,40,2018
+Azerbaijan(2018),HS2017,USD,Import,1,General,CIF,Origin,31,2018
+Azerbaijan(2018),HS2017,USD,Export,1,General,FOB,Last Known Destination,31,2018
+Bahamas(2018),HS2012,USD,Import,1,General,CIF,Origin,44,2018
+Bahamas(2018),HS2012,USD,Export,1,General,FOB,Last Known Destination,44,2018
+Bahrain(2018),HS2017,BHD,Import,2.65957,General,CIF,Origin,48,2018
+Bahrain(2018),HS2017,BHD,Export,2.65957,General,FOB,Last Known Destination,48,2018
+Barbados(2018),HS2002,BBD,Import,0.5,General,CIF,Origin,52,2018
+Barbados(2018),HS2002,BBD,Export,0.5,General,FOB,Last Known Destination,52,2018
+Belarus(2018),HS2017,USD,Import,1,General,CIF,Origin,112,2018
+Belarus(2018),HS2017,USD,Export,1,General,FOB,Last Known Destination,112,2018
+Belgium(2018),HS2017,EUR,Import,1.18121,Special,CIF,Origin/Consignment for Intra EU,56,2018
+Belgium(2018),HS2017,EUR,Export,1.181547,Special,FOB,Last Known Destination,56,2018
+Belize(2018),HS2017,BZD,Import,0.5,General,CIF,Origin,84,2018
+Belize(2018),HS2017,BZD,Export,0.5,General,FOB,Last Known Destination,84,2018
+Benin(2018),HS2012,XOF,Import,0.001799,General,CIF,Origin,204,2018
+Benin(2018),HS2012,XOF,Export,0.001799,General,FOB,Last Known Destination,204,2018
+Bermuda(2018),HS2017,BMD,Import,1,General,CIF,Origin,60,2018
+Bermuda(2018),HS2017,BMD,Export,1,General,FOB,Last Known Destination,60,2018
+Bolivia (Plurinational State of)(2018),HS2017,USD,Import,1,General,CIF,Origin,68,2018
+Bolivia (Plurinational State of)(2018),HS2017,USD,Export,1,General,FOB,Last Known Destination,68,2018
+Bosnia Herzegovina(2018),HS2017,USD,Import,1,Special,CIF,Origin,70,2018
+Bosnia Herzegovina(2018),HS2017,USD,Export,1,Special,FOB,Last Known Destination,70,2018
+Botswana(2018),HS2017,BWP,Import,0.097831,General,CIF,Origin,72,2018
+Botswana(2018),HS2017,BWP,Export,0.097855,General,FOB,Last Known Destination,72,2018
+Brazil(2018),HS2017,USD,Import,1,Special,CIF,Origin,76,2018
+Brazil(2018),HS2017,USD,Export,1,Special,FOB,Last Known Destination,76,2018
+Brunei Darussalam(2018),HS2017,BND,Import,0.740663,Special,CIF,Origin,96,2018
+Brunei Darussalam(2018),HS2017,BND,Export,0.740987,Special,FOB,Last Known Destination,96,2018
+Bulgaria(2018),HS2017,BGL,Import,0.603231,Special,CIF,Consignment,100,2018
+Bulgaria(2018),HS2017,BGL,Export,0.603047,Special,FOB,Last Known Destination,100,2018
+Burkina Faso(2018),HS2012,XOF,Import,0.001796,General,CIF,Origin,854,2018
+Burkina Faso(2018),HS2012,XOF,Export,0.001809,General,FOB,Last Known Destination,854,2018
+Burundi(2018),HS2012,BIF,Import,5.61e-4,General,CIF,Origin,108,2018
+Burundi(2018),HS2012,BIF,Export,5.61e-4,General,FOB,Last Known Destination,108,2018
+Cabo Verde(2018),HS2012,USD,Import,1,Special,CIF,Origin,132,2018
+Cabo Verde(2018),HS2012,USD,Export,1,Special,FOB,Last Known Destination,132,2018
+Cambodia(2018),HS2017,USD,Import,1,General,CIF,Origin,116,2018
+Cambodia(2018),HS2017,USD,Export,1,General,FOB,Last Known Destination,116,2018
+Cameroon(2018),HS2012,USD,Import,1,Special,CIF,Origin,120,2018
+Cameroon(2018),HS2012,USD,Export,1,Special,FOB,Last Known Destination,120,2018
+Canada(2018),HS2017,CAD,Import,0.771691,General,FOB,Origin,124,2018
+Canada(2018),HS2017,CAD,Export,0.77194,General,FOB,Last Known Destination,124,2018
+Central African Rep.(2018),HS2012,USD,Import,1,General,CIF,Origin,140,2018
+Central African Rep.(2018),HS2012,USD,Export,1,General,FOB,Last Known Destination,140,2018
+Chile(2018),HS2017,USD,Import,1,General,CIF,Consignment,152,2018
+Chile(2018),HS2017,USD,Export,1,General,FOB,Last Known Destination,152,2018
+China(2018),HS2017,USD,Import,1,General,CIF,Origin,156,2018
+China(2018),HS2017,USD,Export,1,General,FOB,Last Known Destination,156,2018
+"China, Hong Kong SAR(2018)",HS2017,HKD,Import,0.127575,General,CIF,Consignment,344,2018
+"China, Hong Kong SAR(2018)",HS2017,HKD,Export,0.127575,General,FOB,Last Known Destination,344,2018
+"China, Macao SAR(2018)",HS2017,MOP,Import,0.123877,General,CIF,Origin,446,2018
+"China, Macao SAR(2018)",HS2017,MOP,Export,0.123877,General,FOB,Last Known Destination,446,2018
+Georgia(2018),HS2017,USD,Import,1,General,CIF,Consignment,268,2018
+Georgia(2018),HS2017,USD,Export,1,General,FOB,Last Known Destination,268,2018
+Kazakhstan(2018),HS2017,USD,Import,1,General,CIF,Origin,398,2018
+Kazakhstan(2018),HS2017,USD,Export,1,General,FOB,Last Known Destination,398,2018
+Kyrgyzstan(2018),HS2017,USD,Import,1,General,CIF,Origin,417,2018
+Kyrgyzstan(2018),HS2017,USD,Export,1,General,FOB,Last Known Destination,417,2018
+Rep. of Moldova(2018),HS2012,USD,Import,1,General,CIF,Origin,498,2018
+Rep. of Moldova(2018),HS2012,USD,Export,1,General,FOB,Last Known Destination,498,2018
+Russian Federation(2018),HS2017,USD,Import,1,General,CIF,Origin,643,2018
+Russian Federation(2018),HS2017,USD,Export,1,General,FOB,Last Known Destination,643,2018
+Tajikistan(2018),HS2012,USD,Import,1,General,CIF,Origin,762,2018
+Tajikistan(2018),HS2012,USD,Export,1,General,FOB,Consignment,762,2018
+Ukraine(2018),HS2012,USD,Import,1,General,CIF,Origin,804,2018
+Ukraine(2018),HS2012,USD,Export,1,General,FOB,Last Known Destination,804,2018
+Uzbekistan(2018),HS2017,USD,Import,1,General,CIF,Origin,860,2018
+Uzbekistan(2018),HS2017,USD,Export,1,General,FOB,Last Known Destination,860,2018
+Colombia(2018),HS2017,USD,Import,1,Special,CIF,Origin,170,2018
+Colombia(2018),HS2017,USD,Export,1,Special,FOB,Last Known Destination,170,2018
+Comoros(2018),HS2017,KMF,Import,0.002394,General,CIF,Consignment,174,2018
+Comoros(2018),HS2017,KMF,Export,0.002393,General,FOB,Last Known Destination,174,2018
+Dem. Rep. of the Congo(2018),HS2012,CDF,Import,6.16e-4,General,CIF,Origin,180,2018
+Dem. Rep. of the Congo(2018),HS2012,CDF,Export,6.16e-4,General,FOB,Last Known Destination,180,2018
+Egypt(2018),HS2012,EGP,Import,0.056283,General,CIF,Origin,818,2018
+Egypt(2018),HS2012,EGP,Export,0.056283,General,FOB,Last Known Destination,818,2018
+Ethiopia(2018),HS2012,ETB,Import,0.036483,General,CIF,Origin,231,2018
+Ethiopia(2018),HS2012,ETB,Export,0.036534,General,FOB,Last Known Destination,231,2018
+Kenya(2018),HS2012,KES,Import,0.009873,General,CIF,Origin,404,2018
+Kenya(2018),HS2012,KES,Export,0.009871,General,FOB,Last Known Destination,404,2018
+Madagascar(2018),HS2017,MGA,Import,3.02e-4,General,CIF,Origin,450,2018
+Madagascar(2018),HS2017,MGA,Export,3.02e-4,General,FOB,Last Known Destination,450,2018
+Malawi(2018),HS2012,USD,Import,1,General,CIF,Origin,454,2018
+Malawi(2018),HS2012,USD,Export,1,General,FOB,Last Known Destination,454,2018
+Mauritius(2018),HS2017,MUR,Import,0.02943,General,CIF,Origin,480,2018
+Mauritius(2018),HS2017,MUR,Export,0.029449,General,FOB,Last Known Destination,480,2018
+Namibia(2018),HS2017,"NAD",Import,0.074982,General,CIF,Origin,516,2018
+Namibia(2018),HS2017,"NAD",Export,0.076049,General,FOB,Last Known Destination,516,2018
+Rwanda(2018),HS2017,RWF,Import,0.00116,General,CIF,Origin,646,2018
+Rwanda(2018),HS2017,RWF,Export,0.001161,General,FOB,Last Known Destination,646,2018
+Seychelles(2018),HS2017,USD,Import,1,General,CIF,Origin,690,2018
+Seychelles(2018),HS2017,USD,Export,1,General,FOB,Last Known Destination,690,2018
+Eswatini(2018),HS2017,SZL,Import,0.075146,General,CIF,Origin,748,2018
+Eswatini(2018),HS2017,SZL,Export,0.074736,General,FOB,Last Known Destination,748,2018
+United Rep. of Tanzania(2018),HS2017,TZS,Import,4.42e-4,General,CIF,Origin,834,2018
+United Rep. of Tanzania(2018),HS2017,TZS,Export,4.42e-4,General,FOB,Last Known Destination,834,2018
+Uganda(2018),HS2017,USD,Import,1,General,CIF,Origin,800,2018
+Uganda(2018),HS2017,USD,Export,1,General,FOB,Last Known Destination,800,2018
+Zambia(2018),HS2017,USD,Import,1,General,CIF,Origin,894,2018
+Zambia(2018),HS2017,USD,Export,1,General,FOB,Last Known Destination,894,2018
+Zimbabwe(2018),HS2017,USD,Import,1,General,CIF,Origin,716,2018
+Zimbabwe(2018),HS2017,USD,Export,1,General,FOB,Last Known Destination,716,2018
+Congo(2018),HS2017,CDF,Import,0.001799,General,CIF,Origin,178,2018
+Congo(2018),HS2017,CDF,Export,0.001799,General,FOB,Last Known Destination,178,2018
+Costa Rica(2018),HS2017,USD,Import,1,Special,CIF,Origin,188,2018
+Costa Rica(2018),HS2017,USD,Export,1,Special,FOB,Last Known Destination,188,2018
+Côte d'Ivoire(2018),HS2017,XOF,Import,0.001797,Special,CIF,Origin,384,2018
+Côte d'Ivoire(2018),HS2017,XOF,Export,0.001806,Special,FOB,Last Known Destination,384,2018
+Croatia(2018),HS2017,USD,Import,1,Special,CIF,Origin,191,2018
+Croatia(2018),HS2017,USD,Export,1,Special,FOB,Last Known Destination,191,2018
+Cyprus(2018),HS2017,EUR,Import,1.180178,General,CIF,Origin/Consignment for Intra EU,196,2018
+Cyprus(2018),HS2017,EUR,Export,1.187954,General,FOB,Last Known Destination,196,2018
+Czechia(2018),HS2017,USD,Import,1,Special,CIF,Origin,203,2018
+Czechia(2018),HS2017,USD,Export,1,Special,FOB,Last Known Destination,203,2018
+Denmark(2018),HS2017,DKK,Import,0.158363,General,CIF,Origin/Consignment for Intra EU,208,2018
+Denmark(2018),HS2017,DKK,Export,0.158363,General,FOB,Last Known Destination,208,2018
+Dominican Rep.(2018),HS2017,USD,Import,1,General,FOB,Origin,214,2018
+Dominican Rep.(2018),HS2017,USD,Export,1,General,FOB,Last Known Destination,214,2018
+Gambia(2018),HS2012,GMD,Import,0.020801,General,CIF,Origin,270,2018
+Gambia(2018),HS2012,GMD,Export,0.020884,General,FOB,Last Known Destination,270,2018
+Ghana(2018),HS2017,GHC,Import,0.219257,General,CIF,Origin,288,2018
+Ghana(2018),HS2017,GHC,Export,0.219171,General,FOB,Last Known Destination,288,2018
+Mali(2018),HS2017,USD,Import,1,General,CIF,Origin,466,2018
+Mali(2018),HS2017,USD,Export,1,General,FOB,Last Known Destination,466,2018
+Niger(2018),HS2017,USD,Import,1,General,CIF,Origin,562,2018
+Niger(2018),HS2017,USD,Export,1,General,FOB,Last Known Destination,562,2018
+Nigeria(2018),HS2012,NGN,Import,0.003267,General,CIF,Origin,566,2018
+Nigeria(2018),HS2012,NGN,Export,0.003267,General,FOB,Last Known Destination,566,2018
+Senegal(2018),HS2012,XOF,Import,0.001798,General,CIF,Origin,686,2018
+Senegal(2018),HS2012,XOF,Export,0.001798,General,FOB,Last Known Destination,686,2018
+Sierra Leone(2018),HS2012,USD,Import,1,General,CIF,Origin,694,2018
+Sierra Leone(2018),HS2012,USD,Export,1,General,FOB,Last Known Destination,694,2018
+Togo(2018),HS2017,XOF,Import,0.001792,General,CIF,Origin,768,2018
+Togo(2018),HS2017,XOF,Export,0.001801,General,FOB,Last Known Destination,768,2018
+Ecuador(2018),HS2017,USD,Import,1,Special,CIF,Origin,218,2018
+Ecuador(2018),HS2017,USD,Export,1,Special,FOB,Last Known Destination,218,2018
+El Salvador(2018),HS2017,USD,Import,1,General,CIF,Origin,222,2018
+El Salvador(2018),HS2017,USD,Export,1,General,FOB,Last Known Destination,222,2018
+Estonia(2018),HS2017,EUR,Import,1.180199,General Extra-EU/Special Intra-EU,CIF,Consignment,233,2018
+Estonia(2018),HS2017,EUR,Export,1.179889,General Extra-EU/Special Intra-EU,FOB,Last Known Destination,233,2018
+EU-28(2018),HS2017,EUR,Import,1.180057,Special,CIF,Origin,97,2018
+EU-28(2018),HS2017,EUR,Export,1.179193,Special,FOB,Last Known Destination,97,2018
+Albania(2018),HS2017,ALL,Import,0.009262,Special,CIF,Origin,8,2018
+Albania(2018),HS2017,ALL,Export,0.009264,Special,FOB,Last Known Destination,8,2018
+Hungary(2018),HS2017,USD,Import,1,Special,CIF,Consignment,348,2018
+Hungary(2018),HS2017,USD,Export,1,Special,FOB,Last Known Destination,348,2018
+Poland(2018),HS2017,USD,Import,1,Special,CIF,Origin,616,2018
+Poland(2018),HS2017,USD,Export,1,Special,FOB,Last Known Destination,616,2018
+Romania(2018),HS2017,USD,Import,1,Special,CIF,Origin/Consignment for Intra EU,642,2018
+Romania(2018),HS2017,USD,Export,1,Special,FOB,Last Known Destination,642,2018
+Slovakia(2018),HS2017,EUR,Import,1.180539,Special,CIF,Origin/Consignment for Intra EU,703,2018
+Slovakia(2018),HS2017,EUR,Export,1.180166,Special,FOB,Last Known Destination,703,2018
+Iceland(2018),HS2017,ISK,Import,0.009243,Special,CIF,Origin,352,2018
+Iceland(2018),HS2017,ISK,Export,0.009237,Special,FOB,Last Known Destination,352,2018
+Norway(2018),HS2017,NOK,Import,0.123091,General,CIF,Origin,579,2018
+Norway(2018),HS2017,NOK,Export,0.123007,General,FOB,Last Known Destination,579,2018
+Switzerland(2018),HS2017,CHF,Import,1.022697,Special,CIF,Origin,757,2018
+Switzerland(2018),HS2017,CHF,Export,1.02285,Special,FOB,Last Known Destination,757,2018
+Latvia(2018),HS2017,EUR,Import,1.178599,Special,CIF,Origin/Consignment for Intra EU,428,2018
+Latvia(2018),HS2017,EUR,Export,1.179409,Special,FOB,Last Known Destination,428,2018
+Lithuania(2018),HS2017,USD,Import,1,Special,CIF,Origin/Consignment for Intra EU,440,2018
+Lithuania(2018),HS2017,USD,Export,1,Special,FOB,Last Known Destination,440,2018
+Finland(2018),HS2017,EUR,Import,1.17876,Special,CIF,Origin,246,2018
+Finland(2018),HS2017,EUR,Export,1.178818,Special,FOB,Last Known Destination,246,2018
+France(2018),HS2017,EUR,Import,1.181464,Special,CIF,Origin,251,2018
+France(2018),HS2017,EUR,Export,1.181051,Special,FOB,Last Known Destination,251,2018
+Germany(2018),HS2017,EUR,Import,1.181144,Special,CIF,Origin,276,2018
+Germany(2018),HS2017,EUR,Export,1.181546,Special,FOB,Last Known Destination,276,2018
+Greece(2018),HS2017,EUR,Import,1.180378,Special,CIF,Origin/Consignment for Intra EU,300,2018
+Greece(2018),HS2017,EUR,Export,1.180378,Special,FOB,Last Known Destination,300,2018
+Ireland(2018),HS2017,EUR,Import,1.185373,General,CIF,Origin,372,2018
+Ireland(2018),HS2017,EUR,Export,1.185908,General,FOB,Last Known Destination,372,2018
+Italy(2018),HS2017,EUR,Import,1.182002,Special,CIF,Origin/Consignment for Intra EU,381,2018
+Italy(2018),HS2017,EUR,Export,1.181797,Special,FOB,Last Known Destination,381,2018
+Luxembourg(2018),HS2017,EUR,Import,1.181358,Special,CIF,Origin/Consignment for Intra EU,442,2018
+Luxembourg(2018),HS2017,EUR,Export,1.18198,Special,FOB,Last Known Destination,442,2018
+Malta(2018),HS2017,EUR,Import,1.180806,General,CIF,Origin,470,2018
+Malta(2018),HS2017,EUR,Export,1.180236,General,FOB,Last Known Destination,470,2018
+Netherlands(2018),HS2017,EUR,Import,1.180752,Special,CIF,Origin/Consignment for Intra EU,528,2018
+Netherlands(2018),HS2017,EUR,Export,1.180806,Special,FOB,Last Known Destination,528,2018
+Portugal(2018),HS2017,EUR,Import,1.180486,Special,CIF,Origin/Consignment for Intra EU,620,2018
+Portugal(2018),HS2017,EUR,Export,1.181784,Special,FOB,Last Known Destination,620,2018
+Slovenia(2018),HS2017,USD,Import,1,Special,CIF,Origin,705,2018
+Slovenia(2018),HS2017,USD,Export,1,Special,FOB,Last Known Destination,705,2018
+Spain(2018),HS2017,EUR,Import,1.181563,Special,CIF,Origin/Consignment for Intra EU,724,2018
+Spain(2018),HS2017,EUR,Export,1.181942,Special,FOB,Last Known Destination,724,2018
+Sweden(2018),HS2017,SEK,Import,0.115176,Special,CIF,Origin/Consignment for Intra EU,752,2018
+Sweden(2018),HS2017,SEK,Export,0.115128,Special,FOB,Last Known Destination,752,2018
+North Macedonia(2018),HS2017,USD,Import,1,Special,CIF,Origin,807,2018
+North Macedonia(2018),HS2017,USD,Export,1,Special,FOB,Last Known Destination,807,2018
+United Kingdom(2018),HS2017,GBP,Import,1.3347579999999999,General,CIF,Origin/Consignment for Intra EU,826,2018
+United Kingdom(2018),HS2017,GBP,Export,1.334866,General,FOB,Last Known Destination,826,2018
+Fiji(2018),HS2017,FJD,Import,0.47743,General,CIF,Purchase,242,2018
+Fiji(2018),HS2017,FJD,Export,0.478296,General,FOB,Sale,242,2018
+French Polynesia(2018),HS2012,XPF,Import,0.009892,Special,CIF,Origin,258,2018
+French Polynesia(2018),HS2012,XPF,Export,0.009892,Special,FOB,Last Known Destination,258,2018
+Greenland(2018),HS2017,USD,Import,1,General,CIF,Origin,304,2018
+Greenland(2018),HS2017,USD,Export,1,General,FOB,Last Known Destination,304,2018
+Grenada(2018),HS2012,XCD,Import,0.37037,Special,CIF,Origin,308,2018
+Grenada(2018),HS2012,XCD,Export,0.37037,Special,FOB,Last Known Destination,308,2018
+Guatemala(2018),HS2017,USD,Import,1,Special,CIF,Origin,320,2018
+Guatemala(2018),HS2017,USD,Export,1,Special,FOB,Last Known Destination,320,2018
+Guyana(2018),HS2007,GYD,Import,0.004814,Special,CIF,Origin,328,2018
+Guyana(2018),HS2007,GYD,Export,0.004814,Special,FOB,Last Known Destination,328,2018
+Honduras(2018),HS2017,USD,Import,1,Special,CIF,Origin,340,2018
+Honduras(2018),HS2017,USD,Export,1,Special,FOB,Last Known Destination,340,2018
+India(2018),HS2017,INR,Import,0.014601,General,CIF,Origin,699,2018
+India(2018),HS2017,INR,Export,0.014618,General,FOB,Last Known Destination,699,2018
+Indonesia(2018),HS2017,USD,Import,1,General,CIF,Origin,360,2018
+Indonesia(2018),HS2017,USD,Export,1,General,FOB,Last Known Destination,360,2018
+Iran(2018),HS2017,USD,Import,1,Special,CIF,Origin,364,2018
+Iran(2018),HS2017,USD,Export,1,Special,FOB,Last Known Destination,364,2018
+Israel(2018),HS2017,USD,Import,1,Special,CIF,Origin,376,2018
+Israel(2018),HS2017,USD,Export,1,Special,FOB,Sale,376,2018
+Jamaica(2018),HS2017,USD,Import,1,Special,CIF,Origin,388,2018
+Jamaica(2018),HS2017,USD,Export,1,Special,FOB,Last Known Destination,388,2018
+Japan(2018),HS2017,JPY,Import,0.009051,General,CIF,Origin,392,2018
+Japan(2018),HS2017,JPY,Export,0.00906,General,FOB,Last Known Destination,392,2018
+Jordan(2018),HS2017,JOD,Import,1.408451,Special,CIF,Origin,400,2018
+Jordan(2018),HS2017,JOD,Export,1.408451,Special,FOB,Last Known Destination,400,2018
+Kiribati(2018),HS2012,AUD,Import,0.747154,Special,CIF,Origin,296,2018
+Kiribati(2018),HS2012,AUD,Export,0.747154,Special,FOB,Last Known Destination,296,2018
+Kuwait(2018),HS2017,USD,Import,1,Special,CIF,Origin,414,2018
+Kuwait(2018),HS2017,USD,Export,1,Special,FOB,Last Known Destination,414,2018
+Lao People's Dem. Rep.(2018),HS2017,USD,Import,1,Special,CIF,Origin,418,2018
+Lao People's Dem. Rep.(2018),HS2017,USD,Export,1,Special,FOB,Last Known Destination,418,2018
+Lesotho(2018),HS2012,USD,Import,1,General,CIF,Consignment,426,2018
+Lesotho(2018),HS2012,USD,Export,1,General,FOB,Last Known Destination,426,2018
+Maldives(2018),HS2017,MVR,Import,0.064974,General,CIF,Consignment,462,2018
+Maldives(2018),HS2017,MVR,Export,0.064974,General,FOB,Last Known Destination,462,2018
+Mauritania(2018),HS2012,USD,Import,1,General,CIF,Origin,478,2018
+Mauritania(2018),HS2012,USD,Export,1,General,FOB,Last Known Destination,478,2018
+Mozambique(2018),HS2017,USD,Import,1,General,CIF,Origin,508,2018
+Mozambique(2018),HS2017,USD,Export,1,General,FOB,Last Known Destination,508,2018
+Myanmar(2018),HS2017,USD,Import,1,General,CIF,Origin,104,2018
+Myanmar(2018),HS2017,USD,Export,1,General,FOB,Last Known Destination,104,2018
+Nepal(2018),HS2012,USD,Import,1,General,CIF,Origin,524,2018
+Nepal(2018),HS2012,USD,Export,1,General,FOB,Last Known Destination,524,2018
+Samoa(2018),HS2012,WST,Import,0.38628,General,CIF,Origin,882,2018
+Samoa(2018),HS2012,WST,Export,0.386741,General,FOB,Last Known Destination,882,2018
+Sao Tome and Principe(2018),HS2007,STD,Import,0.04605,Special,CIF,Origin,678,2018
+Sao Tome and Principe(2018),HS2007,STD,Export,0.04605,Special,FOB,Last Known Destination,678,2018
+Solomon Isds(2018),HS2012,SBD,Import,0.125858,Special,CIF,Origin,90,2018
+Solomon Isds(2018),HS2012,SBD,Export,0.12559,Special,FOB,Last Known Destination,90,2018
+Yemen(2018),HS2017,YER,Import,0.003996,Special,CIF,Origin,887,2018
+Yemen(2018),HS2017,YER,Export,0.003996,Special,FOB,Last Known Destination,887,2018
+Lebanon(2018),HS2017,LBP,Import,6.63e-4,General,CIF,Origin,422,2018
+Lebanon(2018),HS2017,LBP,Export,6.63e-4,General,FOB,Last Known Destination,422,2018
+Libya(2018),HS2002,USD,Import,1,General,CIF,Origin,434,2018
+Libya(2018),HS2002,USD,Export,1,General,FOB,Last Known Destination,434,2018
+Malaysia(2018),HS2017,MYR,Import,0.247648,General,CIF,Origin,458,2018
+Malaysia(2018),HS2017,MYR,Export,0.247751,General,FOB,Last Known Destination,458,2018
+Paraguay(2018),HS2017,USD,Import,1,General,CIF,Origin,600,2018
+Paraguay(2018),HS2017,USD,Export,1,General,FOB,Last Known Destination,600,2018
+Uruguay(2018),HS2017,USD,Import,1,Special,CIF,Origin,858,2018
+Uruguay(2018),HS2017,USD,Export,1,Special,FOB,Last Known Destination,858,2018
+Mexico(2018),HS2012,USD,Import,1,General,FOB,Origin,484,2018
+Mexico(2018),HS2012,USD,Export,1,General,FOB,Last Known Destination,484,2018
+Mongolia(2018),HS2017,USD,Import,1,General,CIF,Origin,496,2018
+Mongolia(2018),HS2017,USD,Export,1,General,FOB,Last Known Destination,496,2018
+Montenegro(2018),HS2017,EUR,Import,1.177667,Special,CIF,Origin,499,2018
+Montenegro(2018),HS2017,EUR,Export,1.182712,Special,FOB,Last Known Destination,499,2018
+Morocco(2018),HS2017,MAD,Import,0.106553,Special,CIF,Origin,504,2018
+Morocco(2018),HS2017,MAD,Export,0.106593,Special,FOB,Last Known Destination,504,2018
+USA(2018),HS2017,USD,Import,1,General,CIF,Origin,842,2018
+USA(2018),HS2017,USD,Export,1,General,FOB,Last Known Destination,842,2018
+New Zealand(2018),HS2017,NZD,Import,0.690576,General,CIF,Origin,554,2018
+New Zealand(2018),HS2017,NZD,Export,0.692924,General,FOB,Last Known Destination,554,2018
+Nicaragua(2018),HS2017,USD,Import,1,General,CIF,Origin,558,2018
+Nicaragua(2018),HS2017,USD,Export,1,General,FOB,Last Known Destination,558,2018
+Tunisia(2018),HS2017,TND,Import,0.378207,General,CIF,Origin,788,2018
+Tunisia(2018),HS2017,TND,Export,0.378683,General,FOB,Last Known Destination,788,2018
+Bermuda(2018),HS2017,BMD,Import,1,General,CIF,Origin,60,2018
+Bermuda(2018),HS2017,BMD,Export,1,General,FOB,Last Known Destination,60,2018
+Palau(2018),HS2017,USD,Import,1,General,FOB,Origin,585,2018
+Palau(2018),HS2017,USD,Export,1,General,FOB,Last Known Destination,585,2018
+Rep. of Korea(2018),HS2017,USD,Import,1,General,CIF,Origin,410,2018
+Rep. of Korea(2018),HS2017,USD,Export,1,General,FOB,Last Known Destination,410,2018
+Turkey(2018),HS2017,USD,Import,1,General,CIF/FOB,Origin,792,2018
+Turkey(2018),HS2017,USD,Export,1,General,FOB,Last Known Destination,792,2018
+Oman(2018),HS2017,OMR,Import,2.60078,General,CIF,Origin,512,2018
+Oman(2018),HS2017,OMR,Export,2.60078,General,FOB,Last Known Destination,512,2018
+Qatar(2018),HS2012,QAR,Import,0.274725,General,CIF,Origin,634,2018
+Qatar(2018),HS2012,QAR,Export,0.274725,General,FOB,Last Known Destination,634,2018
+Saudi Arabia(2018),HS2012,SAR,Import,0.266667,General,CIF,Origin,682,2018
+Saudi Arabia(2018),HS2012,SAR,Export,0.266667,General,FOB,Last Known Destination,682,2018
+United Arab Emirates(2018),HS2017,AED,Import,0.272294,Special,CIF,Origin,784,2018
+United Arab Emirates(2018),HS2017,AED,Export,0.272294,Special,FOB,Last Known Destination,784,2018
+"Other Asia, nes(2018)",HS2017,USD,Import,1,Special,CIF,Origin,490,2018
+"Other Asia, nes(2018)",HS2017,USD,Export,1,Special,FOB,Last Known Destination,490,2018
+Pakistan(2018),HS2017,PKR,Import,0.008245,General,CIF,Origin,586,2018
+Pakistan(2018),HS2017,PKR,Export,0.008225,General,FOB,Last Known Destination,586,2018
+Peru(2018),HS2017,USD,Import,1,Special,CIF,Origin,604,2018
+Peru(2018),HS2017,USD,Export,1,Special,FOB,Last Known Destination,604,2018
+Philippines(2018),HS2012,USD,Import,1,General,CIF,Origin,608,2018
+Philippines(2018),HS2012,USD,Export,1,General,FOB,Last Known Destination,608,2018
+Botswana(2018),HS2017,BWP,Import,0.097831,General,CIF,Origin,72,2018
+Botswana(2018),HS2017,BWP,Export,0.097855,General,FOB,Last Known Destination,72,2018
+South Africa(2018),HS2017,ZAR,Import,0.075563,General,FOB,Origin,710,2018
+South Africa(2018),HS2017,ZAR,Export,0.075444,General,FOB,Last Known Destination,710,2018
+Saint Lucia(2018),HS2012,USD,Import,1,General,CIF,Origin,662,2018
+Saint Lucia(2018),HS2012,USD,Export,1,General,FOB,Last Known Destination,662,2018
+Saint Vincent and the Grenadines(2018),HS2007,XCD,Import,0.37037,Special,CIF,Origin,670,2018
+Saint Vincent and the Grenadines(2018),HS2007,XCD,Export,0.37037,Special,FOB,Last Known Destination,670,2018
+Serbia(2018),HS2017,USD,Import,1,General,CIF,Origin,688,2018
+Serbia(2018),HS2017,USD,Export,1,General,FOB,Last Known Destination,688,2018
+Singapore(2018),HS2017,SGD,Import,0.74072,General,CIF,Origin,702,2018
+Singapore(2018),HS2017,SGD,Export,0.740992,General,FOB,Last Known Destination,702,2018
+State of Palestine(2018),HS2012,USD,Import,1,General,CIF,Origin,275,2018
+State of Palestine(2018),HS2012,USD,Export,1,General,FOB,Last Known Destination,275,2018
+Sudan(2018),HS2017,USD,Import,1,General,CIF,Origin,729,2018
+Sudan(2018),HS2017,USD,Export,1,General,FOB,Last Known Destination,729,2018
+Suriname(2018),HS2007,USD,Import,1,General,CIF,Origin,740,2018
+Suriname(2018),HS2007,USD,Export,1,General,FOB,Last Known Destination,740,2018
+Thailand(2018),HS2017,USD,Import,1,Special,CIF,Origin,764,2018
+Thailand(2018),HS2017,USD,Export,1,Special,FOB,Last Known Destination,764,2018
+Viet Nam(2018),HS2017,USD,Import,1,General,CIF,Origin,704,2018
+Viet Nam(2018),HS2017,USD,Export,1,General,FOB,Last Known Destination,704,2018

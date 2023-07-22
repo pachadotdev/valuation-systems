@@ -1,0 +1,5 @@
+reporter,reported_classification,reported_currency,trade_flow,currency_conversion_factor,trade_system,valuation,partner,r,y
+Myanmar(1963),SITC Rev.1,MMK,Import,0.21,General,CIF,Origin,104,1963
+Myanmar(1963),SITC Rev.1,MMK,Export,0.21,General,FOB,Consignment,104,1963
+Morocco(1963),SITC Rev.1,MAD,Import,0.1976,Special,CIF,Origin,504,1963
+Morocco(1963),SITC Rev.1,MAD,Export,0.1976,Special,FOB,Last Known Destination,504,1963

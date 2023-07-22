@@ -1,0 +1,11 @@
+reporter,reported_classification,reported_currency,trade_flow,currency_conversion_factor,trade_system,valuation,partner,r,y
+Brunei Darussalam(1965),SITC Rev.1,BND,Import,0.32667,Special,CIF,Origin,96,1965
+Brunei Darussalam(1965),SITC Rev.1,BND,Export,0.326667,General,FOB,Last Known Destination,96,1965
+Malta(1965),SITC Rev.1,MTL,Import,2.8,General,CIF,Origin,470,1965
+Malta(1965),SITC Rev.1,MTL,Export,2.8,General,FOB,Last Known Destination,470,1965
+Myanmar(1965),SITC Rev.1,MMK,Import,0.21,General,CIF,Origin,104,1965
+Myanmar(1965),SITC Rev.1,MMK,Export,0.21,General,FOB,Consignment,104,1965
+Morocco(1965),SITC Rev.1,MAD,Import,0.197599,Special,CIF,Origin,504,1965
+Morocco(1965),SITC Rev.1,MAD,Export,0.197599,Special,FOB,Last Known Destination,504,1965
+Suriname(1965),SITC Rev.1,SRG,Import,0.530264,General,CIF,Origin,740,1965
+Suriname(1965),SITC Rev.1,SRG,Export,0.53026,General,FOB,Last Known Destination,740,1965

@@ -1,0 +1,245 @@
+reporter,reported_classification,reported_currency,trade_flow,currency_conversion_factor,trade_system,valuation,partner,r,y
+Algeria(1994),HS1992,DZD,Import,0.02827,Special,CIF,Origin,12,1994
+Algeria(1994),HS1992,DZD,Export,0.02837,Special,FOB,Last Known Destination,12,1994
+Argentina(1994),HS1992,USD,Import,1,Special,CIF,Origin,32,1994
+Argentina(1994),HS1992,USD,Export,1,Special,FOB,Last Known Destination,32,1994
+Australia(1994),HS1992,AUD,Import,0.733049,General,FOB,Origin,36,1994
+Australia(1994),HS1992,AUD,Export,0.73229,General,FOB,Last Known Destination,36,1994
+Austria(1994),HS1992,ATS,Import,0.087922,Special,CIF,Origin,40,1994
+Austria(1994),HS1992,ATS,Export,0.08797,Special,FOB,Last Known Destination,40,1994
+Bahrain(1994),SITC Rev.3,BHD,Import,2.65958,General,CIF,Origin,48,1994
+Bahrain(1994),SITC Rev.3,BHD,Export,2.65958,General,FOB,Last Known Destination,48,1994
+Bangladesh(1994),HS1992,BDT,Import,NA,NULL,NULL,,50,1994
+Bangladesh(1994),HS1992,BDT,Export,0.024999,General,FOB,Last Known Destination,50,1994
+Barbados(1994),SITC Rev.3,XCD,Import,0.4972,General,CIF,Origin,52,1994
+Barbados(1994),SITC Rev.3,XCD,Export,0.4972,General,FOB,Last Known Destination,52,1994
+Belgium-Luxembourg(1994),SITC Rev.3,BEF,Import,0.029965,Special,CIF,Origin,58,1994
+Belgium-Luxembourg(1994),SITC Rev.3,BEF,Export,0.02997,Special,FOB,Last Known Destination,58,1994
+Belize(1994),HS1992,XCD,Import,0.37037,General,CIF,Origin,84,1994
+Belize(1994),HS1992,XCD,Export,0.37037,General,FOB,Last Known Destination,84,1994
+Benin(1994),SITC Rev.2,XOF,Import,0.001803,General,CIF,Origin,204,1994
+Benin(1994),SITC Rev.2,XOF,Export,0.0018,General,FOB,Last Known Destination,204,1994
+Bermuda(1994),HS1992,BMD,Import,NA,NULL,NULL,,60,1994
+Bermuda(1994),HS1992,BMD,Export,1,General,FOB,Last Known Destination,60,1994
+Bhutan(1994),HS1992,BTN,Import,0.031874,General,CIF,Origin,64,1994
+Bhutan(1994),HS1992,BTN,Export,0.03187,General,FOB,Last Known Destination,64,1994
+Bolivia (Plurinational State of)(1994),HS1992,USD,Import,1,Special,CIF,Origin,68,1994
+Bolivia (Plurinational State of)(1994),HS1992,USD,Export,1,Special,FOB,Last Known Destination,68,1994
+Brazil(1994),HS1992,USD,Import,1,Special,CIF,Purchase,76,1994
+Brazil(1994),HS1992,USD,Export,1,Special,FOB,Last Known Destination,76,1994
+Brunei Darussalam(1994),HS1992,BND,Import,0.678795,General,CIF,Origin,96,1994
+Brunei Darussalam(1994),HS1992,BND,Export,0.678795,General,FOB,Last Known Destination,96,1994
+Burundi(1994),HS1992,BIF,Import,0.003973,General,CIF,Consignment,108,1994
+Burundi(1994),HS1992,BIF,Export,0.00402,General,FOB,Last Known Destination,108,1994
+Canada(1994),HS1992,CAD,Import,0.73353,General,FOB,Origin,124,1994
+Canada(1994),HS1992,CAD,Export,0.733853,General,FOB,Last Known Destination,124,1994
+Central African Rep.(1994),HS1992,XOF,Import,0.001807,Special,CIF,Origin,140,1994
+Central African Rep.(1994),HS1992,XOF,Export,0.001808,Special,FOB,Last Known Destination,140,1994
+Chile(1994),HS1992,USD,Import,1,Special,CIF,Purchase,152,1994
+Chile(1994),HS1992,USD,Export,1,Special,FOB,Sale,152,1994
+China(1994),HS1992,USD,Import,1,Special,CIF,Origin,156,1994
+China(1994),HS1992,USD,Export,1,Special,FOB,Last Known Destination,156,1994
+"China, Hong Kong SAR(1994)",HS1992,HKD,Import,0.129268,General,CIF,Consignment,344,1994
+"China, Hong Kong SAR(1994)",HS1992,HKD,Export,0.12926,General,FOB,Last Known Destination,344,1994
+"China, Macao SAR(1994)",HS1992,MOP,Import,0.123457,General,CIF,Consignment,446,1994
+"China, Macao SAR(1994)",HS1992,MOP,Export,0.12346,General,FOB,Last Known Destination,446,1994
+Rep. of Moldova(1994),HS1992,USD,Import,1,General,CIF,Origin,498,1994
+Rep. of Moldova(1994),HS1992,USD,Export,1,General,FOB,Last Known Destination,498,1994
+Colombia(1994),HS1992,USD,Import,1,Special,CIF,Purchase,170,1994
+Colombia(1994),HS1992,USD,Export,1,Special,FOB,Last Known Destination,170,1994
+Egypt(1994),HS1992,EGP,Import,0.295339,Special,CIF,Consignment,818,1994
+Egypt(1994),HS1992,EGP,Export,0.29533,Special,FOB,Last Known Destination,818,1994
+Kenya(1994),SITC Rev.3,KES,Import,0.018162,General,CIF,Origin,404,1994
+Kenya(1994),SITC Rev.3,KES,Export,0.01827,General,FOB,Last Known Destination,404,1994
+Madagascar(1994),HS1992,MGF,Import,3.13e-4,Special,CIF,Origin,450,1994
+Madagascar(1994),HS1992,MGF,Export,3.1e-4,Special,FOB,Last Known Destination,450,1994
+Malawi(1994),HS1992,MWK,Import,0.116071,General,CIF,Origin,454,1994
+Malawi(1994),HS1992,MWK,Export,0.11584,General,FOB,Last Known Destination,454,1994
+Mauritius(1994),HS1992,MUR,Import,0.055871,General,CIF,Consignment,480,1994
+Mauritius(1994),HS1992,MUR,Export,0.05599,General,FOB,Last Known Destination,480,1994
+Seychelles(1994),HS1992,SCR,Import,0.198173,General,CIF,Origin,690,1994
+Seychelles(1994),HS1992,SCR,Export,0.198258,General,FOB,Last Known Destination,690,1994
+Fmr Sudan(1994),SITC Rev.1,SDD,Import,0.04013,General,CIF,Consignment,736,1994
+Fmr Sudan(1994),SITC Rev.1,SDD,Export,0.0382,General,FOB,Last Known Destination,736,1994
+Uganda(1994),HS1992,USD,Import,1,General,CIF,Consignment,800,1994
+Uganda(1994),HS1992,USD,Export,1,General,FOB,Last Known Destination,800,1994
+Zimbabwe(1994),SITC Rev.3,ZWD,Import,0.12267,General,CIF,Origin,716,1994
+Zimbabwe(1994),SITC Rev.3,ZWD,Export,0.122483,General,FOB,Last Known Destination,716,1994
+Congo(1994),HS1992,XOF,Import,0.00181,Special,CIF,Origin,178,1994
+Congo(1994),HS1992,XOF,Export,0.00181,Special,FOB,Last Known Destination,178,1994
+Costa Rica(1994),HS1992,USD,Import,1,Special,CIF,Consignment,188,1994
+Costa Rica(1994),HS1992,USD,Export,1,Special,FOB,Last Known Destination,188,1994
+Croatia(1994),HS1992,USD,Import,1,General,CIF,Origin,191,1994
+Croatia(1994),HS1992,USD,Export,1,General,FOB,Last Known Destination,191,1994
+Cyprus(1994),HS1992,CYP,Import,2.0337,General,CIF,Consignment,196,1994
+Cyprus(1994),HS1992,CYP,Export,2.019565,General,FOB,Last Known Destination,196,1994
+Czechia(1994),HS1992,CZK,Import,0.034892,General,FOB,Purchase,203,1994
+Czechia(1994),HS1992,CZK,Export,0.0348,General,FOB,Sale,203,1994
+Denmark(1994),HS1992,DKK,Import,0.157978,General,CIF,Origin,208,1994
+Denmark(1994),HS1992,DKK,Export,0.15787,General,FOB,Last Known Destination,208,1994
+Dominica(1994),HS1992,XCD,Import,0.37037,Special,CIF,Origin,212,1994
+Dominica(1994),HS1992,XCD,Export,0.37037,Special,FOB,Last Known Destination,212,1994
+Dominican Rep.(1994),SITC Rev.2,USD,Import,1,NULL,NULL,,214,1994
+Dominican Rep.(1994),SITC Rev.2,USD,Export,1,General,FOB,Last Known Destination,214,1994
+Senegal(1994),SITC Rev.2,XOF,Import,0.001807,Special,CIF,Origin,686,1994
+Senegal(1994),SITC Rev.2,XOF,Export,0.001808,Special,FOB,Last Known Destination,686,1994
+Togo(1994),HS1992,FRF,Import,0.001796,General,CIF,Origin,768,1994
+Togo(1994),HS1992,FRF,Export,0.00179,General,FOB,Last Known Destination,768,1994
+Ecuador(1994),HS1992,USD,Import,1,Special,CIF,Origin,218,1994
+Ecuador(1994),HS1992,USD,Export,1,Special,FOB,Last Known Destination,218,1994
+El Salvador(1994),HS1992,SVC,Import,0.11447,Special,CIF,Origin,222,1994
+El Salvador(1994),HS1992,SVC,Export,0.11446,Special,FOB,Last Known Destination,222,1994
+Hungary(1994),HS1992,USD,Import,1,Special,CIF,Origin,348,1994
+Hungary(1994),HS1992,USD,Export,1,Special,FOB,Last Known Destination,348,1994
+Poland(1994),HS1992,USD,Import,1,Special,CIF,Origin,616,1994
+Poland(1994),HS1992,USD,Export,1,Special,FOB,Last Known Destination,616,1994
+Romania(1994),HS1992,USD,Import,1,Special,CIF,Origin,642,1994
+Romania(1994),HS1992,USD,Export,1,Special,FOB,Last Known Destination,642,1994
+Slovakia(1994),HS1992,USD,Import,1,General,FOB,Consignment,703,1994
+Slovakia(1994),HS1992,USD,Export,1,General,FOB,Last Known Destination,703,1994
+Iceland(1994),HS1992,ISK,Import,0.014359,Special,CIF,Origin,352,1994
+Iceland(1994),HS1992,ISK,Export,0.01432,Special,FOB,Last Known Destination,352,1994
+Norway(1994),HS1992,NOK,Import,0.14203,General,CIF,Origin,579,1994
+Norway(1994),HS1992,NOK,Export,0.14216,General,FOB,Last Known Destination,579,1994
+Switzerland(1994),HS1992,CHF,Import,0.73425,Special,CIF,Consignment,757,1994
+Switzerland(1994),HS1992,CHF,Export,0.7342,Special,FOB,Last Known Destination,757,1994
+Latvia(1994),HS1992,USD,Import,1,Special,CIF,Origin,428,1994
+Latvia(1994),HS1992,USD,Export,1,Special,FOB,Last Known Destination,428,1994
+Lithuania(1994),HS1992,LTL,Import,0.276735,General,CIF,Consignment,440,1994
+Lithuania(1994),HS1992,LTL,Export,0.251201,General,FOB,Last Known Destination,440,1994
+Faeroe Isds(1994),SITC Rev.3,DKK,Import,0.157208,General,CIF,Origin,234,1994
+Faeroe Isds(1994),SITC Rev.3,DKK,Export,0.1572,General,FOB,Last Known Destination,234,1994
+Finland(1994),HS1992,FIM,Import,0.193665,General,CIF,Origin,246,1994
+Finland(1994),HS1992,FIM,Export,0.193074,General,FOB,Last Known Destination,246,1994
+France(1994),HS1992,FRF,Import,0.180665,Special,CIF,Purchase,251,1994
+France(1994),HS1992,FRF,Export,0.18075,Special,FOB,Last Known Destination,251,1994
+Germany(1994),HS1992,USD,Import,1,Special,CIF,Origin,276,1994
+Germany(1994),HS1992,USD,Export,1,Special,FOB,Last Known Destination,276,1994
+Greece(1994),HS1992,GRD,Import,0.004127,Special,CIF,Consignment,300,1994
+Greece(1994),HS1992,GRD,Export,0.00412,Special,FOB,Last Known Destination,300,1994
+Ireland(1994),HS1992,IEP,Import,1.49867,General,CIF,Origin,372,1994
+Ireland(1994),HS1992,IEP,Export,1.50066,General,FOB,Last Known Destination,372,1994
+Italy(1994),HS1992,ITL,Import,6.22e-4,Special,CIF,Origin,381,1994
+Italy(1994),HS1992,ITL,Export,6.2e-4,Special,FOB,Last Known Destination,381,1994
+Malta(1994),HS1992,MTL,Import,2.65665,General,CIF,Origin,470,1994
+Malta(1994),HS1992,MTL,Export,2.65369,General,FOB,Last Known Destination,470,1994
+Netherlands(1994),HS1992,NLG,Import,0.548231,Special,CIF,Origin,528,1994
+Netherlands(1994),HS1992,NLG,Export,0.548251,Special,FOB,Last Known Destination,528,1994
+Portugal(1994),HS1992,PTE,Import,0.006042,Special,CIF,Origin,620,1994
+Portugal(1994),HS1992,PTE,Export,0.00604,Special,FOB,Last Known Destination,620,1994
+Slovenia(1994),HS1992,USD,Import,1,Special,CIF,Origin,705,1994
+Slovenia(1994),HS1992,USD,Export,1,Special,FOB,Last Known Destination,705,1994
+Spain(1994),HS1992,ESP,Import,0.007491,Special,CIF,Origin,724,1994
+Spain(1994),HS1992,ESP,Export,0.00748,Special,FOB,Last Known Destination,724,1994
+Sweden(1994),HS1992,SEK,Import,0.130169,General,CIF,Origin,752,1994
+Sweden(1994),HS1992,SEK,Export,0.13008,General,FOB,Last Known Destination,752,1994
+North Macedonia(1994),HS1992,USD,Import,1,Special,FOB,Origin,807,1994
+North Macedonia(1994),HS1992,USD,Export,1,Special,FOB,Last Known Destination,807,1994
+United Kingdom(1994),HS1992,GBP,Import,1.5327,General,CIF,Consignment,826,1994
+United Kingdom(1994),HS1992,GBP,Export,1.53356,General,FOB,Last Known Destination,826,1994
+Fiji(1994),SITC Rev.3,FJD,Import,0.685257,General,CIF,Purchase,242,1994
+Fiji(1994),SITC Rev.3,FJD,Export,0.687404,General,FOB,Sale,242,1994
+French Guiana(1994),HS1992,FRF,Import,0.180367,Special,CIF,Origin,254,1994
+French Guiana(1994),HS1992,FRF,Export,0.17994,Special,FOB,Last Known Destination,254,1994
+Gabon(1994),HS1992,XOF,Import,0.0038,Special,CIF,Origin,266,1994
+Gabon(1994),HS1992,XOF,Export,0.0038,Special,FOB,Last Known Destination,266,1994
+Greenland(1994),HS1992,DKK,Import,0.169403,General,CIF,Origin,304,1994
+Greenland(1994),HS1992,DKK,Export,0.169403,General,FOB,Last Known Destination,304,1994
+Grenada(1994),HS1992,XCD,Import,0.37037,Special,CIF,Origin,308,1994
+Grenada(1994),HS1992,XCD,Export,0.37037,General,FOB,Last Known Destination,308,1994
+Guadeloupe(1994),HS1992,FRF,Import,0.18024,Special,CIF,Origin,312,1994
+Guadeloupe(1994),HS1992,FRF,Export,0.17974,Special,FOB,Last Known Destination,312,1994
+Guatemala(1994),HS1992,USD,Import,1,Special,CIF,Origin,320,1994
+Guatemala(1994),HS1992,USD,Export,1,Special,FOB,Last Known Destination,320,1994
+Haiti(1994),HS1992,HTG,Import,NA,NULL,NULL,,332,1994
+Haiti(1994),HS1992,HTG,Export,0.070397,General,FOB,Last Known Destination,332,1994
+Honduras(1994),HS1992,USD,Import,1,Special,CIF,Origin,340,1994
+Honduras(1994),HS1992,USD,Export,1,Special,FOB,Last Known Destination,340,1994
+India(1994),HS1992,INR,Import,0.031849,General,CIF,Consignment,699,1994
+India(1994),HS1992,INR,Export,0.03184,General,FOB,Last Known Destination,699,1994
+Indonesia(1994),HS1992,USD,Import,1,Special,CIF,Origin,360,1994
+Indonesia(1994),HS1992,USD,Export,1,Special,FOB,Last Known Destination,360,1994
+Israel(1994),SITC Rev.3,USD,Import,1,Special,CIF,Purchase,376,1994
+Israel(1994),SITC Rev.3,USD,Export,1,Special,FOB,Last Known Destination,376,1994
+Jamaica(1994),SITC Rev.3,JMD,Import,0.030159,Special,CIF,Origin,388,1994
+Jamaica(1994),SITC Rev.3,JMD,Export,0.03017,Special,FOB,Last Known Destination,388,1994
+Japan(1994),HS1992,JPY,Import,0.009776,General,CIF,Origin,392,1994
+Japan(1994),HS1992,JPY,Export,0.009768,General,FOB,Last Known Destination,392,1994
+Jordan(1994),HS1992,JOD,Import,1.43164,General,CIF,Origin,400,1994
+Jordan(1994),HS1992,JOD,Export,1.43122,General,FOB,Last Known Destination,400,1994
+Kiribati(1994),SITC Rev.3,AUD,Import,0.733267,General,FOB,Origin,296,1994
+Kiribati(1994),SITC Rev.3,AUD,Export,0.73326,General,FOB,Last Known Destination,296,1994
+Kuwait(1994),SITC Rev.3,KWD,Import,3.35999,Special,CIF,Origin,414,1994
+Kuwait(1994),SITC Rev.3,KWD,Export,3.3422,Special,FOB,Last Known Destination,414,1994
+Mozambique(1994),HS1992,USD,Import,1,Special,CIF,Origin,508,1994
+Mozambique(1994),HS1992,USD,Export,1,Special,FOB,Last Known Destination,508,1994
+Nepal(1994),HS1992,NPR,Import,0.020303,Special,CIF,Origin,524,1994
+Nepal(1994),HS1992,NPR,Export,0.0203,Special,FOB,Last Known Destination,524,1994
+Vanuatu(1994),HS1992,VUV,Import,0.008402,General,CIF,Consignment,548,1994
+Vanuatu(1994),HS1992,VUV,Export,0.008632,General,FOB,Last Known Destination,548,1994
+Malaysia(1994),HS1992,MYR,Import,0.382243,General,CIF,Origin,458,1994
+Malaysia(1994),HS1992,MYR,Export,0.38229,General,FOB,Last Known Destination,458,1994
+Martinique(1994),HS1992,FRF,Import,0.180619,Special,CIF,Origin,474,1994
+Martinique(1994),HS1992,FRF,Export,0.17981,Special,FOB,Last Known Destination,474,1994
+Paraguay(1994),HS1992,USD,Import,1,Special,CIF,Consignment,600,1994
+Paraguay(1994),HS1992,USD,Export,1,Special,FOB,Last Known Destination,600,1994
+Uruguay(1994),HS1992,USD,Import,1,Special,CIF,Consignment,858,1994
+Uruguay(1994),HS1992,USD,Export,1,Special,FOB,Last Known Destination,858,1994
+Mexico(1994),HS1992,USD,Import,1,General,FOB,Origin,484,1994
+Mexico(1994),HS1992,USD,Export,1,General,FOB,Last Known Destination,484,1994
+Morocco(1994),HS1992,MAD,Import,0.109057,General,CIF,Consignment,504,1994
+Morocco(1994),HS1992,MAD,Export,0.109,General,FOB,Last Known Destination,504,1994
+USA(1994),HS1992,USD,Import,1,General,CIF,Origin,842,1994
+USA(1994),HS1992,USD,Export,1,General,FOB,Last Known Destination,842,1994
+Neth. Antilles(1994),SITC Rev.1,ANG,Import,0.5587,Special,CIF,Origin,530,1994
+Neth. Antilles(1994),SITC Rev.1,ANG,Export,0.5587,Special,FOB,Last Known Destination,530,1994
+New Zealand(1994),HS1992,NZD,Import,0.595651,General,CIF,Consignment,554,1994
+New Zealand(1994),HS1992,NZD,Export,0.593877,General,FOB,Last Known Destination,554,1994
+Nicaragua(1994),HS1992,USD,Import,1,General,CIF,Origin,558,1994
+Nicaragua(1994),HS1992,USD,Export,1,General,FOB,Last Known Destination,558,1994
+Algeria(1994),HS1992,DZD,Import,0.02827,Special,CIF,Origin,12,1994
+Algeria(1994),HS1992,DZD,Export,0.02837,Special,FOB,Last Known Destination,12,1994
+Tunisia(1994),HS1992,TND,Import,0.975438,General,CIF,Origin,788,1994
+Tunisia(1994),HS1992,TND,Export,0.97611,General,FOB,Last Known Destination,788,1994
+Bermuda(1994),HS1992,BMD,Import,NA,NULL,NULL,,60,1994
+Bermuda(1994),HS1992,BMD,Export,1,General,FOB,Last Known Destination,60,1994
+Tonga(1994),SITC Rev.1,TOP,Import,0.759435,General,CIF,Origin,776,1994
+Tonga(1994),SITC Rev.1,TOP,Export,0.769596,General,FOB,Last Known Destination,776,1994
+Rep. of Korea(1994),HS1992,USD,Import,1,Special,CIF,Origin,410,1994
+Rep. of Korea(1994),HS1992,USD,Export,1,Special,FOB,Last Known Destination,410,1994
+Turkey(1994),HS1992,USD,Import,1,Special,CIF,Origin,792,1994
+Turkey(1994),HS1992,USD,Export,1,Special,FOB,Last Known Destination,792,1994
+Oman(1994),HS1992,OMR,Import,2.6008,General,CIF,Origin,512,1994
+Oman(1994),HS1992,OMR,Export,2.6008,General,FOB,Last Known Destination,512,1994
+Qatar(1994),SITC Rev.3,QAR,Import,0.274725,General,CIF,Origin,634,1994
+Qatar(1994),SITC Rev.3,QAR,Export,0.27472,General,FOB,Last Known Destination,634,1994
+Saudi Arabia(1994),HS1992,SAR,Import,0.267023,General,CIF,Origin,682,1994
+Saudi Arabia(1994),HS1992,SAR,Export,0.267023,General,FOB,Sale,682,1994
+Venezuela(1994),HS1992,USD,Import,1,General,FOB,Origin,862,1994
+Venezuela(1994),HS1992,USD,Export,1,General,FOB,Last Known Destination,862,1994
+Panama(1994),SITC Rev.2,PAB,Import,1,Special,CIF,Origin,591,1994
+Panama(1994),SITC Rev.2,PAB,Export,1,Special,FOB,Last Known Destination,591,1994
+Peru(1994),HS1992,USD,Import,1,Special,CIF,Consignment,604,1994
+Peru(1994),HS1992,USD,Export,1,Special,FOB,Last Known Destination,604,1994
+Philippines(1994),SITC Rev.3,USD,Import,1,General,CIF,Origin,608,1994
+Philippines(1994),SITC Rev.3,USD,Export,1,General,FOB,Last Known Destination,608,1994
+Réunion(1994),HS1992,FRF,Import,0.180551,Special,CIF,Origin,638,1994
+Réunion(1994),HS1992,FRF,Export,0.17903,Special,FOB,Last Known Destination,638,1994
+So. African Customs Union(1994),HS1992,ZAR,Import,0.281374,General,CIF,Origin,711,1994
+So. African Customs Union(1994),HS1992,ZAR,Export,0.2815,General,FOB,Last Known Destination,711,1994
+Saint Kitts and Nevis(1994),HS1992,XCD,Import,0.37037,General,CIF,Origin,659,1994
+Saint Kitts and Nevis(1994),HS1992,XCD,Export,0.37037,General,FOB,Last Known Destination,659,1994
+Saint Lucia(1994),HS1992,XCD,Import,0.37037,General,CIF,Origin,662,1994
+Saint Lucia(1994),HS1992,XCD,Export,0.37037,General,FOB,Last Known Destination,662,1994
+Saint Vincent and the Grenadines(1994),HS1992,XCD,Import,0.37037,Special,CIF,Origin,670,1994
+Saint Vincent and the Grenadines(1994),HS1992,XCD,Export,0.3703,Special,FOB,Last Known Destination,670,1994
+Singapore(1994),HS1992,SGD,Import,0.656471,General,CIF,Origin,702,1994
+Singapore(1994),HS1992,SGD,Export,0.65721,General,FOB,Last Known Destination,702,1994
+Sri Lanka(1994),HS1992,LKR,Import,0.020234,General,CIF,Origin,144,1994
+Sri Lanka(1994),HS1992,LKR,Export,0.02023,General,FOB,Last Known Destination,144,1994
+Suriname(1994),HS1992,SRG,Import,0.009103,General,CIF,Origin,740,1994
+Suriname(1994),HS1992,SRG,Export,0.00864,General,FOB,Last Known Destination,740,1994
+Thailand(1994),HS1992,THB,Import,0.039764,General,CIF,Consignment,764,1994
+Thailand(1994),HS1992,THB,Export,0.03976,General,FOB,Last Known Destination,764,1994
+Trinidad and Tobago(1994),HS1992,TTD,Import,0.168689,Special,CIF,Origin,780,1994
+Trinidad and Tobago(1994),HS1992,TTD,Export,0.16883,Special,FOB,Last Known Destination,780,1994

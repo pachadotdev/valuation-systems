@@ -1,0 +1,225 @@
+reporter,reported_classification,reported_currency,trade_flow,currency_conversion_factor,trade_system,valuation,partner,r,y
+Algeria(1989),SITC Rev.2,DZD,Import,0.131116,Special,CIF,Origin,12,1989
+Algeria(1989),SITC Rev.2,DZD,Export,0.13112,Special,FOB,Last Known Destination,12,1989
+Argentina(1989),SITC Rev.2,USD,Import,1,Special,CIF,Origin,32,1989
+Argentina(1989),SITC Rev.2,USD,Export,1,Special,FOB,Last Known Destination,32,1989
+Aruba(1989),SITC Rev.1,AWG,Import,0.55866,General,CIF,Origin,533,1989
+Aruba(1989),SITC Rev.1,AWG,Export,0.55866,General,FOB,Last Known Destination,533,1989
+Australia(1989),HS1992,AUD,Import,0.77359,General,FOB,Origin,36,1989
+Australia(1989),HS1992,AUD,Export,0.78149,General,FOB,Last Known Destination,36,1989
+Austria(1989),SITC Rev.3,ATS,Import,0.075528,Special,CIF,Origin,40,1989
+Austria(1989),SITC Rev.3,ATS,Export,0.07553,Special,FOB,Last Known Destination,40,1989
+Bahrain(1989),SITC Rev.1,BHD,Import,2.65958,General,CIF,Origin,48,1989
+Bahrain(1989),SITC Rev.1,BHD,Export,2.65958,General,FOB,Last Known Destination,48,1989
+Bangladesh(1989),HS1992,BDT,Import,0.03108,General,CIF,Origin,50,1989
+Bangladesh(1989),HS1992,BDT,Export,0.03111,General,FOB,Last Known Destination,50,1989
+Barbados(1989),SITC Rev.2,XCD,Import,0.497191,General,CIF,Origin,52,1989
+Barbados(1989),SITC Rev.2,XCD,Export,0.49719,General,FOB,Last Known Destination,52,1989
+Belgium-Luxembourg(1989),SITC Rev.3,BEF,Import,0.25693,Special,CIF,Origin,58,1989
+Belgium-Luxembourg(1989),SITC Rev.3,BEF,Export,0.257,Special,FOB,Last Known Destination,58,1989
+Belize(1989),SITC Rev.1,BZD,Import,0.5,General,CIF,Origin,84,1989
+Belize(1989),SITC Rev.1,BZD,Export,0.5,General,FOB,Last Known Destination,84,1989
+Bermuda(1989),SITC Rev.1,BMD,Import,NA,NULL,NULL,,60,1989
+Bermuda(1989),SITC Rev.1,BMD,Export,1,General,FOB,Last Known Destination,60,1989
+Bolivia (Plurinational State of)(1989),SITC Rev.2,USD,Import,1,Special,CIF,Origin,68,1989
+Bolivia (Plurinational State of)(1989),SITC Rev.2,USD,Export,1,Special,FOB,Last Known Destination,68,1989
+Brazil(1989),HS1992,USD,Import,1,Special,CIF,Purchase,76,1989
+Brazil(1989),HS1992,USD,Export,1,Special,FOB,Last Known Destination,76,1989
+Brunei Darussalam(1989),SITC Rev.2,BND,Import,0.512742,General,CIF,Origin,96,1989
+Brunei Darussalam(1989),SITC Rev.2,BND,Export,0.51274,General,FOB,Last Known Destination,96,1989
+Cameroon(1989),SITC Rev.2,XOF,Import,0.003135,Special,CIF,Origin,120,1989
+Cameroon(1989),SITC Rev.2,XOF,Export,0.00313,Special,FOB,Last Known Destination,120,1989
+Canada(1989),HS1992,CAD,Import,0.844429,General,FOB,Consignment,124,1989
+Canada(1989),HS1992,CAD,Export,0.844625,General,FOB,Consignment,124,1989
+Central African Rep.(1989),SITC Rev.2,XOF,Import,0.31347,Special,CIF,Origin,140,1989
+Central African Rep.(1989),SITC Rev.2,XOF,Export,0.31347,Special,FOB,Last Known Destination,140,1989
+Chile(1989),SITC Rev.2,USD,Import,1,Special,CIF,Purchase,152,1989
+Chile(1989),SITC Rev.2,USD,Export,1,Special,FOB,Sale,152,1989
+China(1989),SITC Rev.2,USD,Import,1,Special,CIF,Origin,156,1989
+China(1989),SITC Rev.2,USD,Export,1,Special,FOB,Last Known Destination,156,1989
+"China, Hong Kong SAR(1989)",SITC Rev.2,HKD,Import,0.128209,General,CIF,Consignment,344,1989
+"China, Hong Kong SAR(1989)",SITC Rev.2,HKD,Export,0.1282,General,FOB,Last Known Destination,344,1989
+"China, Macao SAR(1989)",SITC Rev.3,MOP,Import,0.124461,General,CIF,Origin,446,1989
+"China, Macao SAR(1989)",SITC Rev.3,MOP,Export,0.12445,General,FOB,Last Known Destination,446,1989
+Colombia(1989),SITC Rev.2,USD,Import,1,Special,CIF,Purchase,170,1989
+Colombia(1989),SITC Rev.2,USD,Export,1,Special,FOB,Last Known Destination,170,1989
+Djibouti(1989),SITC Rev.2,DJF,Import,0.005627,Special,CIF,Origin,262,1989
+Djibouti(1989),SITC Rev.2,DJF,Export,0.005627,Special,FOB,Last Known Destination,262,1989
+Egypt(1989),SITC Rev.2,EGP,Import,0.448016,Special,CIF,Consignment,818,1989
+Egypt(1989),SITC Rev.2,EGP,Export,0.461719,Special,FOB,Last Known Destination,818,1989
+Malawi(1989),SITC Rev.2,MWK,Import,0.36296,General,CIF,Origin,454,1989
+Malawi(1989),SITC Rev.2,MWK,Export,0.35987,General,FOB,Last Known Destination,454,1989
+Mauritius(1989),SITC Rev.3,MUR,Import,0.06557,General,CIF,Consignment,480,1989
+Mauritius(1989),SITC Rev.3,MUR,Export,0.06557,General,FOB,Last Known Destination,480,1989
+Seychelles(1989),SITC Rev.2,SCR,Import,0.177036,General,CIF,Origin,690,1989
+Seychelles(1989),SITC Rev.2,SCR,Export,0.176869,General,FOB,Last Known Destination,690,1989
+Costa Rica(1989),SITC Rev.2,USD,Import,1,Special,CIF,Consignment,188,1989
+Costa Rica(1989),SITC Rev.2,USD,Export,1,Special,FOB,Last Known Destination,188,1989
+Cuba(1989),SITC Rev.3,USD,Import,1,General,CIF,Purchase,192,1989
+Cuba(1989),SITC Rev.3,USD,Export,1,NULL,NULL,,192,1989
+Cyprus(1989),HS1992,CYP,Import,2.01762,General,CIF,Consignment,196,1989
+Cyprus(1989),HS1992,CYP,Export,2.01767,General,FOB,Last Known Destination,196,1989
+Czechoslovakia(1989),SITC Rev.3,CZK,Import,0.0665,General,FOB,Purchase,200,1989
+Czechoslovakia(1989),SITC Rev.3,CZK,Export,0.0663,General,FOB,Sale,200,1989
+Denmark(1989),HS1992,DKK,Import,0.136807,General,CIF,Origin,208,1989
+Denmark(1989),HS1992,DKK,Export,0.13692,General,FOB,Last Known Destination,208,1989
+Dominica(1989),SITC Rev.2,XCD,Import,0.37037,General,CIF,Origin,212,1989
+Dominica(1989),SITC Rev.2,XCD,Export,0.3703,General,FOB,Last Known Destination,212,1989
+Mali(1989),SITC Rev.2,XOF,Import,0.00313,Special,CIF,Origin,466,1989
+Mali(1989),SITC Rev.2,XOF,Export,0.00313,Special,FOB,Last Known Destination,466,1989
+Senegal(1989),SITC Rev.2,XOF,Import,0.003136,Special,CIF,Origin,686,1989
+Senegal(1989),SITC Rev.2,XOF,Export,0.00314,Special,FOB,Last Known Destination,686,1989
+Togo(1989),SITC Rev.2,XOF,Import,0.31347,Special,CIF,Origin,768,1989
+Togo(1989),SITC Rev.2,XOF,Export,0.31347,Special,FOB,Last Known Destination,768,1989
+Ecuador(1989),SITC Rev.2,USD,Import,1,General,CIF,Origin,218,1989
+Ecuador(1989),SITC Rev.2,USD,Export,1,General,FOB,Last Known Destination,218,1989
+El Salvador(1989),SITC Rev.2,USD,Import,1,Special,CIF,Origin,222,1989
+El Salvador(1989),SITC Rev.2,USD,Export,1,Special,FOB,Last Known Destination,222,1989
+Fmr Dem. Rep. of Germany(1989),SITC Rev.2,USD,Import,1,Special,CIF,Origin,278,1989
+Fmr Dem. Rep. of Germany(1989),SITC Rev.2,USD,Export,1,Special,FOB,Last Known Destination,278,1989
+Hungary(1989),SITC Rev.2,USD,Import,1,General,CIF,Purchase,348,1989
+Hungary(1989),SITC Rev.2,USD,Export,1,General,FOB,Sale,348,1989
+Poland(1989),SITC Rev.2,PLN,Import,0.691415,General,FOB,Purchase,616,1989
+Poland(1989),SITC Rev.2,PLN,Export,0.691415,General,FOB,Sale,616,1989
+Romania(1989),HS1992,USD,Import,1,Special,FOB,Origin,642,1989
+Romania(1989),HS1992,USD,Export,1,Special,FOB,Last Known Destination,642,1989
+Iceland(1989),HS1992,ISK,Import,0.017454,General,CIF,Consignment,352,1989
+Iceland(1989),HS1992,ISK,Export,0.017499,General,FOB,Last Known Destination,352,1989
+Norway(1989),SITC Rev.3,NOK,Import,0.144839,General,CIF,Origin,579,1989
+Norway(1989),SITC Rev.3,NOK,Export,0.14486,General,FOB,Last Known Destination,579,1989
+Switzerland(1989),HS1992,CHF,Import,0.61136,Special,CIF,Consignment,757,1989
+Switzerland(1989),HS1992,CHF,Export,0.6115,Special,FOB,Last Known Destination,757,1989
+Faeroe Isds(1989),SITC Rev.3,DKK,Import,0.136726,General,CIF,Origin,234,1989
+Faeroe Isds(1989),SITC Rev.3,DKK,Export,0.136726,General,FOB,Last Known Destination,234,1989
+Finland(1989),HS1992,FIM,Import,0.23326,General,CIF,Origin,246,1989
+Finland(1989),HS1992,FIM,Export,0.23321,General,FOB,Last Known Destination,246,1989
+Fmr Fed. Rep. of Germany(1989),HS1992,USD,Import,1,Special,CIF,Origin,280,1989
+Fmr Fed. Rep. of Germany(1989),HS1992,USD,Export,1,Special,FOB,Last Known Destination,280,1989
+Fmr Yugoslavia(1989),SITC Rev.3,YUD,Import,0.031974,Special,CIF,Origin,890,1989
+Fmr Yugoslavia(1989),SITC Rev.3,YUD,Export,0.032274,Special,FOB,Last Known Destination,890,1989
+France(1989),SITC Rev.3,FRF,Import,0.15688,Special,CIF,Origin,251,1989
+France(1989),SITC Rev.3,FRF,Export,0.15692,Special,FOB,Last Known Destination,251,1989
+Greece(1989),HS1992,GRD,Import,0.006142,Special,CIF,Consignment,300,1989
+Greece(1989),HS1992,GRD,Export,0.00612,Special,FOB,Last Known Destination,300,1989
+Ireland(1989),SITC Rev.3,IEP,Import,1.41837,General,CIF,Origin,372,1989
+Ireland(1989),SITC Rev.3,IEP,Export,1.41775,General,FOB,Last Known Destination,372,1989
+Italy(1989),SITC Rev.3,ITL,Import,0.72862,Special,CIF,Origin,381,1989
+Italy(1989),SITC Rev.3,ITL,Export,0.7287,Special,FOB,Last Known Destination,381,1989
+Malta(1989),SITC Rev.1,MTL,Import,2.91698,General,CIF,Origin,470,1989
+Malta(1989),SITC Rev.1,MTL,Export,2.9148,General,FOB,Last Known Destination,470,1989
+Netherlands(1989),SITC Rev.3,NLG,Import,0.471841,Special,CIF,Origin,528,1989
+Netherlands(1989),SITC Rev.3,NLG,Export,0.471999,Special,FOB,Last Known Destination,528,1989
+Portugal(1989),HS1992,PTE,Import,0.00635,Special,CIF,Origin,620,1989
+Portugal(1989),HS1992,PTE,Export,0.00634,Special,FOB,Last Known Destination,620,1989
+Spain(1989),HS1992,ESP,Import,0.008445,Special,CIF,Origin,724,1989
+Spain(1989),HS1992,ESP,Export,0.00845,Special,FOB,Last Known Destination,724,1989
+Sweden(1989),SITC Rev.3,SEK,Import,0.155354,General,CIF,Origin,752,1989
+Sweden(1989),SITC Rev.3,SEK,Export,0.15533,General,FOB,Last Known Destination,752,1989
+United Kingdom(1989),SITC Rev.3,GBP,Import,1.63708,General,CIF,Consignment,826,1989
+United Kingdom(1989),SITC Rev.3,GBP,Export,1.635039,General,FOB,Last Known Destination,826,1989
+Fiji(1989),SITC Rev.3,FJD,Import,0.67504,General,CIF,Origin,242,1989
+Fiji(1989),SITC Rev.3,FJD,Export,0.67368,General,FOB,Last Known Destination,242,1989
+Fmr Dem. Yemen(1989),SITC Rev.2,DZD,Import,2.89855,General,CIF,Consignment,720,1989
+Fmr Dem. Yemen(1989),SITC Rev.2,DZD,Export,2.898552,General,FOB,Last Known Destination,720,1989
+Fmr Ethiopia(1989),SITC Rev.2,ETB,Import,0.48309,General,CIF,Origin,230,1989
+Fmr Ethiopia(1989),SITC Rev.2,ETB,Export,0.48309,General,FOB,Last Known Destination,230,1989
+French Guiana(1989),SITC Rev.3,FRF,Import,0.157016,Special,CIF,Origin,254,1989
+French Guiana(1989),SITC Rev.3,FRF,Export,0.15662,Special,FOB,Last Known Destination,254,1989
+Greenland(1989),SITC Rev.3,DKK,Import,0.136726,General,CIF,Origin,304,1989
+Greenland(1989),SITC Rev.3,DKK,Export,0.136726,General,FOB,Last Known Destination,304,1989
+Grenada(1989),SITC Rev.2,XCD,Import,0.37037,Special,CIF,Origin,308,1989
+Grenada(1989),SITC Rev.2,XCD,Export,0.37037,General,FOB,Last Known Destination,308,1989
+Guadeloupe(1989),SITC Rev.3,FRF,Import,0.157308,Special,CIF,Origin,312,1989
+Guadeloupe(1989),SITC Rev.3,FRF,Export,0.15738,Special,FOB,Last Known Destination,312,1989
+Guatemala(1989),SITC Rev.2,USD,Import,1,Special,CIF,Origin,320,1989
+Guatemala(1989),SITC Rev.2,USD,Export,1,Special,FOB,Last Known Destination,320,1989
+Haiti(1989),HS1992,HTG,Import,NA,NULL,NULL,,332,1989
+Haiti(1989),HS1992,HTG,Export,0.199997,General,FOB,Last Known Destination,332,1989
+Honduras(1989),SITC Rev.2,USD,Import,1,Special,CIF,Origin,340,1989
+Honduras(1989),SITC Rev.2,USD,Export,1,Special,FOB,Last Known Destination,340,1989
+India(1989),HS1992,INR,Import,0.061488,General,CIF,Consignment,699,1989
+India(1989),HS1992,INR,Export,0.061627,General,FOB,Last Known Destination,699,1989
+Indonesia(1989),HS1992,USD,Import,1,Special,CIF,Origin,360,1989
+Indonesia(1989),HS1992,USD,Export,1,Special,FOB,Last Known Destination,360,1989
+Israel(1989),SITC Rev.3,USD,Import,1,Special,CIF,Purchase,376,1989
+Israel(1989),SITC Rev.3,USD,Export,1,Special,FOB,Last Known Destination,376,1989
+Jamaica(1989),SITC Rev.2,USD,Import,1,Special,CIF,Origin,388,1989
+Jamaica(1989),SITC Rev.2,USD,Export,1,Special,FOB,Last Known Destination,388,1989
+Japan(1989),HS1992,JPY,Import,0.007276,General,CIF,Origin,392,1989
+Japan(1989),HS1992,JPY,Export,0.007275,General,FOB,Last Known Destination,392,1989
+Jordan(1989),SITC Rev.3,JOD,Import,1.73369,General,CIF,Origin,400,1989
+Jordan(1989),SITC Rev.3,JOD,Export,1.7342,General,FOB,Last Known Destination,400,1989
+Kiribati(1989),SITC Rev.3,AUD,Import,0.7925,General,FOB,Origin,296,1989
+Kiribati(1989),SITC Rev.3,AUD,Export,0.7925,General,FOB,Last Known Destination,296,1989
+Kuwait(1989),SITC Rev.3,KWD,Import,3.4049,Special,CIF,Origin,414,1989
+Kuwait(1989),SITC Rev.3,KWD,Export,3.4049,Special,FOB,Last Known Destination,414,1989
+Nepal(1989),SITC Rev.2,NPR,Import,0.396855,General,CIF,Consignment,524,1989
+Nepal(1989),SITC Rev.2,NPR,Export,0.39657,General,FOB,Last Known Destination,524,1989
+Libya(1989),SITC Rev.2,LYD,Import,3.4229,General,CIF,Origin,434,1989
+Libya(1989),SITC Rev.2,LYD,Export,3.4229,General,FOB,Last Known Destination,434,1989
+Malaysia(1989),HS1992,MYR,Import,0.3694,General,CIF,Origin,458,1989
+Malaysia(1989),HS1992,MYR,Export,0.3693,General,FOB,Last Known Destination,458,1989
+Martinique(1989),SITC Rev.3,FRF,Import,0.157001,Special,CIF,Origin,474,1989
+Martinique(1989),SITC Rev.3,FRF,Export,0.15651,Special,FOB,Last Known Destination,474,1989
+Paraguay(1989),HS1992,USD,Import,1,Special,CIF,Consignment,600,1989
+Paraguay(1989),HS1992,USD,Export,1,Special,FOB,Last Known Destination,600,1989
+Uruguay(1989),SITC Rev.2,USD,Import,1,Special,CIF,Consignment,858,1989
+Uruguay(1989),SITC Rev.2,USD,Export,1,Special,FOB,Last Known Destination,858,1989
+Mexico(1989),SITC Rev.3,USD,Import,1,General,CIF,Origin,484,1989
+Mexico(1989),SITC Rev.3,USD,Export,1,General,FOB,Last Known Destination,484,1989
+Morocco(1989),SITC Rev.2,MAD,Import,1.1788,Special,CIF,Origin,504,1989
+Morocco(1989),SITC Rev.2,MAD,Export,1.18019,Special,FOB,Last Known Destination,504,1989
+USA(1989),SITC Rev.3,USD,Import,1,General,CIF,Origin,842,1989
+USA(1989),SITC Rev.3,USD,Export,1,General,FOB,Last Known Destination,842,1989
+Neth. Antilles(1989),SITC Rev.1,ANG,Import,0.557633,Special,CIF,Origin,530,1989
+Neth. Antilles(1989),SITC Rev.1,ANG,Export,0.557633,Special,FOB,Last Known Destination,530,1989
+New Zealand(1989),HS1992,NZD,Import,0.596602,General,CIF,Consignment,554,1989
+New Zealand(1989),HS1992,NZD,Export,0.598352,General,FOB,Last Known Destination,554,1989
+Nicaragua(1989),SITC Rev.2,USD,Import,1,General,CIF,Origin,558,1989
+Nicaragua(1989),SITC Rev.2,USD,Export,1,General,FOB,Last Known Destination,558,1989
+Algeria(1989),SITC Rev.2,DZD,Import,0.131116,Special,CIF,Origin,12,1989
+Algeria(1989),SITC Rev.2,DZD,Export,0.13112,Special,FOB,Last Known Destination,12,1989
+Tunisia(1989),SITC Rev.2,TND,Import,1.05474,General,CIF,Origin,788,1989
+Tunisia(1989),SITC Rev.2,TND,Export,1.05405,General,FOB,Last Known Destination,788,1989
+Bermuda(1989),SITC Rev.1,BMD,Import,NA,NULL,NULL,,60,1989
+Bermuda(1989),SITC Rev.1,BMD,Export,1,General,FOB,Last Known Destination,60,1989
+Saint Pierre and Miquelon(1989),SITC Rev.2,FRF,Import,0.15688,Special,CIF,Origin,666,1989
+Saint Pierre and Miquelon(1989),SITC Rev.2,FRF,Export,0.15692,Special,FOB,Last Known Destination,666,1989
+Papua New Guinea(1989),SITC Rev.2,PGK,Import,1.16809,General,FOB,Origin,598,1989
+Papua New Guinea(1989),SITC Rev.2,PGK,Export,1.1685,General,FOB,Consignment,598,1989
+Tonga(1989),SITC Rev.1,TOP,Import,0.79027,General,CIF,Origin,776,1989
+Tonga(1989),SITC Rev.1,TOP,Export,0.78958,General,FOB,Last Known Destination,776,1989
+Rep. of Korea(1989),HS1992,USD,Import,1,Special,CIF,Origin,410,1989
+Rep. of Korea(1989),HS1992,USD,Export,1,Special,FOB,Last Known Destination,410,1989
+Oman(1989),HS1992,OMR,Import,2.60078,General,CIF,Origin,512,1989
+Oman(1989),HS1992,OMR,Export,2.60078,General,FOB,Last Known Destination,512,1989
+Qatar(1989),SITC Rev.2,QAR,Import,0.274725,General,CIF,Origin,634,1989
+Qatar(1989),SITC Rev.2,QAR,Export,0.27472,General,FOB,Last Known Destination,634,1989
+Saudi Arabia(1989),SITC Rev.2,SAR,Import,0.267023,General,CIF,Origin,682,1989
+Saudi Arabia(1989),SITC Rev.2,SAR,Export,0.267023,General,FOB,Sale,682,1989
+Venezuela(1989),SITC Rev.2,USD,Import,1,General,FOB,Origin,862,1989
+Venezuela(1989),SITC Rev.2,USD,Export,1,General,FOB,Consignment,862,1989
+Pakistan(1989),SITC Rev.2,PKR,Import,0.048615,General,CIF,Origin,586,1989
+Pakistan(1989),SITC Rev.2,PKR,Export,0.04857,General,FOB,Consignment,586,1989
+Panama(1989),SITC Rev.2,PAB,Import,1,Special,CIF,Origin,591,1989
+Panama(1989),SITC Rev.2,PAB,Export,1,Special,FOB,Last Known Destination,591,1989
+Peru(1989),SITC Rev.2,USD,Import,1,Special,CIF,Origin,604,1989
+Peru(1989),SITC Rev.2,USD,Export,1,Special,FOB,Last Known Destination,604,1989
+Philippines(1989),SITC Rev.2,USD,Import,1,General,CIF,Origin,608,1989
+Philippines(1989),SITC Rev.2,USD,Export,1,General,FOB,Last Known Destination,608,1989
+Réunion(1989),SITC Rev.3,FRF,Import,0.156553,Special,CIF,Origin,638,1989
+Réunion(1989),SITC Rev.3,FRF,Export,0.1562,Special,FOB,Last Known Destination,638,1989
+Saint Lucia(1989),SITC Rev.2,XCD,Import,0.37037,General,CIF,Origin,662,1989
+Saint Lucia(1989),SITC Rev.2,XCD,Export,0.37037,General,FOB,Last Known Destination,662,1989
+Singapore(1989),HS1992,SGD,Import,0.512962,General,CIF,Origin,702,1989
+Singapore(1989),HS1992,SGD,Export,0.51295,General,FOB,Last Known Destination,702,1989
+Sri Lanka(1989),SITC Rev.2,LKR,Import,0.027708,General,CIF,Origin,144,1989
+Sri Lanka(1989),SITC Rev.2,LKR,Export,0.02754,General,FOB,Last Known Destination,144,1989
+Suriname(1989),SITC Rev.2,SRG,Import,0.56022,General,CIF,Origin,740,1989
+Suriname(1989),SITC Rev.2,SRG,Export,0.56022,General,FOB,Last Known Destination,740,1989
+Syria(1989),SITC Rev.2,SYP,Import,0.089088,Special,CIF,Origin,760,1989
+Syria(1989),SITC Rev.2,SYP,Export,0.089088,Special,FOB,Last Known Destination,760,1989
+Thailand(1989),HS1992,THB,Import,0.038885,General,CIF,Origin,764,1989
+Thailand(1989),HS1992,THB,Export,0.03888,General,FOB,Last Known Destination,764,1989
+Trinidad and Tobago(1989),SITC Rev.2,TTD,Import,0.235294,Special,CIF,Origin,780,1989
+Trinidad and Tobago(1989),SITC Rev.2,TTD,Export,0.23529,Special,FOB,Last Known Destination,780,1989

@@ -1,0 +1,355 @@
+reporter,reported_classification,reported_currency,trade_flow,currency_conversion_factor,trade_system,valuation,partner,r,y
+Albania(2000),HS1996,ALL,Import,0.006938,Special,CIF,Origin,8,2000
+Albania(2000),HS1996,ALL,Export,0.006964,Special,FOB,Last Known Destination,8,2000
+Algeria(2000),HS1996,USD,Import,1,Special,CIF,Origin,12,2000
+Algeria(2000),HS1996,USD,Export,1,Special,FOB,Last Known Destination,12,2000
+Andorra(2000),HS1996,EUR,Import,0.91856,General,CIF,Origin,20,2000
+Andorra(2000),HS1996,EUR,Export,0.918704,General,FOB,Last Known Destination,20,2000
+Anguilla(2000),HS1992,XCD,Import,0.37037,Special,CIF,Origin,660,2000
+Anguilla(2000),HS1992,XCD,Export,0.37037,Special,FOB,Last Known Destination,660,2000
+Antigua and Barbuda(2000),HS1996,USD,Import,1,General,CIF,Origin,28,2000
+Antigua and Barbuda(2000),HS1996,USD,Export,1,General,FOB,Last Known Destination,28,2000
+Argentina(2000),HS1996,USD,Import,1,Special,CIF,Origin,32,2000
+Argentina(2000),HS1996,USD,Export,1,Special,FOB,Last Known Destination,32,2000
+Armenia(2000),HS1996,USD,Import,1,General,CIF,Origin,51,2000
+Armenia(2000),HS1996,USD,Export,1,General,FOB,Last Known Destination,51,2000
+Aruba(2000),HS1996,AWG,Import,0.558659,General,CIF,Origin,533,2000
+Aruba(2000),HS1996,AWG,Export,0.558659,General,FOB,Last Known Destination,533,2000
+Australia(2000),HS1996,AUD,Import,0.579461,General,FOB,Origin,36,2000
+Australia(2000),HS1996,AUD,Export,0.578266,General,FOB,Last Known Destination,36,2000
+Austria(2000),HS1996,ATS,Import,0.066903,Special,CIF,Origin,40,2000
+Austria(2000),HS1996,ATS,Export,0.066912,Special,FOB,Last Known Destination,40,2000
+Azerbaijan(2000),HS1996,USD,Import,1,General,CIF,Origin,31,2000
+Azerbaijan(2000),HS1996,USD,Export,1,General,FOB,Last Known Destination,31,2000
+Bahamas(2000),HS1996,USD,Import,1,General,CIF,Origin,44,2000
+Bahamas(2000),HS1996,USD,Export,1,General,FOB,Last Known Destination,44,2000
+Bahrain(2000),HS1992,BHD,Import,2.65957,General,CIF,Origin,48,2000
+Bahrain(2000),HS1992,BHD,Export,2.65957,General,FOB,Last Known Destination,48,2000
+Bangladesh(2000),HS1992,BDT,Import,0.019151,General,CIF,Consignment,50,2000
+Bangladesh(2000),HS1992,BDT,Export,0.019158,General,FOB,Last Known Destination,50,2000
+Barbados(2000),HS1996,XCD,Import,0.37037,General,CIF,Origin,52,2000
+Barbados(2000),HS1996,XCD,Export,0.37037,General,FOB,Last Known Destination,52,2000
+Belarus(2000),HS1996,USD,Import,1,General,CIF,Origin,112,2000
+Belarus(2000),HS1996,USD,Export,1,General,FOB,Last Known Destination,112,2000
+Belgium(2000),HS1996,EUR,Import,0.92097,Special,CIF,Origin/Consignment for Intra-EU,56,2000
+Belgium(2000),HS1996,EUR,Export,0.921232,Special,FOB,Last Known Destination,56,2000
+Belize(2000),HS1996,XCD,Import,0.37037,General,CIF,Origin,84,2000
+Belize(2000),HS1996,XCD,Export,0.37037,General,FOB,Last Known Destination,84,2000
+Benin(2000),HS1996,XAF,Import,0.001415,General,CIF,Origin,204,2000
+Benin(2000),HS1996,XAF,Export,0.001415,General,FOB,Last Known Destination,204,2000
+Bolivia (Plurinational State of)(2000),HS1996,USD,Import,1,Special,CIF,Origin,68,2000
+Bolivia (Plurinational State of)(2000),HS1996,USD,Export,1,Special,FOB,Last Known Destination,68,2000
+Botswana(2000),HS1996,BWP,Import,0.195861,Special,CIF,Origin,72,2000
+Botswana(2000),HS1996,BWP,Export,0.19495,Special,FOB,Last Known Destination,72,2000
+Brazil(2000),HS1996,USD,Import,1,Special,CIF,Origin,76,2000
+Brazil(2000),HS1996,USD,Export,1,Special,FOB,Last Known Destination,76,2000
+Bulgaria(2000),HS1996,EUR,Import,0.918106,Special,CIF,Origin,100,2000
+Bulgaria(2000),HS1996,EUR,Export,0.91791,Special,FOB,Last Known Destination,100,2000
+Burkina Faso(2000),HS1996,XAF,Import,0.001397,General,CIF,Origin,854,2000
+Burkina Faso(2000),HS1996,XAF,Export,0.001431,General,FOB,Last Known Destination,854,2000
+Burundi(2000),HS1992,BIF,Import,0.001395,General,CIF,Origin,108,2000
+Burundi(2000),HS1992,BIF,Export,0.00142,General,FOB,Last Known Destination,108,2000
+Cabo Verde(2000),HS1996,CVE,Import,0.008629,Special,CIF,Origin,132,2000
+Cabo Verde(2000),HS1996,CVE,Export,0.008589,Special,FOB,Last Known Destination,132,2000
+Cambodia(2000),HS1996,KHR,Import,2.6e-4,General,CIF,Origin,116,2000
+Cambodia(2000),HS1996,KHR,Export,2.6e-4,General,Other,Last Known Destination,116,2000
+Cameroon(2000),HS1996,XOF,Import,0.001398,Special,CIF,Origin,120,2000
+Cameroon(2000),HS1996,XOF,Export,0.001397,Special,FOB,Last Known Destination,120,2000
+Canada(2000),HS1996,CAD,Import,0.673223,General,FOB,Origin,124,2000
+Canada(2000),HS1996,CAD,Export,0.673103,General,FOB,Last Known Destination,124,2000
+Central African Rep.(2000),HS1992,XOF,Import,0.001423,General,CIF,Origin,140,2000
+Central African Rep.(2000),HS1992,XOF,Export,0.001424,General,FOB,Last Known Destination,140,2000
+Chile(2000),HS1996,USD,Import,1,Special,CIF,Origin,152,2000
+Chile(2000),HS1996,USD,Export,1,Special,FOB,Last Known Destination,152,2000
+China(2000),HS1996,USD,Import,1,General,CIF,Origin,156,2000
+China(2000),HS1996,USD,Export,1,General,FOB,Last Known Destination,156,2000
+"China, Hong Kong SAR(2000)",HS1996,HKD,Import,0.12835,General,CIF,Consignment,344,2000
+"China, Hong Kong SAR(2000)",HS1996,HKD,Export,0.12835,General,FOB,Last Known Destination,344,2000
+"China, Macao SAR(2000)",HS1996,MOP,Import,0.124597,General,CIF,Origin,446,2000
+"China, Macao SAR(2000)",HS1996,MOP,Export,0.124597,General,FOB,Last Known Destination,446,2000
+Georgia(2000),HS1996,USD,Import,1,General,CIF,Purchase,268,2000
+Georgia(2000),HS1996,USD,Export,1,General,FOB,Last Known Destination,268,2000
+Kazakhstan(2000),HS1996,USD,Import,1,General,CIF,Origin,398,2000
+Kazakhstan(2000),HS1996,USD,Export,1,General,FOB,Last Known Destination,398,2000
+Kyrgyzstan(2000),HS1996,USD,Import,1,General,CIF,Consignment,417,2000
+Kyrgyzstan(2000),HS1996,USD,Export,1,General,FOB,Last Known Destination,417,2000
+Rep. of Moldova(2000),HS1996,USD,Import,1,General,CIF,Origin,498,2000
+Rep. of Moldova(2000),HS1996,USD,Export,1,General,FOB,Last Known Destination,498,2000
+Russian Federation(2000),HS1996,USD,Import,1,General,CIF,Origin,643,2000
+Russian Federation(2000),HS1996,USD,Export,1,General,FOB,Last Known Destination,643,2000
+Tajikistan(2000),HS1996,USD,Import,1,General,CIF,Origin,762,2000
+Tajikistan(2000),HS1996,USD,Export,1,General,FOB,Last Known Destination,762,2000
+Turkmenistan(2000),HS1996,USD,Import,1,Special,CIF,Origin,795,2000
+Turkmenistan(2000),HS1996,USD,Export,1,Special,FOB,Last Known Destination,795,2000
+Ukraine(2000),HS1992,USD,Import,1,General,CIF,Origin,804,2000
+Ukraine(2000),HS1992,USD,Export,1,General,FOB,Last Known Destination,804,2000
+Colombia(2000),HS1996,USD,Import,1,Special,CIF,Origin,170,2000
+Colombia(2000),HS1996,USD,Export,1,Special,FOB,Last Known Destination,170,2000
+Comoros(2000),HS1992,KMF,Import,0.001869,General,CIF,Origin,174,2000
+Comoros(2000),HS1992,KMF,Export,0.001869,General,FOB,Last Known Destination,174,2000
+Egypt(2000),HS1992,USD,Import,1,Special,CIF,Origin,818,2000
+Egypt(2000),HS1992,USD,Export,1,Special,FOB,Last Known Destination,818,2000
+Eritrea(2000),SITC Rev.3,ERN,Import,0.098039,General,CIF,Consignment,232,2000
+Eritrea(2000),SITC Rev.3,ERN,Export,0.099845,General,FOB,Last Known Destination,232,2000
+Ethiopia(2000),HS1996,ETB,Import,0.121601,General,CIF,Origin,231,2000
+Ethiopia(2000),HS1996,ETB,Export,0.121823,General,FOB,Last Known Destination,231,2000
+Kenya(2000),HS1996,KES,Import,0.013125,General,CIF,Origin,404,2000
+Kenya(2000),HS1996,KES,Export,0.013117,General,FOB,Last Known Destination,404,2000
+Madagascar(2000),HS1996,MGF,Import,7.4e-4,General,CIF,Origin,450,2000
+Madagascar(2000),HS1996,MGF,Export,7.42e-4,General,FOB,Consumption,450,2000
+Malawi(2000),HS1996,MWK,Import,0.016496,General,CIF,Origin,454,2000
+Malawi(2000),HS1996,MWK,Export,0.016055,General,FOB,Last Known Destination,454,2000
+Mauritius(2000),HS1996,MUR,Import,0.038069,General,CIF,Origin,480,2000
+Mauritius(2000),HS1996,MUR,Export,0.037941,General,FOB,Last Known Destination,480,2000
+Namibia(2000),HS1996,"NAD",Import,0.143098,General,CIF,N/A,516,2000
+Namibia(2000),HS1996,"NAD",Export,0.143703,General,FOB,N/A,516,2000
+Seychelles(2000),HS1992,SCR,Import,0.175489,General,CIF,Origin,690,2000
+Seychelles(2000),HS1992,SCR,Export,0.174677,General,FOB,Last Known Destination,690,2000
+Fmr Sudan(2000),HS1996,SDD,Import,0.388917,General,CIF,Origin,736,2000
+Fmr Sudan(2000),HS1996,SDD,Export,0.388917,General,FOB,Last Known Destination,736,2000
+Eswatini(2000),HS1996,SZL,Import,0.143113,General,CIF,Origin,748,2000
+Eswatini(2000),HS1996,SZL,Export,0.143003,General,FOB,Last Known Destination,748,2000
+United Rep. of Tanzania(2000),HS1996,TZS,Import,0.001249,General,CIF,Origin,834,2000
+United Rep. of Tanzania(2000),HS1996,TZS,Export,0.001249,General,FOB,Last Known Destination,834,2000
+Uganda(2000),HS1996,USD,Import,1,Special,CIF,Origin,800,2000
+Uganda(2000),HS1996,USD,Export,1,Special,FOB,Last Known Destination,800,2000
+Zambia(2000),HS1992,USD,Import,1,General,CIF,Origin,894,2000
+Zambia(2000),HS1992,USD,Export,1,General,FOB,Last Known Destination,894,2000
+Zimbabwe(2000),HS1996,USD,Import,1,General,CIF,Origin,716,2000
+Zimbabwe(2000),HS1996,USD,Export,1,General,FOB,Last Known Destination,716,2000
+Cook Isds(2000),HS1996,NZD,Import,0.44835,General,CIF,Origin,184,2000
+Cook Isds(2000),HS1996,NZD,Export,0.44574,General,FOB,Last Known Destination,184,2000
+Costa Rica(2000),HS1996,USD,Import,1,Special,CIF,Consignment,188,2000
+Costa Rica(2000),HS1996,USD,Export,1,Special,FOB,Last Known Destination,188,2000
+Côte d'Ivoire(2000),HS1996,XOF,Import,0.001403,Special,CIF,Origin,384,2000
+Côte d'Ivoire(2000),HS1996,XOF,Export,0.001404,Special,FOB,Consumption,384,2000
+Croatia(2000),HS1996,USD,Import,1,Special,CIF,Origin,191,2000
+Croatia(2000),HS1996,USD,Export,1,Special,FOB,Last Known Destination,191,2000
+Cuba(2000),HS1996,USD,Import,1,Special,CIF,Origin,192,2000
+Cuba(2000),HS1996,USD,Export,1,Special,FOB,Last Known Destination,192,2000
+Cyprus(2000),HS1996,CYP,Import,1.601339,Special,CIF,Consignment,196,2000
+Cyprus(2000),HS1996,CYP,Export,1.610989,Special,FOB,Last Known Destination,196,2000
+Czechia(2000),HS1996,USD,Import,1,Special,FOB,Origin,203,2000
+Czechia(2000),HS1996,USD,Export,1,Special,FOB,Last Known Destination,203,2000
+Denmark(2000),HS1996,DKK,Import,0.123621,General,CIF,Origin/Consignment for Intra-EU,208,2000
+Denmark(2000),HS1996,DKK,Export,0.123431,General,FOB,Last Known Destination,208,2000
+Dominica(2000),HS1996,XCD,Import,0.37037,Special,CIF,Origin,212,2000
+Dominica(2000),HS1996,XCD,Export,0.37037,Special,FOB,Last Known Destination,212,2000
+Gambia(2000),HS1992,GMD,Import,0.078313,General,CIF,Origin,270,2000
+Gambia(2000),HS1992,GMD,Export,0.07833,General,FOB,Last Known Destination,270,2000
+Ghana(2000),HS1992,GHC,Import,1.839303,General,CIF,Origin,288,2000
+Ghana(2000),HS1992,GHC,Export,1.799356,General,FOB,Last Known Destination,288,2000
+Guinea(2000),HS1996,GNF,Import,5.75e-4,Special,CIF,Origin,324,2000
+Guinea(2000),HS1996,GNF,Export,5.75e-4,Special,FOB,Last Known Destination,324,2000
+Mali(2000),HS1996,XOF,Import,0.001407,Special,CIF,Origin,466,2000
+Mali(2000),HS1996,XOF,Export,0.001407,Special,FOB,Last Known Destination,466,2000
+Niger(2000),HS1996,XOF,Import,0.001387,General,CIF,Origin,562,2000
+Niger(2000),HS1996,XOF,Export,0.001407,General,FOB,Last Known Destination,562,2000
+Nigeria(2000),HS1996,NGN,Import,0.009837,General,CIF,Origin,566,2000
+Nigeria(2000),HS1996,NGN,Export,0.009837,General,FOB,Last Known Destination,566,2000
+Senegal(2000),HS1996,XOF,Import,0.001399,General,CIF,Origin,686,2000
+Senegal(2000),HS1996,XOF,Export,0.001406,General,FOB,Last Known Destination,686,2000
+Sierra Leone(2000),HS1992,SLL,Import,4.75e-4,General,CIF,Origin,694,2000
+Sierra Leone(2000),HS1992,SLL,Export,4.87e-4,General,FOB,Last Known Destination,694,2000
+Togo(2000),HS1996,XAF,Import,0.001405,Special,CIF,Origin,768,2000
+Togo(2000),HS1996,XAF,Export,0.001401,Special,FOB,Last Known Destination,768,2000
+Ecuador(2000),HS1996,USD,Import,1,Special,CIF,Origin,218,2000
+Ecuador(2000),HS1996,USD,Export,1,Special,FOB,Last Known Destination,218,2000
+El Salvador(2000),HS1996,USD,Import,1,General,CIF,Origin,222,2000
+El Salvador(2000),HS1996,USD,Export,1,General,FOB,Last Known Destination,222,2000
+Estonia(2000),HS1996,EEK,Import,0.058658,General,CIF,Origin,233,2000
+Estonia(2000),HS1996,EEK,Export,0.058744,General,FOB,Last Known Destination,233,2000
+EU-28(2000),HS1996,EUR,Import,0.920031,Special,CIF,Origin,97,2000
+EU-28(2000),HS1996,EUR,Export,0.919423,Special,FOB,Last Known Destination,97,2000
+Albania(2000),HS1996,ALL,Import,0.006938,Special,CIF,Origin,8,2000
+Albania(2000),HS1996,ALL,Export,0.006964,Special,FOB,Last Known Destination,8,2000
+Hungary(2000),HS1996,USD,Import,1,Special,CIF,Consignment,348,2000
+Hungary(2000),HS1996,USD,Export,1,Special,FOB,Last Known Destination,348,2000
+Poland(2000),HS1996,USD,Import,1,Special,CIF,Origin,616,2000
+Poland(2000),HS1996,USD,Export,1,Special,FOB,Last Known Destination,616,2000
+Romania(2000),HS1996,USD,Import,1,Special,CIF,Origin,642,2000
+Romania(2000),HS1996,USD,Export,1,Special,FOB,Last Known Destination,642,2000
+Slovakia(2000),HS1996,SKK,Import,0.021641,Special,FOB,Origin,703,2000
+Slovakia(2000),HS1996,SKK,Export,0.021674,Special,FOB,Last Known Destination,703,2000
+Iceland(2000),HS1996,ISK,Import,0.01271,Special,CIF,Origin,352,2000
+Iceland(2000),HS1996,ISK,Export,0.012734,Special,FOB,Last Known Destination,352,2000
+Norway(2000),HS1996,NOK,Import,0.113425,General,CIF,Origin,579,2000
+Norway(2000),HS1996,NOK,Export,0.113367,General,FOB,Last Known Destination,579,2000
+Switzerland(2000),HS1996,CHF,Import,0.591717,Special,CIF,Consignment,757,2000
+Switzerland(2000),HS1996,CHF,Export,0.591605,Special,FOB,Last Known Destination,757,2000
+Latvia(2000),HS1996,USD,Import,1,General,CIF,Origin,428,2000
+Latvia(2000),HS1996,USD,Export,1,General,FOB,Last Known Destination,428,2000
+Lithuania(2000),HS1996,USD,Import,1,General,CIF,Origin,440,2000
+Lithuania(2000),HS1996,USD,Export,1,General,FOB,Last Known Destination,440,2000
+Faeroe Isds(2000),HS1996,DKK,Import,0.12365,General,CIF,Origin,234,2000
+Faeroe Isds(2000),HS1996,DKK,Export,0.123592,General,FOB,Last Known Destination,234,2000
+Finland(2000),HS1996,EUR,Import,0.154719,Special,CIF,Origin,246,2000
+Finland(2000),HS1996,EUR,Export,0.154563,Special,FOB,Last Known Destination,246,2000
+France(2000),HS1996,EUR,Import,0.920985,Special,CIF,Origin,251,2000
+France(2000),HS1996,EUR,Export,0.921324,Special,FOB,Last Known Destination,251,2000
+Germany(2000),HS1996,USD,Import,1,Special,CIF,Origin,276,2000
+Germany(2000),HS1996,USD,Export,1,Special,FOB,Last Known Destination,276,2000
+Greece(2000),HS1996,GRD,Import,0.002712,Special,CIF,Origin/Consignment for Intra-EU,300,2000
+Greece(2000),HS1996,GRD,Export,0.002712,Special,FOB,Last Known Destination,300,2000
+Ireland(2000),HS1996,EUR,Import,0.920132,General,CIF,Origin,372,2000
+Ireland(2000),HS1996,EUR,Export,0.919036,General,FOB,Last Known Destination,372,2000
+Italy(2000),HS1996,EUR,Import,0.920948,Special,CIF,Origin/Consignment for Intra-EU,381,2000
+Italy(2000),HS1996,EUR,Export,0.921357,Special,FOB,Last Known Destination,381,2000
+Luxembourg(2000),HS1996,EUR,Import,0.920287,Special,CIF,Origin/Consignment for Intra-EU,442,2000
+Luxembourg(2000),HS1996,EUR,Export,0.922404,Special,FOB,Last Known Destination,442,2000
+Malta(2000),HS1996,MTL,Import,2.278265,General,CIF,Origin/Consignment for Intra-EU,470,2000
+Malta(2000),HS1996,MTL,Export,2.277749,General,FOB,Last Known Destination,470,2000
+Netherlands(2000),HS1996,EUR,Import,0.920714,Special,CIF,Origin/Consignment for Intra-EU,528,2000
+Netherlands(2000),HS1996,EUR,Export,0.920514,Special,FOB,Last Known Destination,528,2000
+Portugal(2000),HS1996,EUR,Import,0.921955,Special,CIF,Origin/Consignment for Intra-EU,620,2000
+Portugal(2000),HS1996,EUR,Export,0.922252,Special,FOB,Last Known Destination,620,2000
+Slovenia(2000),HS1996,USD,Import,1,Special,CIF,Origin,705,2000
+Slovenia(2000),HS1996,USD,Export,1,Special,FOB,Last Known Destination,705,2000
+Spain(2000),HS1996,EUR,Import,0.920325,Special,CIF,Origin/Consignment for Intra EU,724,2000
+Spain(2000),HS1996,EUR,Export,0.920781,Special,FOB,Last Known Destination,724,2000
+Sweden(2000),HS1996,SEK,Import,0.109059,Special,CIF,Origin/Consignment for Intra-EU,752,2000
+Sweden(2000),HS1996,SEK,Export,0.109126,Special,FOB,Last Known Destination,752,2000
+North Macedonia(2000),HS1996,USD,Import,1,Special,FOB,Origin,807,2000
+North Macedonia(2000),HS1996,USD,Export,1,Special,FOB,Last Known Destination,807,2000
+United Kingdom(2000),HS1996,GBP,Import,1.513617,General,CIF,Origin/Consignment for Intra-EU,826,2000
+United Kingdom(2000),HS1996,GBP,Export,1.513413,General,FOB,Last Known Destination,826,2000
+Serbia and Montenegro(2000),HS1996,USD,Import,1,Special,CIF,Origin,891,2000
+Serbia and Montenegro(2000),HS1996,USD,Export,1,Special,FOB,Last Known Destination,891,2000
+Fiji(2000),HS1996,FJD,Import,0.470292,General,CIF,Origin,242,2000
+Fiji(2000),HS1996,FJD,Export,0.467003,General,FOB,Sale,242,2000
+French Polynesia(2000),HS1996,XPF,Import,0.007743,Special,CIF,Origin,258,2000
+French Polynesia(2000),HS1996,XPF,Export,0.007743,Special,FOB,Last Known Destination,258,2000
+Gabon(2000),HS1996,XAF,Import,0.001406,General,CIF,N/A,266,2000
+Gabon(2000),HS1996,XAF,Export,0.001406,General,FOB,N/A,266,2000
+Greenland(2000),HS1996,DKK,Import,0.123664,General,CIF,Origin,304,2000
+Greenland(2000),HS1996,DKK,Export,0.123042,General,FOB,Last Known Destination,304,2000
+Grenada(2000),HS1996,USD,Import,1,General,CIF,Origin,308,2000
+Grenada(2000),HS1996,USD,Export,1,General,FOB,Last Known Destination,308,2000
+Guatemala(2000),HS1996,USD,Import,1,Special,CIF,Origin,320,2000
+Guatemala(2000),HS1996,USD,Export,1,Special,FOB,Last Known Destination,320,2000
+Guyana(2000),HS1996,GYD,Import,0.005481,Special,CIF,Origin,328,2000
+Guyana(2000),HS1996,GYD,Export,0.00548,Special,FOB,Last Known Destination,328,2000
+Honduras(2000),HS1996,USD,Import,1,Special,CIF,Origin,340,2000
+Honduras(2000),HS1996,USD,Export,1,Special,FOB,Last Known Destination,340,2000
+India(2000),HS1996,INR,Import,0.022259,General,CIF,Origin,699,2000
+India(2000),HS1996,INR,Export,0.022228,General,FOB,Last Known Destination,699,2000
+Indonesia(2000),HS1996,USD,Import,1,General Export/Special Import,CIF,Origin,360,2000
+Indonesia(2000),HS1996,USD,Export,1,General Export/Special Import,FOB,Last Known Destination,360,2000
+Iran(2000),HS1996,USD,Import,1,Special,CIF,Origin,364,2000
+Iran(2000),HS1996,USD,Export,1,Special,FOB,Last Known Destination,364,2000
+Iraq(2000),SITC Rev.3,IQD,Import,3.21691,Special,CIF,Origin,368,2000
+Iraq(2000),SITC Rev.3,IQD,Export,3.21691,Special,FOB,Last Known Destination,368,2000
+Israel(2000),HS1996,USD,Import,1,Special,CIF,Origin,376,2000
+Israel(2000),HS1996,USD,Export,1,Special,FOB,Sale,376,2000
+Jamaica(2000),HS1996,XCD,Import,0.37037,General,CIF,Origin,388,2000
+Jamaica(2000),HS1996,XCD,Export,0.37037,General,FOB,Last Known Destination,388,2000
+Japan(2000),HS1996,JPY,Import,0.009275,General,CIF,Origin,392,2000
+Japan(2000),HS1996,JPY,Export,0.009279,General,FOB,Last Known Destination,392,2000
+Jordan(2000),HS1996,JOD,Import,1.41044,Special,CIF,Origin,400,2000
+Jordan(2000),HS1996,JOD,Export,1.41044,Special,FOB,Last Known Destination,400,2000
+Kuwait(2000),HS1992,KWD,Import,3.259745,Special,CIF,Origin,414,2000
+Kuwait(2000),HS1992,KWD,Export,3.259318,Special,FOB,Last Known Destination,414,2000
+Lesotho(2000),HS1992,LSL,Import,0.144139,General,CIF,Consignment,426,2000
+Lesotho(2000),HS1992,LSL,Export,0.144434,General,FOB,Last Known Destination,426,2000
+Maldives(2000),HS1996,MVR,Import,0.084962,General,CIF,Origin,462,2000
+Maldives(2000),HS1996,MVR,Export,0.084962,General,FOB,Last Known Destination,462,2000
+Mauritania(2000),HS1996,XOF,Import,0.004187,General,CIF,Origin,478,2000
+Mauritania(2000),HS1996,XOF,Export,0.004187,General,FOB,Last Known Destination,478,2000
+Mozambique(2000),HS1992,USD,Import,1,General,CIF,Origin,508,2000
+Mozambique(2000),HS1992,USD,Export,1,General,FOB,Last Known Destination,508,2000
+Nepal(2000),HS1996,NPR,Import,0.014065,Special,CIF,Origin,524,2000
+Nepal(2000),HS1996,NPR,Export,0.01405,Special,FOB,Last Known Destination,524,2000
+Sao Tome and Principe(2000),HS1996,STD,Import,1.26e-4,Special,CIF,Origin,678,2000
+Sao Tome and Principe(2000),HS1996,STD,Export,1.26e-4,Special,FOB,Last Known Destination,678,2000
+Vanuatu(2000),HS1996,VUV,Import,0.007254,General,CIF,Origin,548,2000
+Vanuatu(2000),HS1996,VUV,Export,0.007257,General,FOB,Last Known Destination,548,2000
+Yemen(2000),SITC Rev.2,YER,Import,0.006191,Special,CIF,Consignment,887,2000
+Yemen(2000),SITC Rev.2,YER,Export,0.006182,Special,FOB,Last Known Destination,887,2000
+Lebanon(2000),HS1996,USD,Import,1,General,CIF,Origin,422,2000
+Lebanon(2000),HS1996,USD,Export,1,General,FOB,Last Known Destination,422,2000
+Malaysia(2000),HS1996,MYR,Import,0.26316,General,CIF,Origin,458,2000
+Malaysia(2000),HS1996,MYR,Export,0.26316,General,FOB,Last Known Destination,458,2000
+Mayotte(2000),HS1996,EUR,Import,0.918303,General,CIF,Origin,175,2000
+Mayotte(2000),HS1996,EUR,Export,0.917194,General,FOB,Last Known Destination,175,2000
+Paraguay(2000),HS1996,USD,Import,1,General,CIF,Origin,600,2000
+Paraguay(2000),HS1996,USD,Export,1,General,FOB,Last Known Destination,600,2000
+Uruguay(2000),HS1996,USD,Import,1,Special,CIF,Origin,858,2000
+Uruguay(2000),HS1996,USD,Export,1,Special,FOB,Last Known Destination,858,2000
+Mexico(2000),HS1996,USD,Import,1,General,FOB,Origin,484,2000
+Mexico(2000),HS1996,USD,Export,1,General,FOB,Last Known Destination,484,2000
+Mongolia(2000),HS1996,USD,Import,1,General,CIF,Origin,496,2000
+Mongolia(2000),HS1996,USD,Export,1,General,FOB,Last Known Destination,496,2000
+Montserrat(2000),HS1992,XCD,Import,0.37037,Special,CIF,Origin,500,2000
+Montserrat(2000),HS1992,XCD,Export,0.37037,Special,FOB,Last Known Destination,500,2000
+Morocco(2000),HS1992,MAD,Import,0.094146,Special,CIF,Origin,504,2000
+Morocco(2000),HS1992,MAD,Export,0.09428,Special,FOB,Last Known Destination,504,2000
+USA(2000),HS1996,USD,Import,1,General,CIF,Origin,842,2000
+USA(2000),HS1996,USD,Export,1,General,FOB,Last Known Destination,842,2000
+New Caledonia(2000),HS1992,XPF,Import,0.008498,Special,CIF,Consignment,540,2000
+New Caledonia(2000),HS1992,XPF,Export,0.008498,Special,FOB,Last Known Destination,540,2000
+New Zealand(2000),HS1996,NZD,Import,0.452423,General,CIF,Origin,554,2000
+New Zealand(2000),HS1996,NZD,Export,0.454502,General,FOB,Last Known Destination,554,2000
+Nicaragua(2000),HS1996,USD,Import,1,General,CIF,Origin,558,2000
+Nicaragua(2000),HS1996,USD,Export,1,General,FOB,Last Known Destination,558,2000
+Algeria(2000),HS1996,USD,Import,1,Special,CIF,Origin,12,2000
+Algeria(2000),HS1996,USD,Export,1,Special,FOB,Last Known Destination,12,2000
+Tunisia(2000),HS1996,TND,Import,0.729841,General,CIF,Origin,788,2000
+Tunisia(2000),HS1996,TND,Export,0.730831,General,FOB,Last Known Destination,788,2000
+Papua New Guinea(2000),HS1992,PGK,Import,0.360174,General,CIF,Origin,598,2000
+Papua New Guinea(2000),HS1992,PGK,Export,0.360161,General,FOB,Consignment,598,2000
+Tonga(2000),HS1992,TOP,Import,0.564087,General,CIF,Origin,776,2000
+Tonga(2000),HS1992,TOP,Export,0.554648,General,FOB,Last Known Destination,776,2000
+Wallis and Futuna Isds(2000),HS1992,XPF,Import,0.0077210000000000004,General,CIF,Origin,876,2000
+Wallis and Futuna Isds(2000),HS1992,XPF,Export,0,General,FOB,,876,2000
+Rep. of Korea(2000),HS1996,USD,Import,1,General,CIF,Origin,410,2000
+Rep. of Korea(2000),HS1996,USD,Export,1,General,FOB,Last Known Destination,410,2000
+Turkey(2000),HS1996,USD,Import,1,Special,CIF,Origin,792,2000
+Turkey(2000),HS1996,USD,Export,1,Special,FOB,Last Known Destination,792,2000
+Oman(2000),HS1996,OMR,Import,2.60078,General,CIF,Origin,512,2000
+Oman(2000),HS1996,OMR,Export,2.60078,General,FOB,Last Known Destination,512,2000
+Qatar(2000),HS1996,QAR,Import,0.27473,Special,CIF,Origin,634,2000
+Qatar(2000),HS1996,QAR,Export,0.27473,Special,FOB,Last Known Destination,634,2000
+Saudi Arabia(2000),HS1996,SAR,Import,0.266667,General,CIF,Origin,682,2000
+Saudi Arabia(2000),HS1996,SAR,Export,0.266667,General,FOB,Last Known Destination,682,2000
+United Arab Emirates(2000),HS1996,AED,Import,0.272294,Special,CIF,Origin,784,2000
+United Arab Emirates(2000),HS1996,AED,Export,0.272294,Special,FOB,Consumption,784,2000
+Venezuela(2000),HS1996,USD,Import,1,General,FOB,Origin,862,2000
+Venezuela(2000),HS1996,USD,Export,1,General,FOB,Last Known Destination,862,2000
+"Other Asia, nes(2000)",HS1996,USD,Import,1,Special,CIF,Origin,490,2000
+"Other Asia, nes(2000)",HS1996,USD,Export,1,General,FOB,Last Known Destination,490,2000
+Pakistan(2000),SITC Rev.3,PKR,Import,0.018998,General,CIF,Origin,586,2000
+Pakistan(2000),SITC Rev.3,PKR,Export,0.01899,General,FOB,Last Known Destination,586,2000
+Panama(2000),HS1996,PAB,Import,1,General,CIF,Origin,591,2000
+Panama(2000),HS1996,PAB,Export,1,General,FOB,Last Known Destination,591,2000
+Peru(2000),HS1996,USD,Import,1,Special,CIF,Origin,604,2000
+Peru(2000),HS1996,USD,Export,1,Special,FOB,Last Known Destination,604,2000
+Philippines(2000),HS1996,USD,Import,1,General,CIF,Origin,608,2000
+Philippines(2000),HS1996,USD,Export,1,General,FOB,Last Known Destination,608,2000
+Botswana(2000),HS1996,BWP,Import,0.195861,Special,CIF,Origin,72,2000
+Botswana(2000),HS1996,BWP,Export,0.19495,Special,FOB,Last Known Destination,72,2000
+South Africa(2000),HS1996,ZAR,Import,0.143741,Special,FOB,Origin,710,2000
+South Africa(2000),HS1996,ZAR,Export,0.143839,Special,FOB,Last Known Destination,710,2000
+Saint Kitts and Nevis(2000),HS1996,XCD,Import,0.37037,Special,CIF,Origin,659,2000
+Saint Kitts and Nevis(2000),HS1996,XCD,Export,0.37037,Special,FOB,Last Known Destination,659,2000
+Saint Lucia(2000),HS1996,XPF,Import,0.37037,General,CIF,Origin,662,2000
+Saint Lucia(2000),HS1996,XPF,Export,0.37037,General,FOB,Last Known Destination,662,2000
+Saint Vincent and the Grenadines(2000),HS1996,XCD,Import,0.37037,Special,CIF,Origin,670,2000
+Saint Vincent and the Grenadines(2000),HS1996,XCD,Export,0.37037,Special,FOB,Last Known Destination,670,2000
+Singapore(2000),HS1996,SGD,Import,0.579501,General,CIF,Origin,702,2000
+Singapore(2000),HS1996,SGD,Export,0.579439,General,FOB,Last Known Destination,702,2000
+Sri Lanka(2000),HS1996,LKR,Import,0.012949,General,CIF,Origin,144,2000
+Sri Lanka(2000),HS1996,LKR,Export,0.012932,General,FOB,Last Known Destination,144,2000
+State of Palestine(2000),SITC Rev.3,USD,Import,1,Special,CIF,Origin,275,2000
+State of Palestine(2000),SITC Rev.3,USD,Export,1,Special,FOB,Last Known Destination,275,2000
+Suriname(2000),HS1992,USD,Import,1,General,CIF,Origin,740,2000
+Suriname(2000),HS1992,USD,Export,1,General,FOB,Last Known Destination,740,2000
+Syria(2000),SITC Rev.3,SYP,Import,0.089087,Special,CIF,Consignment,760,2000
+Syria(2000),SITC Rev.3,SYP,Export,0.089087,Special,FOB,Last Known Destination,760,2000
+Thailand(2000),HS1996,THB,Import,0.024828,General,CIF,Origin,764,2000
+Thailand(2000),HS1996,THB,Export,0.024862,General,FOB,Last Known Destination,764,2000
+Trinidad and Tobago(2000),HS1996,TTD,Import,0.158735,Special,CIF,Origin,780,2000
+Trinidad and Tobago(2000),HS1996,TTD,Export,0.158735,Special,FOB,Last Known Destination,780,2000
+Turks and Caicos Isds(2000),HS1992,USD,Import,1,General,CIF,Origin,796,2000
+Turks and Caicos Isds(2000),HS1992,USD,Export,1,General,FOB,Last Known Destination,796,2000
+Viet Nam(2000),HS1996,USD,Import,1,Special,CIF,Consignment,704,2000
+Viet Nam(2000),HS1996,USD,Export,1,Special,FOB,Last Known Destination,704,2000
