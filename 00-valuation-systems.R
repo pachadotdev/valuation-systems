@@ -28,12 +28,12 @@ library(janitor)
 library(stringr)
 library(readr)
 
+fout <- "trade_valuation_system_per_country.csv"
+
 rmDr <- remoteDriver(port = 4444L, browserName = "chrome")
 rmDr$open(silent = TRUE)
 
 Y <- 2021:1962
-
-fout <- "trade_valuation_system_per_country.csv"
 
 # if (file.exists(fout)) {
 #   valuation <- readRDS(fout)
@@ -207,7 +207,7 @@ valuation <- valuation %>%
       reporter == "Fmr Rep. of Vietnam" ~ "vnm",
       reporter == "Fmr Sudan" ~ "sdn",
       reporter == "India [...1974]" ~ "ind", # India, excl. Sikkim
-      reporter == "Neth. Antilles and Aruba" ~ "ant",
+      reporter == "Neth. Antilles and Aruba" ~ "nld", # ant applies from 1988
       reporter == "North Macedonia" ~ "mkd",
       reporter == "Saint Kitts, Nevis and Anguilla" ~ "kna",
       reporter == "So. African Customs Union" ~ "zaf",
@@ -215,7 +215,7 @@ valuation <- valuation %>%
       TRUE ~ country_iso
     ),
     country_code = case_when(
-      reporter == "Belgium-Luxembourg" ~ 56,
+      reporter == "Belgium-Luxembourg" ~ 58, # 56 applies from 1999 
       reporter == "Bolivia" ~ 68,
       reporter == "Cabo Verde" ~ 132,
       reporter == "Czechia" ~ 203,
@@ -291,5 +291,19 @@ valuation <- valuation %>%
 
 valuation <- valuation %>%
   mutate_if(is.character, function(x) { str_squish(str_to_lower(x))})
+
+valuation %>%
+  group_by(year, country_iso, country_code) %>%
+  count() %>%
+  filter(n > 1)
+
+valuation %>%
+  filter(country_iso == "bra", year == 1968) %>%
+  glimpse()
+
+# fix any "matrices" for cases such as Brazil 1968
+valuation <- valuation %>%
+  group_by(year, country_iso, country_code) %>%
+  summarise_all(~max(.x, na.rm = T))
 
 write_csv(valuation, fout)
