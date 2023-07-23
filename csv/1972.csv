@@ -30,7 +30,7 @@ Burkina Faso(1972),SITC Rev.1,XOF,Export,0.39582,Special,FOB,Last Known Destinat
 Cambodia(1972),SITC Rev.1,KHR,Import,0.00833,Special,CIF,Origin,116,1972
 Cambodia(1972),SITC Rev.1,KHR,Export,0.00833,Special,FOB,Last Known Destination,116,1972
 Cameroon(1972),SITC Rev.1,XOF,Import,0.391229,Special,CIF,Origin,120,1972
-Cameroon(1972),SITC Rev.1,XOF,Export,0.39118000000000003,Special,FOB,Last Known Destination,120,1972
+Cameroon(1972),SITC Rev.1,XOF,Export,0.39118,Special,FOB,Last Known Destination,120,1972
 Canada(1972),SITC Rev.1,CAD,Import,1.00996,General,FOB,Consignment,124,1972
 Canada(1972),SITC Rev.1,CAD,Export,1.01005,General,FOB,Consignment,124,1972
 Chad(1972),SITC Rev.1,XOF,Import,0.3965,Special,CIF,Origin,148,1972
@@ -149,8 +149,8 @@ Haiti(1972),SITC Rev.1,HTG,Import,0.2,General,CIF,Origin,332,1972
 Haiti(1972),SITC Rev.1,HTG,Export,0.2,General,FOB,Last Known Destination,332,1972
 Honduras(1972),SITC Rev.1,USD,Import,1,Special,CIF,Origin,340,1972
 Honduras(1972),SITC Rev.1,USD,Export,1,Special,FOB,Last Known Destination,340,1972
-"India, excl. Sikkim(1972)",SITC Rev.1,INR,Import,0.132825,General,CIF,Consignment,356,1972
-"India, excl. Sikkim(1972)",SITC Rev.1,INR,Export,0.1325,General,FOB,Last Known Destination,356,1972
+India [...1974](1972),SITC Rev.1,INR,Import,0.132825,General,CIF,Consignment,356,1972
+India [...1974](1972),SITC Rev.1,INR,Export,0.1325,General,FOB,Last Known Destination,356,1972
 Indonesia(1972),SITC Rev.1,USD,Import,1,Special,CIF,Origin,360,1972
 Indonesia(1972),SITC Rev.1,USD,Export,1,Special,FOB,Last Known Destination,360,1972
 Iran(1972),SITC Rev.1,IRR,Import,0.134048,Special,CIF,Purchase,364,1972

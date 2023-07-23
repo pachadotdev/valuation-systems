@@ -127,8 +127,8 @@ Guatemala(1969),SITC Rev.1,USD,Import,1,Special,CIF,Origin,320,1969
 Guatemala(1969),SITC Rev.1,USD,Export,1,Special,FOB,Last Known Destination,320,1969
 Honduras(1969),SITC Rev.1,USD,Import,1,Special,CIF,Origin,340,1969
 Honduras(1969),SITC Rev.1,USD,Export,1,Special,FOB,Last Known Destination,340,1969
-"India, excl. Sikkim(1969)",SITC Rev.1,INR,Import,0.133333,General,CIF,Consignment,356,1969
-"India, excl. Sikkim(1969)",SITC Rev.1,INR,Export,0.133333,General,FOB,Last Known Destination,356,1969
+India [...1974](1969),SITC Rev.1,INR,Import,0.133333,General,CIF,Consignment,356,1969
+India [...1974](1969),SITC Rev.1,INR,Export,0.133333,General,FOB,Last Known Destination,356,1969
 Indonesia(1969),SITC Rev.1,USD,Import,1,Special,CIF,Origin,360,1969
 Indonesia(1969),SITC Rev.1,USD,Export,1,Special,FOB,Last Known Destination,360,1969
 Iran(1969),SITC Rev.1,IRR,Import,0.132013,Special,CIF,Purchase,364,1969

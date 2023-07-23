@@ -79,8 +79,8 @@ Ethiopia(1997),HS1992,ETB,Import,0.148883,General,CIF,Origin,231,1997
 Ethiopia(1997),HS1992,ETB,Export,0.14894,General,FOB,Last Known Destination,231,1997
 Kenya(1997),HS1996,KES,Import,0.017194,General,CIF,Origin,404,1997
 Kenya(1997),HS1996,KES,Export,0.01711,General,FOB,Last Known Destination,404,1997
-Madagascar(1997),HS1996,MGF,Import,1.97e-4,Special,CIF,Origin,450,1997
-Madagascar(1997),HS1996,MGF,Export,2e-4,Special,FOB,Last Known Destination,450,1997
+Madagascar(1997),HS1996,MGF,Import,0.000197,Special,CIF,Origin,450,1997
+Madagascar(1997),HS1996,MGF,Export,2e-04,Special,FOB,Last Known Destination,450,1997
 Malawi(1997),HS1992,MWK,Import,0.061196,General,CIF,Origin,454,1997
 Malawi(1997),HS1992,MWK,Export,0.060787,General,FOB,Last Known Destination,454,1997
 Mauritius(1997),HS1996,MUR,Import,0.048421,General,CIF,Consignment,480,1997
@@ -93,8 +93,8 @@ Fmr Sudan(1997),HS1992,SDD,Import,0.00635,General,CIF,Consignment,736,1997
 Fmr Sudan(1997),HS1992,SDD,Export,0.00635,General,FOB,Last Known Destination,736,1997
 United Rep. of Tanzania(1997),HS1996,TZS,Import,0.001632,Special,CIF,Origin,834,1997
 United Rep. of Tanzania(1997),HS1996,TZS,Export,0.001637,Special,FOB,Last Known Destination,834,1997
-Uganda(1997),HS1996,UGX,Import,9.2e-4,General,CIF,Consignment,800,1997
-Uganda(1997),HS1996,UGX,Export,0.00093000000000000005,General,FOB,Last Known Destination,800,1997
+Uganda(1997),HS1996,UGX,Import,0.00092,General,CIF,Consignment,800,1997
+Uganda(1997),HS1996,UGX,Export,0.00093,General,FOB,Last Known Destination,800,1997
 Zimbabwe(1997),SITC Rev.3,ZWD,Import,0.084591,General,CIF,Origin,716,1997
 Zimbabwe(1997),SITC Rev.3,ZWD,Export,0.083015,General,FOB,Last Known Destination,716,1997
 Costa Rica(1997),HS1996,USD,Import,1,Special,CIF,Consignment,188,1997
@@ -115,10 +115,10 @@ Dominican Rep.(1997),HS1992,USD,Import,1,NULL,NULL,,214,1997
 Dominican Rep.(1997),HS1992,USD,Export,1,General,FOB,Last Known Destination,214,1997
 Gambia(1997),HS1996,GMD,Import,0.098211,General,CIF,Consignment,270,1997
 Gambia(1997),HS1996,GMD,Export,0.09901,General,FOB,Last Known Destination,270,1997
-Ghana(1997),HS1992,GHC,Import,4.84e-4,General,CIF,Origin,288,1997
-Ghana(1997),HS1992,GHC,Export,4.8e-4,General,FOB,Consignment,288,1997
-Guinea(1997),HS1992,GNF,Import,8.53e-4,General,CIF,Origin,324,1997
-Guinea(1997),HS1992,GNF,Export,8.6e-4,General,FOB,Last Known Destination,324,1997
+Ghana(1997),HS1992,GHC,Import,0.000484,General,CIF,Origin,288,1997
+Ghana(1997),HS1992,GHC,Export,0.00048,General,FOB,Consignment,288,1997
+Guinea(1997),HS1992,GNF,Import,0.000853,General,CIF,Origin,324,1997
+Guinea(1997),HS1992,GNF,Export,0.00086,General,FOB,Last Known Destination,324,1997
 Mali(1997),HS1992,XOF,Import,0.001711,Special,CIF,Origin,466,1997
 Mali(1997),HS1992,XOF,Export,0.00171,Special,FOB,Last Known Destination,466,1997
 Niger(1997),HS1992,FRF,Import,0.001712,General,CIF,Origin,562,1997
@@ -167,8 +167,8 @@ Greece(1997),HS1996,GRD,Import,0.003652,Special,CIF,Consignment,300,1997
 Greece(1997),HS1996,GRD,Export,0.00367,Special,FOB,Last Known Destination,300,1997
 Ireland(1997),HS1996,IEP,Import,1.51582,General,CIF,Origin,372,1997
 Ireland(1997),HS1996,IEP,Export,1.51461,General,FOB,Last Known Destination,372,1997
-Italy(1997),HS1996,ITL,Import,5.88e-4,Special,CIF,Origin,381,1997
-Italy(1997),HS1996,ITL,Export,5.87e-4,Special,FOB,Last Known Destination,381,1997
+Italy(1997),HS1996,ITL,Import,0.000588,Special,CIF,Origin,381,1997
+Italy(1997),HS1996,ITL,Export,0.000587,Special,FOB,Last Known Destination,381,1997
 Malta(1997),HS1996,MTL,Import,2.59316,General,CIF,Origin,470,1997
 Malta(1997),HS1996,MTL,Export,2.59175,General,FOB,Last Known Destination,470,1997
 Netherlands(1997),HS1996,NLG,Import,0.512869,Special,CIF,Origin,528,1997

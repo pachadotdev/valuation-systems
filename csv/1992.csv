@@ -4,7 +4,7 @@ Algeria(1992),HS1992,DZD,Export,0.04581,Special,FOB,Last Known Destination,12,19
 Argentina(1992),SITC Rev.3,USD,Import,1,Special,CIF,Origin,32,1992
 Argentina(1992),SITC Rev.3,USD,Export,1,Special,FOB,Last Known Destination,32,1992
 Australia(1992),HS1992,AUD,Import,0.732992,General,FOB,Origin,36,1992
-Australia(1992),HS1992,AUD,Export,0.73357000000000006,General,FOB,Last Known Destination,36,1992
+Australia(1992),HS1992,AUD,Export,0.73357,General,FOB,Last Known Destination,36,1992
 Austria(1992),SITC Rev.3,ATS,Import,0.091115,Special,CIF,Origin,40,1992
 Austria(1992),SITC Rev.3,ATS,Export,0.09112,Special,FOB,Last Known Destination,40,1992
 Bahrain(1992),SITC Rev.1,BHD,Import,2.65958,General,CIF,Origin,48,1992
@@ -47,8 +47,8 @@ Egypt(1992),SITC Rev.2,USD,Import,1,Special,CIF,Consignment,818,1992
 Egypt(1992),SITC Rev.2,USD,Export,1,Special,FOB,Last Known Destination,818,1992
 Kenya(1992),HS1992,KES,Import,0.031184,General,CIF,Origin,404,1992
 Kenya(1992),HS1992,KES,Export,0.0306,General,FOB,Last Known Destination,404,1992
-Madagascar(1992),HS1992,MGF,Import,5.37e-4,Special,CIF,Origin,450,1992
-Madagascar(1992),HS1992,MGF,Export,5.4e-4,Special,FOB,Last Known Destination,450,1992
+Madagascar(1992),HS1992,MGF,Import,0.000537,Special,CIF,Origin,450,1992
+Madagascar(1992),HS1992,MGF,Export,0.00054,Special,FOB,Last Known Destination,450,1992
 Mauritius(1992),SITC Rev.3,MUR,Import,0.064255,General,CIF,Consignment,480,1992
 Mauritius(1992),SITC Rev.3,MUR,Export,0.06426,General,FOB,Last Known Destination,480,1992
 Seychelles(1992),SITC Rev.3,SCR,Import,0.195157,General,CIF,Origin,690,1992
@@ -101,8 +101,8 @@ Greece(1992),HS1992,GRD,Import,0.00523,Special,CIF,Consignment,300,1992
 Greece(1992),HS1992,GRD,Export,0.00523,Special,FOB,Last Known Destination,300,1992
 Ireland(1992),HS1992,IEP,Import,1.70388,General,CIF,Origin,372,1992
 Ireland(1992),HS1992,IEP,Export,1.70398,General,FOB,Last Known Destination,372,1992
-Italy(1992),SITC Rev.3,ITL,Import,8.13e-4,Special,CIF,Origin,381,1992
-Italy(1992),SITC Rev.3,ITL,Export,8.13e-4,Special,FOB,Last Known Destination,381,1992
+Italy(1992),SITC Rev.3,ITL,Import,0.000813,Special,CIF,Origin,381,1992
+Italy(1992),SITC Rev.3,ITL,Export,0.000813,Special,FOB,Last Known Destination,381,1992
 Malta(1992),SITC Rev.3,MTL,Import,3.12737,General,CIF,Origin,470,1992
 Malta(1992),SITC Rev.3,MTL,Export,3.13221,General,FOB,Last Known Destination,470,1992
 Netherlands(1992),HS1992,NLG,Import,0.569423,Special,CIF,Origin,528,1992
@@ -209,7 +209,7 @@ Peru(1992),HS1992,USD,Import,1,Special,CIF,Consignment,604,1992
 Peru(1992),HS1992,USD,Export,1,Special,FOB,Last Known Destination,604,1992
 Philippines(1992),SITC Rev.3,USD,Import,1,General,CIF,Origin,608,1992
 Philippines(1992),SITC Rev.3,USD,Export,1,General,FOB,Last Known Destination,608,1992
-Réunion(1992),SITC Rev.3,FRF,Import,0.18884600000000001,Special,CIF,Origin,638,1992
+Réunion(1992),SITC Rev.3,FRF,Import,0.188846,Special,CIF,Origin,638,1992
 Réunion(1992),SITC Rev.3,FRF,Export,0.18947,Special,FOB,Last Known Destination,638,1992
 So. African Customs Union(1992),HS1992,ZAR,Import,0.350245,General,CIF,Origin,711,1992
 So. African Customs Union(1992),HS1992,ZAR,Export,0.35105,General,FOB,Last Known Destination,711,1992

@@ -49,8 +49,8 @@ Egypt(1990),SITC Rev.2,EGP,Import,0.370719,Special,CIF,Consignment,818,1990
 Egypt(1990),SITC Rev.2,EGP,Export,0.371314,Special,FOB,Last Known Destination,818,1990
 Kenya(1990),SITC Rev.3,KES,Import,0.04363,General,CIF,Origin,404,1990
 Kenya(1990),SITC Rev.3,KES,Export,0.04355,General,FOB,Last Known Destination,404,1990
-Madagascar(1990),HS1992,MGF,Import,6.72e-4,Special,CIF,Origin,450,1990
-Madagascar(1990),HS1992,MGF,Export,6.7e-4,Special,FOB,Last Known Destination,450,1990
+Madagascar(1990),HS1992,MGF,Import,0.000672,Special,CIF,Origin,450,1990
+Madagascar(1990),HS1992,MGF,Export,0.00067,Special,FOB,Last Known Destination,450,1990
 Malawi(1990),HS1992,MWK,Import,0.36594,General,CIF,Origin,454,1990
 Malawi(1990),HS1992,MWK,Export,0.37108,General,FOB,Last Known Destination,454,1990
 Mauritius(1990),SITC Rev.3,MUR,Import,0.067397,General,CIF,Consignment,480,1990
@@ -85,8 +85,8 @@ Fmr Dem. Rep. of Germany(1990),SITC Rev.2,USD,Import,1,Special,CIF,Origin,278,19
 Fmr Dem. Rep. of Germany(1990),SITC Rev.2,USD,Export,1,Special,FOB,Last Known Destination,278,1990
 Hungary(1990),SITC Rev.2,USD,Import,1,General,CIF,Purchase,348,1990
 Hungary(1990),SITC Rev.2,USD,Export,1,General,FOB,Sale,348,1990
-Poland(1990),SITC Rev.2,PLN,Import,1.05e-4,General,FOB,Purchase,616,1990
-Poland(1990),SITC Rev.2,PLN,Export,1.05e-4,General,FOB,Sale,616,1990
+Poland(1990),SITC Rev.2,PLN,Import,0.000105,General,FOB,Purchase,616,1990
+Poland(1990),SITC Rev.2,PLN,Export,0.000105,General,FOB,Sale,616,1990
 Romania(1990),HS1992,USD,Import,1,Special,FOB,Origin,642,1990
 Romania(1990),HS1992,USD,Export,1,Special,FOB,Last Known Destination,642,1990
 Iceland(1990),HS1992,ISK,Import,0.017174,General,CIF,Consignment,352,1990

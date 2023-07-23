@@ -47,16 +47,16 @@ Bosnia Herzegovina(2015),HS2012,USD,Import,1,Special,CIF,Origin,70,2015
 Bosnia Herzegovina(2015),HS2012,USD,Export,1,Special,FOB,Last Known Destination,70,2015
 Botswana(2015),HS2012,BWP,Import,0.09893,General,CIF,Origin,72,2015
 Botswana(2015),HS2012,BWP,Export,0.099597,General,FOB,Last Known Destination,72,2015
-Brazil(2015),HS2012,USD,Import,1,Special,CIF,Origin,76,2015
+Brazil(2015),HS2012,USD,Import,1,Special,CIF/FOB,Origin,76,2015
 Brazil(2015),HS2012,USD,Export,1,Special,FOB,Last Known Destination,76,2015
 Brunei Darussalam(2015),HS2012,BND,Import,0.726045,Special,CIF,Origin,96,2015
 Brunei Darussalam(2015),HS2012,BND,Export,0.728955,Special,FOB,Last Known Destination,96,2015
 Bulgaria(2015),HS2012,BGN,Import,0.566567,Special,CIF,Consignment,100,2015
 Bulgaria(2015),HS2012,BGN,Export,0.566946,Special,FOB,Last Known Destination,100,2015
-Burkina Faso(2015),HS2012,USD,Import,1,General,CIF,Origin,854,2015
-Burkina Faso(2015),HS2012,USD,Export,1,General,FOB,Last Known Destination,854,2015
-Burundi(2015),HS2012,BIF,Import,6.39e-4,General,CIF,Origin,108,2015
-Burundi(2015),HS2012,BIF,Export,6.37e-4,General,FOB,Last Known Destination,108,2015
+Burkina Faso(2015),HS2012,XAF,Import,0.001691,General,CIF,Origin,854,2015
+Burkina Faso(2015),HS2012,XAF,Export,0.001691,General,FOB,Last Known Destination,854,2015
+Burundi(2015),HS2012,BIF,Import,0.000639,General,CIF,Origin,108,2015
+Burundi(2015),HS2012,BIF,Export,0.000637,General,FOB,Last Known Destination,108,2015
 Cabo Verde(2015),HS2012,CVE,Import,0.010047,Special,CIF,Origin,132,2015
 Cabo Verde(2015),HS2012,CVE,Export,0.010057,Special,CIF,Last Known Destination,132,2015
 Cambodia(2015),HS2012,USD,Import,1,General,CIF,Origin,116,2015
@@ -69,7 +69,7 @@ Cayman Isds(2015),HS2012,KYD,Import,1.2,General,CIF,Origin,136,2015
 Cayman Isds(2015),HS2012,KYD,Export,1.2,General,FOB,Last Known Destination,136,2015
 Central African Rep.(2015),HS2007,USD,Import,1,General,CIF,Origin,140,2015
 Central African Rep.(2015),HS2007,USD,Export,1,General,FOB,Last Known Destination,140,2015
-Chile(2015),HS2012,USD,Import,1,General,CIF,Consignment,152,2015
+Chile(2015),HS2012,USD,Import,1,General,CIF/FOB,Consignment,152,2015
 Chile(2015),HS2012,USD,Export,1,General,FOB,Last Known Destination,152,2015
 China(2015),HS2012,USD,Import,1,General,CIF,Origin,156,2015
 China(2015),HS2012,USD,Export,1,General,FOB,Last Known Destination,156,2015
@@ -101,26 +101,26 @@ Ethiopia(2015),HS2012,ETB,Import,0.048607,General,CIF,Origin,231,2015
 Ethiopia(2015),HS2012,ETB,Export,0.048607,General,FOB,Last Known Destination,231,2015
 Kenya(2015),HS2012,USD,Import,1,General,CIF,Origin,404,2015
 Kenya(2015),HS2012,USD,Export,1,General,FOB,Last Known Destination,404,2015
-Madagascar(2015),HS2012,MGA,Import,3.45e-4,General,CIF,Origin,450,2015
-Madagascar(2015),HS2012,MGA,Export,3.46e-4,General,FOB,Last Known Destination,450,2015
-Malawi(2015),HS2012,USD,Import,1,General,CIF,Origin,454,2015
-Malawi(2015),HS2012,USD,Export,1,General,FOB,Last Known Destination,454,2015
+Madagascar(2015),HS2012,MGA,Import,0.000345,General,CIF,Origin,450,2015
+Madagascar(2015),HS2012,MGA,Export,0.000346,General,FOB,Last Known Destination,450,2015
+Malawi(2015),HS2012,MWK,Import,0.002002,General,CIF,Origin,454,2015
+Malawi(2015),HS2012,MWK,Export,0.002002,General,FOB,Last Known Destination,454,2015
 Mauritius(2015),HS2012,MUR,Import,0.028469,General,CIF,Origin,480,2015
 Mauritius(2015),HS2012,MUR,Export,0.028522,General,FOB,Last Known Destination,480,2015
-Namibia(2015),HS2012,"NAD",Import,0.078383,General,CIF,Origin,516,2015
-Namibia(2015),HS2012,"NAD",Export,0.079003,General,FOB,Last Known Destination,516,2015
+Namibia(2015),HS2012,NAD,Import,0.078383,General,CIF,Origin,516,2015
+Namibia(2015),HS2012,NAD,Export,0.079003,General,FOB,Last Known Destination,516,2015
 Rwanda(2015),HS2012,RWF,Import,0.001389,General,CIF,Origin,646,2015
 Rwanda(2015),HS2012,RWF,Export,0.001386,General,FOB,Last Known Destination,646,2015
-Seychelles(2015),HS2007,USD,Import,1,General,CIF,Origin,690,2015
-Seychelles(2015),HS2007,USD,Export,1,General,FOB,Last Known Destination,690,2015
+Seychelles(2015),HS2007,SCR,Import,0.075109,General,CIF,Origin,690,2015
+Seychelles(2015),HS2007,SCR,Export,0.075109,General,FOB,Last Known Destination,690,2015
 Eswatini(2015),HS2012,SZL,Import,0.078376,General,CIF,Origin,748,2015
 Eswatini(2015),HS2012,SZL,Export,0.078376,General,FOB,Last Known Destination,748,2015
 United Rep. of Tanzania(2015),HS2012,USD,Import,1,General,CIF,Origin,834,2015
 United Rep. of Tanzania(2015),HS2012,USD,Export,1,General,FOB,Last Known Destination,834,2015
 Uganda(2015),HS2012,USD,Import,1,General,CIF,Origin,800,2015
 Uganda(2015),HS2012,USD,Export,1,General,FOB,Last Known Destination,800,2015
-Zambia(2015),HS2012,USD,Import,1,General,CIF,Origin,894,2015
-Zambia(2015),HS2012,USD,Export,1,General,FOB,Last Known Destination,894,2015
+Zambia(2015),HS2012,ZMK,Import,0.115843,General,CIF,Origin,894,2015
+Zambia(2015),HS2012,ZMK,Export,0.115843,General,FOB,Last Known Destination,894,2015
 Zimbabwe(2015),HS2012,USD,Import,1,General,CIF,Origin,716,2015
 Zimbabwe(2015),HS2012,USD,Export,1,General,FOB,Last Known Destination,716,2015
 Congo(2015),HS2012,CDF,Import,0.001691,General,CIF,Origin,178,2015
@@ -131,28 +131,28 @@ Côte d'Ivoire(2015),HS2012,XOF,Import,0.001687,Special,CIF,Origin,384,2015
 Côte d'Ivoire(2015),HS2012,XOF,Export,0.001692,Special,FOB,Last Known Destination,384,2015
 Croatia(2015),HS2012,USD,Import,1,Special,CIF,Origin,191,2015
 Croatia(2015),HS2012,USD,Export,1,Special,FOB,Last Known Destination,191,2015
-Cyprus(2015),HS2012,EUR,Import,1.108048,General,CIF,Origin/Consignment for Intra EU,196,2015
-Cyprus(2015),HS2012,EUR,Export,1.112893,General,FOB,Last Known Destination,196,2015
+Cyprus(2015),HS2012,EUR,Import,1.109513,General,CIF,Origin/Consignment for Intra EU,196,2015
+Cyprus(2015),HS2012,EUR,Export,1.109513,General,FOB,Last Known Destination,196,2015
 Czechia(2015),HS2012,USD,Import,1,Special,CIF,Origin,203,2015
 Czechia(2015),HS2012,USD,Export,1,Special,FOB,Last Known Destination,203,2015
 Denmark(2015),HS2012,DKK,Import,0.148714,General,CIF,Origin/Consignment for Intra-EU,208,2015
 Denmark(2015),HS2012,DKK,Export,0.148674,General,FOB,Last Known Destination,208,2015
-Dominican Rep.(2015),HS2012,USD,Import,1,General,FOB,Origin,214,2015
+Dominican Rep.(2015),HS2012,USD,Import,1,General,CIF/FOB,Origin,214,2015
 Dominican Rep.(2015),HS2012,USD,Export,1,General,FOB,Last Known Destination,214,2015
 Gambia(2015),HS2007,GMD,Import,0.023526,General,CIF,Origin,270,2015
 Gambia(2015),HS2007,GMD,Export,0.023526,General,FOB,Last Known Destination,270,2015
 Ghana(2015),HS2012,GHC,Import,0.265863,General,CIF,Origin,288,2015
 Ghana(2015),HS2012,GHC,Export,0.26678,General,FOB,Last Known Destination,288,2015
-Guinea(2015),HS2012,GNF,Import,1.34e-4,Special,CIF,Origin,324,2015
-Guinea(2015),HS2012,GNF,Export,1.34e-4,Special,FOB,Last Known Destination,324,2015
+Guinea(2015),HS2012,GNF,Import,0.000134,Special,CIF,Origin,324,2015
+Guinea(2015),HS2012,GNF,Export,0.000134,Special,FOB,Last Known Destination,324,2015
 Niger(2015),HS2012,XOF,Import,0.001687,General,CIF,Origin,562,2015
 Niger(2015),HS2012,XOF,Export,0.001682,General,FOB,Last Known Destination,562,2015
 Nigeria(2015),HS2012,USD,Import,1,General,CIF,Origin,566,2015
 Nigeria(2015),HS2012,USD,Export,1,General,FOB,Last Known Destination,566,2015
 Senegal(2015),HS2012,XOF,Import,0.00169,General,CIF,Origin,686,2015
 Senegal(2015),HS2012,XOF,Export,0.00169,General,FOB,Last Known Destination,686,2015
-Sierra Leone(2015),HS2007,SLL,Import,1.99e-4,General,CIF,Origin,694,2015
-Sierra Leone(2015),HS2007,SLL,Export,1.98e-4,General,FOB,Last Known Destination,694,2015
+Sierra Leone(2015),HS2007,SLL,Import,0.000199,General,CIF,Origin,694,2015
+Sierra Leone(2015),HS2007,SLL,Export,0.000198,General,FOB,Last Known Destination,694,2015
 Togo(2015),HS2012,XOF,Import,0.001691,General,CIF,Origin,768,2015
 Togo(2015),HS2012,XOF,Export,0.001691,General,FOB,Last Known Destination,768,2015
 Ecuador(2015),HS2012,USD,Import,1,Special,CIF,Origin,218,2015
@@ -161,8 +161,8 @@ El Salvador(2015),HS2012,USD,Import,1,General,CIF,Origin,222,2015
 El Salvador(2015),HS2012,USD,Export,1,General,FOB,Last Known Destination,222,2015
 Estonia(2015),HS2012,EUR,Import,1.108778,General Extra-EU/Special Intra-EU,CIF,Consignment,233,2015
 Estonia(2015),HS2012,EUR,Export,1.108924,General Extra-EU/Special Intra-EU,FOB,Last Known Destination,233,2015
-EU-28(2015),HS2012,EUR,Import,1.109283,Special,CIF,Origin,97,2015
-EU-28(2015),HS2012,EUR,Export,1.108234,Special,FOB,Last Known Destination,97,2015
+EU(2015),HS2012,EUR,Import,1.109283,Special,CIF,Origin,97,2015
+EU(2015),HS2012,EUR,Export,1.108234,Special,FOB,Last Known Destination,97,2015
 Albania(2015),HS2012,ALL,Import,0.007933,Special,CIF,Origin,8,2015
 Albania(2015),HS2012,ALL,Export,0.007935,Special,FOB,Last Known Destination,8,2015
 Hungary(2015),HS2012,USD,Import,1,Special,CIF,Consignment,348,2015
@@ -171,8 +171,8 @@ Poland(2015),HS2012,USD,Import,1,Special,CIF,Origin,616,2015
 Poland(2015),HS2012,USD,Export,1,Special,FOB,Last Known Destination,616,2015
 Romania(2015),HS2012,USD,Import,1,Special,CIF,Origin/Consignment for Intra-EU,642,2015
 Romania(2015),HS2012,USD,Export,1,Special,FOB,Last Known Destination,642,2015
-Slovakia(2015),HS2012,EUR,Import,1.108727,Special,CIF,Origin/Consignment for Intra EU,703,2015
-Slovakia(2015),HS2012,EUR,Export,1.108913,Special,FOB,Last Known Destination,703,2015
+Slovakia(2015),HS2012,EUR,Import,1.109513,Special,CIF,Origin,703,2015
+Slovakia(2015),HS2012,EUR,Export,1.109513,Special,FOB,Last Known Destination,703,2015
 Iceland(2015),HS2012,ISK,Import,0.007548,Special,CIF,Origin,352,2015
 Iceland(2015),HS2012,ISK,Export,0.007542,Special,FOB,Last Known Destination,352,2015
 Norway(2015),HS2012,NOK,Import,0.124128,General,CIF,Origin,579,2015
@@ -191,8 +191,8 @@ Germany(2015),HS2012,EUR,Import,1.109224,Special,CIF,Origin,276,2015
 Germany(2015),HS2012,EUR,Export,1.109033,Special,FOB,Last Known Destination,276,2015
 Greece(2015),HS2012,EUR,Import,1.10963,Special,CIF,Origin/Consignment for Intra-EU,300,2015
 Greece(2015),HS2012,EUR,Export,1.10963,Special,FOB,Last Known Destination,300,2015
-Ireland(2015),HS2012,EUR,Import,1.10963,General,CIF,Origin,372,2015
-Ireland(2015),HS2012,EUR,Export,1.10963,General,FOB,Last Known Destination,372,2015
+Ireland(2015),HS2012,EUR,Import,1.109513,General,CIF,Origin,372,2015
+Ireland(2015),HS2012,EUR,Export,1.109513,General,FOB,Last Known Destination,372,2015
 Italy(2015),HS2012,EUR,Import,1.109214,Special,CIF,Origin/Consignment for Intra EU,381,2015
 Italy(2015),HS2012,EUR,Export,1.108475,Special,FOB,Last Known Destination,381,2015
 Luxembourg(2015),HS2012,EUR,Import,1.108479,Special,CIF,Origin/Consignment for Intra-EU,442,2015
@@ -213,8 +213,8 @@ North Macedonia(2015),HS2012,USD,Import,1,Special,CIF,Origin,807,2015
 North Macedonia(2015),HS2012,USD,Export,1,Special,FOB,Last Known Destination,807,2015
 United Kingdom(2015),HS2012,GBP,Import,1.528854,General,CIF,Origin/Consignment for Intra-EU,826,2015
 United Kingdom(2015),HS2012,GBP,Export,1.528632,General,FOB,Last Known Destination,826,2015
-Fiji(2015),HS2012,FJD,Import,0.476892,General,CIF,Purchase,242,2015
-Fiji(2015),HS2012,FJD,Export,0.476348,General,FOB,Sale,242,2015
+Fiji(2015),HS2012,FJD,Import,0.47673,General,CIF,Origin,242,2015
+Fiji(2015),HS2012,FJD,Export,0.47673,General,FOB,Last Known Destination,242,2015
 French Polynesia(2015),HS2012,XPF,Import,0.00927,Special,CIF,Origin,258,2015
 French Polynesia(2015),HS2012,XPF,Export,0.009232,Special,FOB,Last Known Destination,258,2015
 Greenland(2015),HS2012,USD,Import,1,General,CIF,Origin,304,2015
@@ -263,14 +263,14 @@ Nepal(2015),HS2012,NPR,Import,0.00972,General,CIF,Origin,524,2015
 Nepal(2015),HS2012,NPR,Export,0.009744,General,FOB,Last Known Destination,524,2015
 Samoa(2015),HS2012,WST,Import,0.433234,General,CIF,Origin,882,2015
 Samoa(2015),HS2012,WST,Export,0.433234,General,FOB,Last Known Destination,882,2015
-Sao Tome and Principe(2015),HS2007,STD,Import,4.5e-5,Special,CIF,Origin,678,2015
-Sao Tome and Principe(2015),HS2007,STD,Export,4.5e-5,Special,FOB,Last Known Destination,678,2015
+Sao Tome and Principe(2015),HS2007,STD,Import,4.5e-05,Special,CIF,Origin,678,2015
+Sao Tome and Principe(2015),HS2007,STD,Export,4.5e-05,Special,FOB,Last Known Destination,678,2015
 Solomon Isds(2015),HS2012,SBD,Import,0.126162,Special,CIF,Origin,90,2015
 Solomon Isds(2015),HS2012,SBD,Export,0.126089,Special,FOB,Last Known Destination,90,2015
 Yemen(2015),HS2012,YER,Import,0.004654,Special,CIF,Origin,887,2015
 Yemen(2015),HS2012,YER,Export,0.004654,Special,FOB,Last Known Destination,887,2015
-Lebanon(2015),HS2012,LBP,Import,6.63e-4,General,CIF,Origin,422,2015
-Lebanon(2015),HS2012,LBP,Export,6.63e-4,General,FOB,Last Known Destination,422,2015
+Lebanon(2015),HS2012,LBP,Import,0.000663,General,CIF,Origin,422,2015
+Lebanon(2015),HS2012,LBP,Export,0.000663,General,FOB,Last Known Destination,422,2015
 Malaysia(2015),HS2012,MYR,Import,0.256977,General,CIF,Origin,458,2015
 Malaysia(2015),HS2012,MYR,Export,0.256699,General,FOB,Last Known Destination,458,2015
 Paraguay(2015),HS2012,USD,Import,1,General,CIF,Origin,600,2015
@@ -283,6 +283,8 @@ Mongolia(2015),HS2012,USD,Import,1,General,CIF,Origin,496,2015
 Mongolia(2015),HS2012,USD,Export,1,General,FOB,Last Known Destination,496,2015
 Montenegro(2015),HS2012,EUR,Import,1.1133,Special,CIF,Origin,499,2015
 Montenegro(2015),HS2012,EUR,Export,1.113212,Special,FOB,Last Known Destination,499,2015
+Montserrat(2015),HS2007,XCD,Import,0.37037,Special,CIF,Origin,500,2015
+Montserrat(2015),HS2007,XCD,Export,0.37037,Special,FOB,Last Known Destination,500,2015
 Morocco(2015),HS2012,MAD,Import,0.102485,Special,CIF,Origin,504,2015
 Morocco(2015),HS2012,MAD,Export,0.102442,Special,FOB,Last Known Destination,504,2015
 USA(2015),HS2012,USD,Import,1,General,CIF,Origin,842,2015
@@ -345,7 +347,7 @@ Suriname(2015),HS2007,USD,Import,1,General,CIF,Origin,740,2015
 Suriname(2015),HS2007,USD,Export,1,General,FOB,Last Known Destination,740,2015
 Thailand(2015),HS2012,USD,Import,1,Special,CIF,Origin,764,2015
 Thailand(2015),HS2012,USD,Export,1,Special,FOB,Last Known Destination,764,2015
-Trinidad and Tobago(2015),HS2007,USD,Import,1,Special,CIF,Origin,780,2015
-Trinidad and Tobago(2015),HS2007,USD,Export,1,Special,FOB,Last Known Destination,780,2015
+Trinidad and Tobago(2015),HS2007,TTD,Import,0.156805,Special,CIF,Origin,780,2015
+Trinidad and Tobago(2015),HS2007,TTD,Export,0.156805,Special,FOB,Last Known Destination,780,2015
 Viet Nam(2015),HS2012,USD,Import,1,General,CIF,Origin,704,2015
 Viet Nam(2015),HS2012,USD,Export,1,General,FOB,Last Known Destination,704,2015

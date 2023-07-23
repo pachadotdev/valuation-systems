@@ -51,8 +51,8 @@ Egypt(1994),HS1992,EGP,Import,0.295339,Special,CIF,Consignment,818,1994
 Egypt(1994),HS1992,EGP,Export,0.29533,Special,FOB,Last Known Destination,818,1994
 Kenya(1994),SITC Rev.3,KES,Import,0.018162,General,CIF,Origin,404,1994
 Kenya(1994),SITC Rev.3,KES,Export,0.01827,General,FOB,Last Known Destination,404,1994
-Madagascar(1994),HS1992,MGF,Import,3.13e-4,Special,CIF,Origin,450,1994
-Madagascar(1994),HS1992,MGF,Export,3.1e-4,Special,FOB,Last Known Destination,450,1994
+Madagascar(1994),HS1992,MGF,Import,0.000313,Special,CIF,Origin,450,1994
+Madagascar(1994),HS1992,MGF,Export,0.00031,Special,FOB,Last Known Destination,450,1994
 Malawi(1994),HS1992,MWK,Import,0.116071,General,CIF,Origin,454,1994
 Malawi(1994),HS1992,MWK,Export,0.11584,General,FOB,Last Known Destination,454,1994
 Mauritius(1994),HS1992,MUR,Import,0.055871,General,CIF,Consignment,480,1994
@@ -119,8 +119,8 @@ Greece(1994),HS1992,GRD,Import,0.004127,Special,CIF,Consignment,300,1994
 Greece(1994),HS1992,GRD,Export,0.00412,Special,FOB,Last Known Destination,300,1994
 Ireland(1994),HS1992,IEP,Import,1.49867,General,CIF,Origin,372,1994
 Ireland(1994),HS1992,IEP,Export,1.50066,General,FOB,Last Known Destination,372,1994
-Italy(1994),HS1992,ITL,Import,6.22e-4,Special,CIF,Origin,381,1994
-Italy(1994),HS1992,ITL,Export,6.2e-4,Special,FOB,Last Known Destination,381,1994
+Italy(1994),HS1992,ITL,Import,0.000622,Special,CIF,Origin,381,1994
+Italy(1994),HS1992,ITL,Export,0.00062,Special,FOB,Last Known Destination,381,1994
 Malta(1994),HS1992,MTL,Import,2.65665,General,CIF,Origin,470,1994
 Malta(1994),HS1992,MTL,Export,2.65369,General,FOB,Last Known Destination,470,1994
 Netherlands(1994),HS1992,NLG,Import,0.548231,Special,CIF,Origin,528,1994

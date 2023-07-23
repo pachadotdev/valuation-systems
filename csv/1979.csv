@@ -33,7 +33,7 @@ Burkina Faso(1979),SITC Rev.2,XOF,Import,0.48093,Special,CIF,Origin,854,1979
 Burkina Faso(1979),SITC Rev.2,XOF,Export,0.47264,Special,FOB,Last Known Destination,854,1979
 Cabo Verde(1979),SITC Rev.2,PTE,Import,0,Special,CIF,Origin,132,1979
 Cabo Verde(1979),SITC Rev.2,PTE,Export,0.20449,Special,FOB,Last Known Destination,132,1979
-Cameroon(1979),SITC Rev.2,XOF,Import,0.46863900000000003,Special,CIF,Origin,120,1979
+Cameroon(1979),SITC Rev.2,XOF,Import,0.468639,Special,CIF,Origin,120,1979
 Cameroon(1979),SITC Rev.2,XOF,Export,0.46906,Special,FOB,Last Known Destination,120,1979
 Canada(1979),SITC Rev.2,CAD,Import,0.854032,General,FOB,Consignment,124,1979
 Canada(1979),SITC Rev.2,CAD,Export,0.853946,General,FOB,Consignment,124,1979
@@ -81,7 +81,7 @@ Dominica(1979),SITC Rev.1,XCD,Import,0.37037,General,CIF,Origin,212,1979
 Dominica(1979),SITC Rev.1,XCD,Export,0.37037,General,FOB,Last Known Destination,212,1979
 Dominican Rep.(1979),SITC Rev.1,DOP,Import,1,General,FOB,Origin,214,1979
 Dominican Rep.(1979),SITC Rev.1,DOP,Export,1,General,FOB,Last Known Destination,214,1979
-Gambia(1979),SITC Rev.1,GMD,Import,0.53000100000000006,General,CIF,Consignment,270,1979
+Gambia(1979),SITC Rev.1,GMD,Import,0.530001,General,CIF,Consignment,270,1979
 Gambia(1979),SITC Rev.1,GMD,Export,0.52965,General,FOB,Last Known Destination,270,1979
 Ghana(1979),SITC Rev.1,GHC,Import,0.36364,General,CIF,Origin,288,1979
 Ghana(1979),SITC Rev.1,GHC,Export,0.36364,General,FOB,Last Known Destination,288,1979

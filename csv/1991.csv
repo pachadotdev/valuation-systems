@@ -45,8 +45,8 @@ Egypt(1991),SITC Rev.2,USD,Import,1,Special,CIF,Consignment,818,1991
 Egypt(1991),SITC Rev.2,USD,Export,1,Special,FOB,Last Known Destination,818,1991
 Kenya(1991),SITC Rev.3,KES,Import,0.03661,General,CIF,Origin,404,1991
 Kenya(1991),SITC Rev.3,KES,Export,0.03645,General,FOB,Last Known Destination,404,1991
-Madagascar(1991),HS1992,MGF,Import,5.54e-4,Special,CIF,Origin,450,1991
-Madagascar(1991),HS1992,MGF,Export,5.5e-4,Special,FOB,Last Known Destination,450,1991
+Madagascar(1991),HS1992,MGF,Import,0.000554,Special,CIF,Origin,450,1991
+Madagascar(1991),HS1992,MGF,Export,0.00055,Special,FOB,Last Known Destination,450,1991
 Malawi(1991),HS1992,MWK,Import,0.35579,General,CIF,Origin,454,1991
 Malawi(1991),HS1992,MWK,Export,0.35378,General,FOB,Last Known Destination,454,1991
 Mauritius(1991),SITC Rev.3,MUR,Import,0.063907,General,CIF,Consignment,480,1991
@@ -75,8 +75,8 @@ El Salvador(1991),SITC Rev.2,SVC,Import,0.124874,Special,CIF,Origin,222,1991
 El Salvador(1991),SITC Rev.2,SVC,Export,0.12488,Special,FOB,Last Known Destination,222,1991
 Hungary(1991),SITC Rev.3,HUF,Import,0.013478,Special,CIF,Origin,348,1991
 Hungary(1991),SITC Rev.3,HUF,Export,0.013478,Special,FOB,Last Known Destination,348,1991
-Poland(1991),SITC Rev.2,PLN,Import,9.4e-5,General,FOB,Purchase,616,1991
-Poland(1991),SITC Rev.2,PLN,Export,9.4e-5,General,FOB,Sale,616,1991
+Poland(1991),SITC Rev.2,PLN,Import,9.4e-05,General,FOB,Purchase,616,1991
+Poland(1991),SITC Rev.2,PLN,Export,9.4e-05,General,FOB,Sale,616,1991
 Romania(1991),HS1992,USD,Import,1,Special,CIF,Origin,642,1991
 Romania(1991),HS1992,USD,Export,1,Special,FOB,Last Known Destination,642,1991
 Iceland(1991),HS1992,ISK,Import,0.017127,General,CIF,Consignment,352,1991
@@ -97,8 +97,8 @@ Greece(1991),SITC Rev.3,GRD,Import,0.005503,Special,CIF,Consignment,300,1991
 Greece(1991),SITC Rev.3,GRD,Export,0.00547,Special,FOB,Last Known Destination,300,1991
 Ireland(1991),SITC Rev.3,IEP,Import,1.61547,General,CIF,Origin,372,1991
 Ireland(1991),SITC Rev.3,IEP,Export,1.61355,General,FOB,Last Known Destination,372,1991
-Italy(1991),SITC Rev.3,ITL,Import,8.08e-4,Special,CIF,Origin,381,1991
-Italy(1991),SITC Rev.3,ITL,Export,8.08e-4,Special,FOB,Last Known Destination,381,1991
+Italy(1991),SITC Rev.3,ITL,Import,0.000808,Special,CIF,Origin,381,1991
+Italy(1991),SITC Rev.3,ITL,Export,0.000808,Special,FOB,Last Known Destination,381,1991
 Malta(1991),SITC Rev.3,MTL,Import,3.09379,General,CIF,Origin,470,1991
 Malta(1991),SITC Rev.3,MTL,Export,3.09034,General,FOB,Last Known Destination,470,1991
 Netherlands(1991),SITC Rev.3,NLG,Import,0.536664,Special,CIF,Origin,528,1991

@@ -99,7 +99,7 @@ Iceland(1970),SITC Rev.1,ISK,Import,0.113507,Special,CIF,Origin,352,1970
 Iceland(1970),SITC Rev.1,ISK,Export,0.113766,Special,FOB,Last Known Destination,352,1970
 Norway(1970),SITC Rev.1,NOK,Import,0.14,General,CIF,Origin,579,1970
 Norway(1970),SITC Rev.1,NOK,Export,0.14,General,FOB,Last Known Destination,579,1970
-Switzerland(1970),SITC Rev.1,CHF,Import,0.23347300000000001,Special,CIF,Consignment,757,1970
+Switzerland(1970),SITC Rev.1,CHF,Import,0.233473,Special,CIF,Consignment,757,1970
 Switzerland(1970),SITC Rev.1,CHF,Export,0.233501,Special,FOB,Last Known Destination,757,1970
 Finland(1970),SITC Rev.1,FIM,Import,0.238095,General,CIF,Origin,246,1970
 Finland(1970),SITC Rev.1,FIM,Export,0.238095,General,FOB,Last Known Destination,246,1970
@@ -147,8 +147,8 @@ Haiti(1970),SITC Rev.1,HTG,Import,0.2,General,CIF,Origin,332,1970
 Haiti(1970),SITC Rev.1,HTG,Export,0.2,General,FOB,Last Known Destination,332,1970
 Honduras(1970),SITC Rev.1,USD,Import,1,Special,CIF,Origin,340,1970
 Honduras(1970),SITC Rev.1,USD,Export,1,Special,FOB,Last Known Destination,340,1970
-"India, excl. Sikkim(1970)",SITC Rev.1,INR,Import,0.133333,General,CIF,Consignment,356,1970
-"India, excl. Sikkim(1970)",SITC Rev.1,INR,Export,0.133333,General,FOB,Last Known Destination,356,1970
+India [...1974](1970),SITC Rev.1,INR,Import,0.133333,General,CIF,Consignment,356,1970
+India [...1974](1970),SITC Rev.1,INR,Export,0.133333,General,FOB,Last Known Destination,356,1970
 Indonesia(1970),SITC Rev.1,USD,Import,1,General,CIF,Origin,360,1970
 Indonesia(1970),SITC Rev.1,USD,Export,1,General,FOB,Last Known Destination,360,1970
 Iran(1970),SITC Rev.1,IRR,Import,0.132013,Special,CIF,Purchase,364,1970

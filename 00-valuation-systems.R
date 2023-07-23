@@ -18,7 +18,7 @@ if (!file.exists(sel_jar)) {
 # i.e.
 # open a bash terminal in vs code alongside the R interactive tab, then run
 # apt-get install chromium-brower
-# # then java -jar selenium-server-standalone-3.9.1.jar && pause
+# # then java -jar selenium-server-standalone-3.9.1.jar
 
 library(dplyr)
 library(tidyr)
@@ -26,6 +26,7 @@ library(forcats)
 
 library(RSelenium)
 library(rvest)
+library(purrr)
 library(janitor)
 library(stringr)
 library(readr)
@@ -35,7 +36,7 @@ library(uncomtrademisc)
 rmDr <- remoteDriver(port = 4444L, browserName = "chrome")
 rmDr$open(silent = TRUE)
 
-Y <- 1962:2021
+Y <- c(2001, 1999:1962)
 
 fout <- "trade_valuation_system_per_country.rds"
 
@@ -76,7 +77,7 @@ for (y in Y) {
   message(y)
   fout2 <- glue::glue("csv/{y}.csv")
 
-  if (!file.exists(fout)) {
+  # if (!file.exists(fout)) {
     new_table <- map_df(
       R,
       function(r) {
@@ -108,8 +109,8 @@ for (y in Y) {
     )
     
     write_csv(new_table, fout2)
-    rm(final_table); gc()
-  }
+    rm(new_table); gc()
+  # }
 }
 
 valuation <- purrr::map_df(

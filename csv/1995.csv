@@ -69,8 +69,8 @@ Ethiopia(1995),HS1992,ETB,Import,0.162035,General,CIF,Origin,231,1995
 Ethiopia(1995),HS1992,ETB,Export,0.16213,General,FOB,Last Known Destination,231,1995
 Kenya(1995),SITC Rev.3,KES,Import,0.019372,General,CIF,Origin,404,1995
 Kenya(1995),SITC Rev.3,KES,Export,0.01941,General,FOB,Last Known Destination,404,1995
-Madagascar(1995),HS1992,MGF,Import,2.39e-4,Special,CIF,Origin,450,1995
-Madagascar(1995),HS1992,MGF,Export,2.4e-4,Special,FOB,Last Known Destination,450,1995
+Madagascar(1995),HS1992,MGF,Import,0.000239,Special,CIF,Origin,450,1995
+Madagascar(1995),HS1992,MGF,Export,0.00024,Special,FOB,Last Known Destination,450,1995
 Malawi(1995),HS1992,MWK,Import,0.065435,General,CIF,Origin,454,1995
 Malawi(1995),HS1992,MWK,Export,0.06545,General,FOB,Last Known Destination,454,1995
 Mauritius(1995),HS1992,MUR,Import,0.05751,General,CIF,Consignment,480,1995
@@ -192,7 +192,7 @@ Israel(1995),HS1992,USD,Export,1,Special,FOB,Last Known Destination,376,1995
 Jamaica(1995),SITC Rev.3,USD,Import,1,Special,CIF,Origin,388,1995
 Jamaica(1995),SITC Rev.3,USD,Export,1,Special,FOB,Last Known Destination,388,1995
 Japan(1995),HS1992,JPY,Import,0.010653,General,CIF,Origin,392,1995
-Japan(1995),HS1992,JPY,Export,0.010664999999999999,General,FOB,Last Known Destination,392,1995
+Japan(1995),HS1992,JPY,Export,0.010665,General,FOB,Last Known Destination,392,1995
 Jordan(1995),HS1992,JOD,Import,1.42704,General,CIF,Origin,400,1995
 Jordan(1995),HS1992,JOD,Export,1.42519,General,FOB,Last Known Destination,400,1995
 Kiribati(1995),HS1992,AUD,Import,0.716932,NULL,FOB,Origin,296,1995

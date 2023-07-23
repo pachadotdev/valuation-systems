@@ -45,7 +45,7 @@ Bosnia Herzegovina(2016),HS2012,USD,Import,1,Special,CIF,Origin,70,2016
 Bosnia Herzegovina(2016),HS2012,USD,Export,1,Special,FOB,Last Known Destination,70,2016
 Botswana(2016),HS2012,BWP,Import,0.09133,General,CIF,Origin,72,2016
 Botswana(2016),HS2012,BWP,Export,0.091169,General,FOB,Last Known Destination,72,2016
-Brazil(2016),HS2012,USD,Import,1,Special,CIF,Origin,76,2016
+Brazil(2016),HS2012,USD,Import,1,Special,CIF/FOB,Origin,76,2016
 Brazil(2016),HS2012,USD,Export,1,Special,FOB,Last Known Destination,76,2016
 Brunei Darussalam(2016),HS2012,BND,Import,0.726188,Special,CIF,Origin,96,2016
 Brunei Darussalam(2016),HS2012,BND,Export,0.723793,Special,FOB,Last Known Destination,96,2016
@@ -53,8 +53,8 @@ Bulgaria(2016),HS2012,BGL,Import,0.565544,Special,CIF,Consignment,100,2016
 Bulgaria(2016),HS2012,BGL,Export,0.565598,Special,FOB,Last Known Destination,100,2016
 Burkina Faso(2016),HS2012,USD,Import,1,General,CIF,Origin,854,2016
 Burkina Faso(2016),HS2012,USD,Export,1,General,FOB,Last Known Destination,854,2016
-Burundi(2016),HS2012,BIF,Import,6.05e-4,General,CIF,Origin,108,2016
-Burundi(2016),HS2012,BIF,Export,6.05e-4,General,FOB,Last Known Destination,108,2016
+Burundi(2016),HS2012,BIF,Import,0.000605,General,CIF,Origin,108,2016
+Burundi(2016),HS2012,BIF,Export,0.000605,General,FOB,Last Known Destination,108,2016
 Cabo Verde(2016),HS2012,CVE,Import,0.010125,Special,CIF,Origin,132,2016
 Cabo Verde(2016),HS2012,CVE,Export,0.010117,Special,FOB,Last Known Destination,132,2016
 Cambodia(2016),HS2012,USD,Import,1,General,CIF,Origin,116,2016
@@ -65,7 +65,7 @@ Canada(2016),HS2012,CAD,Import,0.755599,General,FOB,Origin,124,2016
 Canada(2016),HS2012,CAD,Export,0.754578,General,FOB,Last Known Destination,124,2016
 Central African Rep.(2016),HS2012,USD,Import,1,General,CIF,Origin,140,2016
 Central African Rep.(2016),HS2012,USD,Export,1,General,FOB,Last Known Destination,140,2016
-Chile(2016),HS2012,USD,Import,1,General,CIF,Consignment,152,2016
+Chile(2016),HS2012,USD,Import,1,General,CIF/FOB,Consignment,152,2016
 Chile(2016),HS2012,USD,Export,1,General,FOB,Last Known Destination,152,2016
 China(2016),HS2012,USD,Import,1,General,CIF,Origin,156,2016
 China(2016),HS2012,USD,Export,1,General,FOB,Last Known Destination,156,2016
@@ -91,34 +91,34 @@ Colombia(2016),HS2012,USD,Import,1,Special,CIF,Origin,170,2016
 Colombia(2016),HS2012,USD,Export,1,Special,FOB,Last Known Destination,170,2016
 Comoros(2016),HS2012,KMF,Import,0.002248,General,CIF,Consignment,174,2016
 Comoros(2016),HS2012,KMF,Export,0.002248,General,FOB,Last Known Destination,174,2016
-Dem. Rep. of the Congo(2016),HS2012,CDF,Import,9.9e-4,General,CIF,Origin,180,2016
-Dem. Rep. of the Congo(2016),HS2012,CDF,Export,9.9e-4,General,FOB,Last Known Destination,180,2016
+Dem. Rep. of the Congo(2016),HS2012,CDF,Import,0.00099,General,CIF,Origin,180,2016
+Dem. Rep. of the Congo(2016),HS2012,CDF,Export,0.00099,General,FOB,Last Known Destination,180,2016
 Egypt(2016),HS2012,EGP,Import,0.099747,General,CIF,Origin,818,2016
 Egypt(2016),HS2012,EGP,Export,0.099747,General,FOB,Last Known Destination,818,2016
 Ethiopia(2016),HS2012,ETB,Import,0.045988,General,CIF,Origin,231,2016
 Ethiopia(2016),HS2012,ETB,Export,0.046141,General,FOB,Last Known Destination,231,2016
 Kenya(2016),HS2012,USD,Import,1,General,CIF,Origin,404,2016
 Kenya(2016),HS2012,USD,Export,1,General,FOB,Last Known Destination,404,2016
-Madagascar(2016),HS2012,MGF,Import,3.15e-4,General,CIF,Origin,450,2016
-Madagascar(2016),HS2012,MGF,Export,3.14e-4,General,FOB,Last Known Destination,450,2016
-Malawi(2016),HS2012,MWK,Import,0.001394,General,CIF,Origin,454,2016
-Malawi(2016),HS2012,MWK,Export,0.00139,General,FOB,Last Known Destination,454,2016
+Madagascar(2016),HS2012,MGA,Import,0.000315,General,CIF,Origin,450,2016
+Madagascar(2016),HS2012,MGA,Export,0.000315,General,FOB,Last Known Destination,450,2016
+Malawi(2016),HS2012,MWK,Import,0.001393,General,CIF,Origin,454,2016
+Malawi(2016),HS2012,MWK,Export,0.001393,General,FOB,Last Known Destination,454,2016
 Mauritius(2016),HS2012,MUR,Import,0.028137,General,CIF,Origin,480,2016
 Mauritius(2016),HS2012,MUR,Export,0.028134,General,FOB,Last Known Destination,480,2016
-Namibia(2016),HS2012,"NAD",Import,0.068578,General,CIF,Origin,516,2016
-Namibia(2016),HS2012,"NAD",Export,0.067871,General,FOB,Last Known Destination,516,2016
+Namibia(2016),HS2012,NAD,Import,0.068578,General,CIF,Origin,516,2016
+Namibia(2016),HS2012,NAD,Export,0.067871,General,FOB,Last Known Destination,516,2016
 Rwanda(2016),HS2012,RWF,Import,0.001271,General,CIF,Origin,646,2016
 Rwanda(2016),HS2012,RWF,Export,0.001267,General,FOB,Last Known Destination,646,2016
-Seychelles(2016),HS2007,USD,Import,1,General,CIF,Origin,690,2016
-Seychelles(2016),HS2007,USD,Export,1,General,FOB,Last Known Destination,690,2016
+Seychelles(2016),HS2007,SCR,Import,0.075084,General,CIF,Origin,690,2016
+Seychelles(2016),HS2007,SCR,Export,0.075084,General,FOB,Last Known Destination,690,2016
 Eswatini(2016),HS2012,SZL,Import,0.06855,General,CIF,Origin,748,2016
 Eswatini(2016),HS2012,SZL,Export,0.068815,General,FOB,Last Known Destination,748,2016
-United Rep. of Tanzania(2016),HS2012,TZS,Import,4.59e-4,General,CIF,Origin,834,2016
-United Rep. of Tanzania(2016),HS2012,TZS,Export,4.59e-4,General,FOB,Last Known Destination,834,2016
+United Rep. of Tanzania(2016),HS2012,TZS,Import,0.000459,General,CIF,Origin,834,2016
+United Rep. of Tanzania(2016),HS2012,TZS,Export,0.000459,General,FOB,Last Known Destination,834,2016
 Uganda(2016),HS2012,USD,Import,1,General,CIF,Origin,800,2016
 Uganda(2016),HS2012,USD,Export,1,General,FOB,Last Known Destination,800,2016
-Zambia(2016),HS2012,USD,Import,1,General,CIF,Origin,894,2016
-Zambia(2016),HS2012,USD,Export,1,General,FOB,Last Known Destination,894,2016
+Zambia(2016),HS2012,ZMK,Import,0.097017,General,CIF,Origin,894,2016
+Zambia(2016),HS2012,ZMK,Export,0.097017,General,FOB,Last Known Destination,894,2016
 Zimbabwe(2016),HS2012,USD,Import,1,General,CIF,Origin,716,2016
 Zimbabwe(2016),HS2012,USD,Export,1,General,FOB,Last Known Destination,716,2016
 Congo(2016),HS2012,CDF,Import,0.001687,General,CIF,Origin,178,2016
@@ -135,7 +135,7 @@ Czechia(2016),HS2012,USD,Import,1,Special,CIF,Origin,203,2016
 Czechia(2016),HS2012,USD,Export,1,Special,FOB,Last Known Destination,203,2016
 Denmark(2016),HS2012,DKK,Import,0.148576,General,CIF,Origin/Consignment for Intra EU,208,2016
 Denmark(2016),HS2012,DKK,Export,0.148638,General,FOB,Last Known Destination,208,2016
-Dominican Rep.(2016),HS2012,USD,Import,1,General,FOB,Origin,214,2016
+Dominican Rep.(2016),HS2012,USD,Import,1,General,CIF/FOB,Origin,214,2016
 Dominican Rep.(2016),HS2012,USD,Export,1,General,FOB,Last Known Destination,214,2016
 Gambia(2016),HS2007,GMD,Import,0.023092,General,CIF,Origin,270,2016
 Gambia(2016),HS2007,GMD,Export,0.023272,General,FOB,Last Known Destination,270,2016
@@ -151,8 +151,8 @@ Nigeria(2016),HS2012,USD,Import,1,General,CIF,Origin,566,2016
 Nigeria(2016),HS2012,USD,Export,1,General,FOB,Last Known Destination,566,2016
 Senegal(2016),HS2012,XOF,Import,0.001702,General,CIF,Origin,686,2016
 Senegal(2016),HS2012,XOF,Export,0.001702,General,FOB,Last Known Destination,686,2016
-Sierra Leone(2016),HS2007,SLL,Import,1.73e-4,General,CIF,Origin,694,2016
-Sierra Leone(2016),HS2007,SLL,Export,1.73e-4,General,FOB,Last Known Destination,694,2016
+Sierra Leone(2016),HS2007,SLL,Import,0.000173,General,CIF,Origin,694,2016
+Sierra Leone(2016),HS2007,SLL,Export,0.000173,General,FOB,Last Known Destination,694,2016
 Togo(2016),HS2012,XOF,Import,0.001679,General,CIF,Origin,768,2016
 Togo(2016),HS2012,XOF,Export,0.001688,General,FOB,Last Known Destination,768,2016
 Ecuador(2016),HS2012,USD,Import,1,Special,CIF,Origin,218,2016
@@ -161,8 +161,8 @@ El Salvador(2016),HS2012,USD,Import,1,General,CIF,Origin,222,2016
 El Salvador(2016),HS2012,USD,Export,1,General,FOB,Last Known Destination,222,2016
 Estonia(2016),HS2012,EUR,Import,1.106867,General Extra-EU/Special Intra-EU,CIF,Consignment,233,2016
 Estonia(2016),HS2012,EUR,Export,1.107074,General Extra-EU/Special Intra-EU,FOB,Last Known Destination,233,2016
-EU-28(2016),HS2012,EUR,Import,1.106553,Special,CIF,Origin,97,2016
-EU-28(2016),HS2012,EUR,Export,1.106138,Special,FOB,Last Known Destination,97,2016
+EU(2016),HS2012,EUR,Import,1.106553,Special,CIF,Origin,97,2016
+EU(2016),HS2012,EUR,Export,1.106138,Special,FOB,Last Known Destination,97,2016
 Albania(2016),HS2012,ALL,Import,0.008061,Special,CIF,Origin,8,2016
 Albania(2016),HS2012,ALL,Export,0.008058,Special,FOB,Last Known Destination,8,2016
 Hungary(2016),HS2012,USD,Import,1,Special,CIF,Consignment,348,2016
@@ -171,8 +171,8 @@ Poland(2016),HS2012,USD,Import,1,Special,CIF,Origin,616,2016
 Poland(2016),HS2012,USD,Export,1,Special,FOB,Last Known Destination,616,2016
 Romania(2016),HS2012,USD,Import,1,Special,CIF,Origin/Consignment for Intra-EU,642,2016
 Romania(2016),HS2012,USD,Export,1,Special,FOB,Last Known Destination,642,2016
-Slovakia(2016),HS2012,EUR,Import,1.1066,Special,CIF,Origin/Consignment for Intra EU,703,2016
-Slovakia(2016),HS2012,EUR,Export,1.107006,Special,FOB,Last Known Destination,703,2016
+Slovakia(2016),HS2012,EUR,Import,1.106903,Special,CIF,Origin,703,2016
+Slovakia(2016),HS2012,EUR,Export,1.106903,Special,FOB,Last Known Destination,703,2016
 Iceland(2016),HS2012,ISK,Import,0.008292,Special,CIF,Origin,352,2016
 Iceland(2016),HS2012,ISK,Export,0.008281,Special,FOB,Last Known Destination,352,2016
 Norway(2016),HS2012,NOK,Import,0.119455,General,CIF,Origin,579,2016
@@ -191,8 +191,8 @@ Germany(2016),HS2012,EUR,Import,1.106489,Special,CIF,Origin,276,2016
 Germany(2016),HS2012,EUR,Export,1.1069,Special,FOB,Last Known Destination,276,2016
 Greece(2016),HS2012,EUR,Import,1.10661,Special,CIF,Origin/Consignment for Intra-EU,300,2016
 Greece(2016),HS2012,EUR,Export,1.10661,Special,FOB,Last Known Destination,300,2016
-Ireland(2016),HS2012,EUR,Import,1.10661,General,CIF,Origin,372,2016
-Ireland(2016),HS2012,EUR,Export,1.10661,General,FOB,Last Known Destination,372,2016
+Ireland(2016),HS2012,EUR,Import,1.106903,General,CIF,Origin,372,2016
+Ireland(2016),HS2012,EUR,Export,1.106903,General,FOB,Last Known Destination,372,2016
 Italy(2016),HS2012,EUR,Import,1.106257,Special,CIF,Origin/Consignment for Intra EU,381,2016
 Italy(2016),HS2012,EUR,Export,1.106445,Special,FOB,Last Known Destination,381,2016
 Luxembourg(2016),HS2012,EUR,Import,1.106683,Special,CIF,Origin/Consignment for Intra-EU,442,2016
@@ -213,8 +213,8 @@ North Macedonia(2016),HS2012,USD,Import,1,Special,CIF,Origin,807,2016
 North Macedonia(2016),HS2012,USD,Export,1,Special,FOB,Last Known Destination,807,2016
 United Kingdom(2016),HS2012,GBP,Import,1.351495,General,CIF,Origin/Consignment for Intra-EU,826,2016
 United Kingdom(2016),HS2012,GBP,Export,1.351433,General,FOB,Last Known Destination,826,2016
-Fiji(2016),HS2012,FJD,Import,0.478686,General,CIF,Purchase,242,2016
-Fiji(2016),HS2012,FJD,Export,0.478091,General,FOB,Sale,242,2016
+Fiji(2016),HS2012,FJD,Import,0.477527,General,CIF,Origin,242,2016
+Fiji(2016),HS2012,FJD,Export,0.477527,General,FOB,Last Known Destination,242,2016
 French Polynesia(2016),HS2012,XPF,Import,0.009273,Special,CIF,Origin,258,2016
 French Polynesia(2016),HS2012,XPF,Export,0.009273,Special,FOB,Last Known Destination,258,2016
 Greenland(2016),HS2012,USD,Import,1,General,CIF,Origin,304,2016
@@ -263,8 +263,8 @@ Nepal(2016),HS2012,NPR,Import,0.009315,General,CIF,Origin,524,2016
 Nepal(2016),HS2012,NPR,Export,0.009315,General,FOB,Last Known Destination,524,2016
 Samoa(2016),HS2012,USD,Import,1,General,CIF,Origin,882,2016
 Samoa(2016),HS2012,USD,Export,1,General,FOB,Last Known Destination,882,2016
-Sao Tome and Principe(2016),HS2007,STD,Import,4.5e-5,Special,CIF,Origin,678,2016
-Sao Tome and Principe(2016),HS2007,STD,Export,4.5e-5,Special,FOB,Last Known Destination,678,2016
+Sao Tome and Principe(2016),HS2007,STD,Import,4.5e-05,Special,CIF,Origin,678,2016
+Sao Tome and Principe(2016),HS2007,STD,Export,4.5e-05,Special,FOB,Last Known Destination,678,2016
 Solomon Isds(2016),HS2012,SBD,Import,0.12605,Special,CIF,Origin,90,2016
 Solomon Isds(2016),HS2012,SBD,Export,0.126011,Special,FOB,Last Known Destination,90,2016
 Lebanon(2016),HS2012,USD,Import,1,Special,CIF,Origin,422,2016
@@ -283,6 +283,8 @@ Mongolia(2016),HS2012,USD,Import,1,General,CIF,Origin,496,2016
 Mongolia(2016),HS2012,USD,Export,1,General,FOB,Last Known Destination,496,2016
 Montenegro(2016),HS2012,EUR,Import,1.108586,Special,CIF,Origin,499,2016
 Montenegro(2016),HS2012,EUR,Export,1.106466,Special,FOB,Last Known Destination,499,2016
+Montserrat(2016),HS2007,XCD,Import,0.37037,Special,CIF,Origin,500,2016
+Montserrat(2016),HS2007,XCD,Export,0.37037,Special,FOB,Last Known Destination,500,2016
 Morocco(2016),HS2012,MAD,Import,0.102035,Special,CIF,Origin,504,2016
 Morocco(2016),HS2012,MAD,Export,0.102038,Special,FOB,Last Known Destination,504,2016
 USA(2016),HS2012,USD,Import,1,General,CIF,Origin,842,2016
@@ -343,5 +345,7 @@ Suriname(2016),HS2007,USD,Import,1,General,CIF,Origin,740,2016
 Suriname(2016),HS2007,USD,Export,1,General,FOB,Last Known Destination,740,2016
 Thailand(2016),HS2012,USD,Import,1,Special,CIF,Origin,764,2016
 Thailand(2016),HS2012,USD,Export,1,Special,FOB,Last Known Destination,764,2016
+Trinidad and Tobago(2016),HS2012,TTD,Import,0.149981,Special,CIF,Origin,780,2016
+Trinidad and Tobago(2016),HS2012,TTD,Export,0.149981,Special,FOB,Last Known Destination,780,2016
 Viet Nam(2016),HS2012,USD,Import,1,General,CIF,Origin,704,2016
 Viet Nam(2016),HS2012,USD,Export,1,General,FOB,Last Known Destination,704,2016

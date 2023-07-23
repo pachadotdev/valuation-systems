@@ -79,8 +79,8 @@ Ethiopia(1999),HS1992,ETB,Import,0.125277,General,CIF,Origin,231,1999
 Ethiopia(1999),HS1992,ETB,Export,0.12625,General,FOB,Last Known Destination,231,1999
 Kenya(1999),HS1996,KES,Import,0.014285,General,CIF,Origin,404,1999
 Kenya(1999),HS1996,KES,Export,0.01431,General,FOB,Last Known Destination,404,1999
-Madagascar(1999),HS1996,MGF,Import,1.64e-4,Special,CIF,Origin,450,1999
-Madagascar(1999),HS1996,MGF,Export,1.7e-4,Special,FOB,Last Known Destination,450,1999
+Madagascar(1999),HS1996,MGF,Import,0.000164,Special,CIF,Origin,450,1999
+Madagascar(1999),HS1996,MGF,Export,0.00017,Special,FOB,Last Known Destination,450,1999
 Malawi(1999),HS1996,MWK,Import,0.022668,General,CIF,Origin,454,1999
 Malawi(1999),HS1996,MWK,Export,0.022734,General,FOB,Last Known Destination,454,1999
 Mauritius(1999),HS1996,MUR,Import,0.039683,General,CIF,Consignment,480,1999
@@ -117,8 +117,8 @@ Gambia(1999),HS1996,GMD,Import,0.087753,General,CIF,Consignment,270,1999
 Gambia(1999),HS1996,GMD,Export,0.08773,General,FOB,Last Known Destination,270,1999
 Ghana(1999),HS1992,USD,Import,1,General,CIF,Origin,288,1999
 Ghana(1999),HS1992,USD,Export,1,General,FOB,Consignment,288,1999
-Guinea(1999),HS1996,GNF,Import,7.19e-4,General,CIF,Origin,324,1999
-Guinea(1999),HS1996,GNF,Export,7.1e-4,General,FOB,Last Known Destination,324,1999
+Guinea(1999),HS1996,GNF,Import,0.000719,General,CIF,Origin,324,1999
+Guinea(1999),HS1996,GNF,Export,0.00071,General,FOB,Last Known Destination,324,1999
 Mali(1999),HS1996,XOF,Import,0.001624,,CIF,Origin,466,1999
 Mali(1999),HS1996,XOF,Export,0.001624,Special,FOB,Last Known Destination,466,1999
 Niger(1999),HS1996,FRF,Import,0.001629,General,CIF,Origin,562,1999
@@ -167,8 +167,8 @@ Greece(1999),HS1996,GRD,Import,0.00326,Special,CIF,Consignment,300,1999
 Greece(1999),HS1996,GRD,Export,0.0032,Special,FOB,Last Known Destination,300,1999
 Ireland(1999),HS1996,IEP,Import,1.35229,General,CIF,Origin,372,1999
 Ireland(1999),HS1996,IEP,Export,1.35072,General,FOB,Last Known Destination,372,1999
-Italy(1999),HS1996,ITL,Import,5.49e-4,Special,CIF,Origin,381,1999
-Italy(1999),HS1996,ITL,Export,5.4e-4,Special,FOB,Last Known Destination,381,1999
+Italy(1999),HS1996,ITL,Import,0.000549,Special,CIF,Origin,381,1999
+Italy(1999),HS1996,ITL,Export,0.00054,Special,FOB,Last Known Destination,381,1999
 Luxembourg(1999),HS1996,LUF,Import,0.02638,Special,CIF,Origin,442,1999
 Luxembourg(1999),HS1996,LUF,Export,0.026392,Special,FOB,Last Known Destination,442,1999
 Malta(1999),HS1996,MTL,Import,2.50095,General,CIF,Origin,470,1999
@@ -221,12 +221,12 @@ Kuwait(1999),SITC Rev.3,KWD,Import,3.28545,Special,CIF,Origin,414,1999
 Kuwait(1999),SITC Rev.3,KWD,Export,3.28506,Special,FOB,Last Known Destination,414,1999
 Maldives(1999),HS1996,MVR,Import,0.084962,General,CIF,Origin,462,1999
 Maldives(1999),HS1996,MVR,Export,0.084962,General,FOB,Last Known Destination,462,1999
-Mozambique(1999),HS1996,MZM,Import,7.8e-5,Special,CIF,Origin,508,1999
-Mozambique(1999),HS1996,MZM,Export,7.8e-5,Special,FOB,Last Known Destination,508,1999
+Mozambique(1999),HS1996,MZM,Import,7.8e-05,Special,CIF,Origin,508,1999
+Mozambique(1999),HS1996,MZM,Export,7.8e-05,Special,FOB,Last Known Destination,508,1999
 Nepal(1999),HS1996,NPR,Import,0.01461,Special,CIF,Origin,524,1999
 Nepal(1999),HS1996,NPR,Export,0.0145,Special,FOB,Last Known Destination,524,1999
-Sao Tome and Principe(1999),HS1996,STD,Import,1.4e-4,Special,CIF,Origin,678,1999
-Sao Tome and Principe(1999),HS1996,STD,Export,1.4e-4,Special,FOB,Last Known Destination,678,1999
+Sao Tome and Principe(1999),HS1996,STD,Import,0.00014,Special,CIF,Origin,678,1999
+Sao Tome and Principe(1999),HS1996,STD,Export,0.00014,Special,FOB,Last Known Destination,678,1999
 Tuvalu(1999),HS1996,AUD,Import,0.65,General,CIF,Purchase,798,1999
 Tuvalu(1999),HS1996,AUD,Export,NA,NULL,NULL,,798,1999
 Yemen(1999),SITC Rev.2,YER,Import,0.006413,Special,CIF,Consignment,887,1999

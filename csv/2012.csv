@@ -49,16 +49,16 @@ Bosnia Herzegovina(2012),HS2012,USD,Import,1,Special,CIF,Origin,70,2012
 Bosnia Herzegovina(2012),HS2012,USD,Export,1,Special,FOB,Last Known Destination,70,2012
 Botswana(2012),HS2002,BWP,Import,0.146464,General,CIF,Origin,72,2012
 Botswana(2012),HS2002,BWP,Export,0.145632,General,FOB,Last Known Destination,72,2012
-Brazil(2012),HS2012,USD,Import,1,Special,CIF,Origin,76,2012
+Brazil(2012),HS2012,USD,Import,1,Special,CIF/FOB,Origin,76,2012
 Brazil(2012),HS2012,USD,Export,1,Special,FOB,Last Known Destination,76,2012
 Brunei Darussalam(2012),HS2007,BND,Import,0.800607,Special,CIF,Origin,96,2012
 Brunei Darussalam(2012),HS2007,BND,Export,0.801497,Special,FOB,Last Known Destination,96,2012
 Bulgaria(2012),HS2012,BGN,Import,0.656968,Special,CIF,Consignment,100,2012
 Bulgaria(2012),HS2012,BGN,Export,0.656511,Special,FOB,Last Known Destination,100,2012
-Burkina Faso(2012),HS2007,XAF,Import,0.001958,General,CIF,Origin,854,2012
-Burkina Faso(2012),HS2007,XAF,Export,0.001964,General,FOB,Last Known Destination,854,2012
-Burundi(2012),HS2002,BIF,Import,6.93e-4,General,CIF,Origin,108,2012
-Burundi(2012),HS2002,BIF,Export,6.87e-4,General,FOB,Last Known Destination,108,2012
+Burkina Faso(2012),HS2007,XAF,Import,0.001959,General,CIF,Origin,854,2012
+Burkina Faso(2012),HS2007,XAF,Export,0.001959,General,FOB,Last Known Destination,854,2012
+Burundi(2012),HS2002,BIF,Import,0.000693,General,CIF,Origin,108,2012
+Burundi(2012),HS2002,BIF,Export,0.000687,General,FOB,Last Known Destination,108,2012
 Cabo Verde(2012),HS2007,CVE,Import,0.011486,Special,CIF,Origin,132,2012
 Cabo Verde(2012),HS2007,CVE,Export,0.011524,Special,FOB,Last Known Destination,132,2012
 Cambodia(2012),HS2012,USD,Import,1,General,CIF,Origin,116,2012
@@ -69,14 +69,14 @@ Canada(2012),HS2012,CAD,Import,1.00086,General,FOB,Origin,124,2012
 Canada(2012),HS2012,CAD,Export,1.000919,General,FOB,Last Known Destination,124,2012
 Central African Rep.(2012),HS2007,XAF,Import,0.001958,Special,CIF,Origin,140,2012
 Central African Rep.(2012),HS2007,XAF,Export,0.001962,Special,FOB,Last Known Destination,140,2012
-Chile(2012),HS2012,USD,Import,1,General,CIF,Consignment,152,2012
+Chile(2012),HS2012,USD,Import,1,General,CIF/FOB,Consignment,152,2012
 Chile(2012),HS2012,USD,Export,1,General,FOB,Last Known Destination,152,2012
 China(2012),HS2012,USD,Import,1,General,CIF,Origin,156,2012
 China(2012),HS2012,USD,Export,1,General,FOB,Last Known Destination,156,2012
 "China, Hong Kong SAR(2012)",HS2012,HKD,Import,0.128926,General,CIF,Consignment,344,2012
 "China, Hong Kong SAR(2012)",HS2012,HKD,Export,0.128926,General,FOB,Last Known Destination,344,2012
-"China, Macao SAR(2012)",HS2012,MOP,Import,0.125069,General,CIF,Origin,446,2012
-"China, Macao SAR(2012)",HS2012,MOP,Export,0.125069,General,FOB,Last Known Destination,446,2012
+"China, Macao SAR(2012)",HS2012,MOP,Import,0.125159,General,CIF,Origin,446,2012
+"China, Macao SAR(2012)",HS2012,MOP,Export,0.125159,General,FOB,Last Known Destination,446,2012
 Georgia(2012),HS2012,USD,Import,1,General,CIF,Consignment,268,2012
 Georgia(2012),HS2012,USD,Export,1,General,FOB,Last Known Destination,268,2012
 Kazakhstan(2012),HS2012,USD,Import,1,General,CIF,Origin,398,2012
@@ -97,18 +97,18 @@ Egypt(2012),HS2007,EGP,Import,0.16479,General,CIF,Consignment,818,2012
 Egypt(2012),HS2007,EGP,Export,0.16479,General,FOB,Last Known Destination,818,2012
 Ethiopia(2012),HS2007,ETB,Import,0.056433,General,CIF,Origin,231,2012
 Ethiopia(2012),HS2007,ETB,Export,0.056618,General,FOB,Last Known Destination,231,2012
-Madagascar(2012),HS2012,MGA,Import,4.54e-4,General,CIF,Origin,450,2012
-Madagascar(2012),HS2012,MGA,Export,4.53e-4,General,FOB,Consumption,450,2012
-Malawi(2012),HS2007,MWK,Import,0.003925,General,CIF,Origin,454,2012
-Malawi(2012),HS2007,MWK,Export,0.004041,General,FOB,Last Known Destination,454,2012
+Madagascar(2012),HS2012,MGA,Import,0.000456,General,CIF,Origin,450,2012
+Madagascar(2012),HS2012,MGA,Export,0.000456,General,FOB,Last Known Destination,450,2012
+Malawi(2012),HS2007,MWK,Import,0.004014,General,CIF,Origin,454,2012
+Malawi(2012),HS2007,MWK,Export,0.004014,General,FOB,Last Known Destination,454,2012
 Mauritius(2012),HS2012,MUR,Import,0.033266,General,CIF,Origin,480,2012
 Mauritius(2012),HS2012,MUR,Export,0.033297,General,FOB,Last Known Destination,480,2012
-Namibia(2012),HS2012,"NAD",Import,0.121598,General,CIF,Origin,516,2012
-Namibia(2012),HS2012,"NAD",Export,0.121889,General,FOB,Last Known Destination,516,2012
+Namibia(2012),HS2012,NAD,Import,0.121598,General,CIF,Origin,516,2012
+Namibia(2012),HS2012,NAD,Export,0.121889,General,FOB,Last Known Destination,516,2012
 Rwanda(2012),HS2007,RWF,Import,0.001622,General,CIF,Origin,646,2012
 Rwanda(2012),HS2007,RWF,Export,0.00162,General,FOB,Last Known Destination,646,2012
-Seychelles(2012),HS2002,USD,Import,1,General,CIF,Origin,690,2012
-Seychelles(2012),HS2002,USD,Export,1,General,FOB,Last Known Destination,690,2012
+Seychelles(2012),HS2002,SCR,Import,0.072971,General,CIF,Origin,690,2012
+Seychelles(2012),HS2002,SCR,Export,0.072971,General,FOB,Last Known Destination,690,2012
 Eswatini(2012),HS2012,SZL,Import,0.121112,General,CIF,Origin,748,2012
 Eswatini(2012),HS2012,SZL,Export,0.121071,General,FOB,Last Known Destination,748,2012
 United Rep. of Tanzania(2012),HS2007,USD,Import,1,General,CIF,Origin,834,2012
@@ -157,8 +157,8 @@ El Salvador(2012),HS2007,USD,Import,1,General,CIF,Origin,222,2012
 El Salvador(2012),HS2007,USD,Export,1,General,FOB,Last Known Destination,222,2012
 Estonia(2012),HS2012,EUR,Import,1.285152,Special,CIF,Consignment,233,2012
 Estonia(2012),HS2012,EUR,Export,1.284804,Special,FOB,Last Known Destination,233,2012
-EU-28(2012),HS2012,EUR,Import,1.285424,Special,CIF,Origin,97,2012
-EU-28(2012),HS2012,EUR,Export,1.284906,Special,FOB,Last Known Destination,97,2012
+EU(2012),HS2012,EUR,Import,1.285424,Special,CIF,Origin,97,2012
+EU(2012),HS2012,EUR,Export,1.284906,Special,FOB,Last Known Destination,97,2012
 Albania(2012),HS2012,ALL,Import,0.009238,Special,CIF,Origin,8,2012
 Albania(2012),HS2012,ALL,Export,0.009238,Special,FOB,Last Known Destination,8,2012
 Hungary(2012),HS2012,USD,Import,1,Special,CIF,Consignment,348,2012
@@ -167,8 +167,8 @@ Poland(2012),HS2012,USD,Import,1,Special,CIF,Origin,616,2012
 Poland(2012),HS2012,USD,Export,1,Special,FOB,Last Known Destination,616,2012
 Romania(2012),HS2012,USD,Import,1,Special,CIF,Origin,642,2012
 Romania(2012),HS2012,USD,Export,1,Special,FOB,Last Known Destination,642,2012
-Slovakia(2012),HS2012,EUR,Import,1.285441,Special,CIF,Origin/Consignment for Intra EU,703,2012
-Slovakia(2012),HS2012,EUR,Export,1.285433,Special,FOB,Last Known Destination,703,2012
+Slovakia(2012),HS2012,EUR,Import,1.284789,Special,CIF,Origin,703,2012
+Slovakia(2012),HS2012,EUR,Export,1.284789,Special,FOB,Last Known Destination,703,2012
 Iceland(2012),HS2012,ISK,Import,0.00799,Special,CIF,Origin,352,2012
 Iceland(2012),HS2012,ISK,Export,0.007999,Special,FOB,Last Known Destination,352,2012
 Norway(2012),HS2012,NOK,Import,0.172001,General,CIF,Origin,579,2012
@@ -257,14 +257,14 @@ Nepal(2012),HS2007,NPR,Import,0.011691,General,CIF,Origin,524,2012
 Nepal(2012),HS2007,NPR,Export,0.011744,General,FOB,Last Known Destination,524,2012
 Samoa(2012),HS2012,WST,Import,0.436498,General,CIF,Origin,882,2012
 Samoa(2012),HS2012,WST,Export,0.436908,General,FOB,Last Known Destination,882,2012
-Sao Tome and Principe(2012),HS2007,STD,Import,5.2e-5,Special,CIF,Origin,678,2012
-Sao Tome and Principe(2012),HS2007,STD,Export,5.2e-5,Special,FOB,Last Known Destination,678,2012
+Sao Tome and Principe(2012),HS2007,STD,Import,5.2e-05,Special,CIF,Origin,678,2012
+Sao Tome and Principe(2012),HS2007,STD,Export,5.2e-05,Special,FOB,Last Known Destination,678,2012
 Solomon Isds(2012),HS2002,SBD,Import,0.135962,Special,CIF,Origin,90,2012
 Solomon Isds(2012),HS2002,SBD,Export,0.135957,Special,FOB,Last Known Destination,90,2012
 Yemen(2012),HS2012,YER,Import,0.004667,Special,CIF,Origin,887,2012
 Yemen(2012),HS2012,YER,Export,0.004665,Special,FOB,Last Known Destination,887,2012
-Lebanon(2012),HS2012,LBP,Import,6.63e-4,Special,CIF,Origin,422,2012
-Lebanon(2012),HS2012,LBP,Export,6.63e-4,Special,FOB,Last Known Destination,422,2012
+Lebanon(2012),HS2012,LBP,Import,0.000663,Special,CIF,Origin,422,2012
+Lebanon(2012),HS2012,LBP,Export,0.000663,Special,FOB,Last Known Destination,422,2012
 Malaysia(2012),HS2007,MYR,Import,0.323555,General,CIF,Origin,458,2012
 Malaysia(2012),HS2007,MYR,Export,0.323708,General,FOB,Last Known Destination,458,2012
 Paraguay(2012),HS2012,USD,Import,1,General,CIF,Origin,600,2012
@@ -305,8 +305,8 @@ Turkey(2012),HS2012,USD,Import,1,Special,CIF,Origin,792,2012
 Turkey(2012),HS2012,USD,Export,1,Special,FOB,Last Known Destination,792,2012
 Oman(2012),HS2012,OMR,Import,2.60078,General,CIF,Origin,512,2012
 Oman(2012),HS2012,OMR,Export,2.60078,General,FOB,Last Known Destination,512,2012
-Qatar(2012),HS2007,QAR,Import,0.274725,Special,CIF,Origin,634,2012
-Qatar(2012),HS2007,QAR,Export,0.274725,Special,FOB,Last Known Destination,634,2012
+Qatar(2012),HS2012,QAR,Import,0.274725,General,CIF,Origin,634,2012
+Qatar(2012),HS2012,QAR,Export,0.274725,General,FOB,Last Known Destination,634,2012
 Saudi Arabia(2012),HS2012,SAR,Import,0.266667,General,CIF,Origin,682,2012
 Saudi Arabia(2012),HS2012,SAR,Export,0.266667,General,FOB,Last Known Destination,682,2012
 United Arab Emirates(2012),HS2012,AED,Import,0.272294,Special,CIF,Origin,784,2012
@@ -345,8 +345,8 @@ Suriname(2012),HS2007,USD,Import,1,General,CIF,Origin,740,2012
 Suriname(2012),HS2007,USD,Export,1,General,FOB,Last Known Destination,740,2012
 Thailand(2012),HS2012,USD,Import,1,Special,CIF,Origin,764,2012
 Thailand(2012),HS2012,USD,Export,1,Special,FOB,Last Known Destination,764,2012
-Trinidad and Tobago(2012),HS2007,USD,Import,1,Special,CIF,Origin,780,2012
-Trinidad and Tobago(2012),HS2007,USD,Export,1,Special,FOB,Last Known Destination,780,2012
+Trinidad and Tobago(2012),HS2007,TTD,Import,0.155532,Special,CIF,Origin,780,2012
+Trinidad and Tobago(2012),HS2007,TTD,Export,0.155532,Special,FOB,Last Known Destination,780,2012
 Turks and Caicos Isds(2012),HS2007,USD,Import,1,General,CIF,Origin,796,2012
 Turks and Caicos Isds(2012),HS2007,USD,Export,1,General,FOB,Last Known Destination,796,2012
 Viet Nam(2012),HS2012,USD,Import,1,General,CIF,Origin,704,2012

@@ -122,7 +122,7 @@ Netherlands(1981),SITC Rev.2,NLG,Export,0.402489,Special,FOB,Last Known Destinat
 Portugal(1981),SITC Rev.2,PTE,Import,0.1634,Special,CIF,Origin,620,1981
 Portugal(1981),SITC Rev.2,PTE,Export,0.1627,Special,FOB,Last Known Destination,620,1981
 Spain(1981),SITC Rev.2,ESP,Import,0.10836,Special,CIF,Origin,724,1981
-Spain(1981),SITC Rev.2,ESP,Export,0.10780000000000001,Special,FOB,Last Known Destination,724,1981
+Spain(1981),SITC Rev.2,ESP,Export,0.1078,Special,FOB,Last Known Destination,724,1981
 Sweden(1981),SITC Rev.2,SEK,Import,0.197543,General,CIF,Origin,752,1981
 Sweden(1981),SITC Rev.2,SEK,Export,0.19787,General,FOB,Last Known Destination,752,1981
 United Kingdom(1981),SITC Rev.2,GBP,Import,2.00752,General,CIF,Consignment,826,1981

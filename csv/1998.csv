@@ -77,8 +77,8 @@ Ethiopia(1998),HS1992,ETB,Import,0.140433,General,CIF,Origin,231,1998
 Ethiopia(1998),HS1992,ETB,Export,0.14127,General,FOB,Last Known Destination,231,1998
 Kenya(1998),HS1996,KES,Import,0.016549,General,CIF,Origin,404,1998
 Kenya(1998),HS1996,KES,Export,0.01654,General,FOB,Last Known Destination,404,1998
-Madagascar(1998),HS1996,MGF,Import,1.83e-4,Special,CIF,Origin,450,1998
-Madagascar(1998),HS1996,MGF,Export,1.8e-4,Special,FOB,Last Known Destination,450,1998
+Madagascar(1998),HS1996,MGF,Import,0.000183,Special,CIF,Origin,450,1998
+Madagascar(1998),HS1996,MGF,Export,0.00018,Special,FOB,Last Known Destination,450,1998
 Malawi(1998),HS1992,MWK,Import,0.033697,General,CIF,Origin,454,1998
 Malawi(1998),HS1992,MWK,Export,0.031021,General,FOB,Last Known Destination,454,1998
 Mauritius(1998),HS1996,MUR,Import,0.04382,General,CIF,Consignment,480,1998
@@ -93,8 +93,8 @@ United Rep. of Tanzania(1998),HS1996,USD,Import,1,Special,CIF,Origin,834,1998
 United Rep. of Tanzania(1998),HS1996,USD,Export,1,Special,FOB,Last Known Destination,834,1998
 Uganda(1998),HS1996,USD,Import,1,General,CIF,Consignment,800,1998
 Uganda(1998),HS1996,USD,Export,1,General,FOB,Last Known Destination,800,1998
-Zambia(1998),HS1996,ZMK,Import,5.43e-4,General,CIF,Origin,894,1998
-Zambia(1998),HS1996,ZMK,Export,5.43e-4,General,FOB,Last Known Destination,894,1998
+Zambia(1998),HS1996,ZMK,Import,0.000543,General,CIF,Origin,894,1998
+Zambia(1998),HS1996,ZMK,Export,0.000543,General,FOB,Last Known Destination,894,1998
 Costa Rica(1998),HS1996,USD,Import,1,Special,CIF,Consignment,188,1998
 Costa Rica(1998),HS1996,USD,Export,1,Special,FOB,Last Known Destination,188,1998
 Côte d'Ivoire(1998),HS1992,XOF,Import,0.0017,Special,CIF,Origin,384,1998
@@ -111,8 +111,8 @@ Gambia(1998),HS1996,GMD,Import,0.094007,General,CIF,Consignment,270,1998
 Gambia(1998),HS1996,GMD,Export,0.09447,General,FOB,Last Known Destination,270,1998
 Ghana(1998),HS1992,USD,Import,1,General,CIF,Origin,288,1998
 Ghana(1998),HS1992,USD,Export,1,General,FOB,Consignment,288,1998
-Guinea(1998),HS1996,GNF,Import,6.93e-4,General,CIF,Origin,324,1998
-Guinea(1998),HS1996,GNF,Export,6.9e-4,General,FOB,Last Known Destination,324,1998
+Guinea(1998),HS1996,GNF,Import,0.000693,General,CIF,Origin,324,1998
+Guinea(1998),HS1996,GNF,Export,0.00069,General,FOB,Last Known Destination,324,1998
 Mali(1998),HS1996,XOF,Import,0.001695,,CIF,Origin,466,1998
 Mali(1998),HS1996,XOF,Export,0.001695,Special,FOB,Last Known Destination,466,1998
 Niger(1998),HS1996,FRF,Import,0.001691,General,CIF,Origin,562,1998
@@ -161,8 +161,8 @@ Greece(1998),HS1996,GRD,Import,0.003388,Special,CIF,Consignment,300,1998
 Greece(1998),HS1996,GRD,Export,0.00339,Special,FOB,Last Known Destination,300,1998
 Ireland(1998),HS1996,IEP,Import,1.42711,General,CIF,Origin,372,1998
 Ireland(1998),HS1996,IEP,Export,1.42843,General,FOB,Last Known Destination,372,1998
-Italy(1998),HS1996,ITL,Import,5.76e-4,Special,CIF,Origin,381,1998
-Italy(1998),HS1996,ITL,Export,5.76e-4,Special,FOB,Last Known Destination,381,1998
+Italy(1998),HS1996,ITL,Import,0.000576,Special,CIF,Origin,381,1998
+Italy(1998),HS1996,ITL,Export,0.000576,Special,FOB,Last Known Destination,381,1998
 Malta(1998),HS1996,MTL,Import,2.57659,General,CIF,Origin,470,1998
 Malta(1998),HS1996,MTL,Export,2.57415,General,FOB,Last Known Destination,470,1998
 Netherlands(1998),HS1996,NLG,Import,0.504906,Special,CIF,Origin,528,1998

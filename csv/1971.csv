@@ -153,8 +153,8 @@ Haiti(1971),SITC Rev.1,HTG,Import,0.2,General,CIF,Origin,332,1971
 Haiti(1971),SITC Rev.1,HTG,Export,0.2,General,FOB,Last Known Destination,332,1971
 Honduras(1971),SITC Rev.1,USD,Import,1,Special,CIF,Origin,340,1971
 Honduras(1971),SITC Rev.1,USD,Export,1,Special,FOB,Last Known Destination,340,1971
-"India, excl. Sikkim(1971)",SITC Rev.1,INR,Import,0.133333,General,CIF,Consignment,356,1971
-"India, excl. Sikkim(1971)",SITC Rev.1,INR,Export,0.133333,General,FOB,Last Known Destination,356,1971
+India [...1974](1971),SITC Rev.1,INR,Import,0.133333,General,CIF,Consignment,356,1971
+India [...1974](1971),SITC Rev.1,INR,Export,0.133333,General,FOB,Last Known Destination,356,1971
 Indonesia(1971),SITC Rev.1,USD,Import,1,Special,CIF,Origin,360,1971
 Indonesia(1971),SITC Rev.1,USD,Export,1,Special,FOB,Last Known Destination,360,1971
 Iran(1971),SITC Rev.1,IRR,Import,0.132013,Special,CIF,Purchase,364,1971

@@ -51,8 +51,8 @@ Ethiopia(1993),SITC Rev.2,ETB,Import,0.2,General,CIF,Origin,231,1993
 Ethiopia(1993),SITC Rev.2,ETB,Export,0.2,General,FOB,Last Known Destination,231,1993
 Kenya(1993),SITC Rev.3,KES,Import,0.017502,General,CIF,Origin,404,1993
 Kenya(1993),SITC Rev.3,KES,Export,0.01748,General,FOB,Last Known Destination,404,1993
-Madagascar(1993),HS1992,MGF,Import,5.23e-4,Special,CIF,Origin,450,1993
-Madagascar(1993),HS1992,MGF,Export,5.2e-4,Special,FOB,Last Known Destination,450,1993
+Madagascar(1993),HS1992,MGF,Import,0.000523,Special,CIF,Origin,450,1993
+Madagascar(1993),HS1992,MGF,Export,0.00052,Special,FOB,Last Known Destination,450,1993
 Mauritius(1993),HS1992,MUR,Import,0.063279,General,CIF,Consignment,480,1993
 Mauritius(1993),HS1992,MUR,Export,0.06368,General,FOB,Last Known Destination,480,1993
 Seychelles(1993),SITC Rev.3,SCR,Import,0.195634,General,CIF,Origin,690,1993
@@ -109,8 +109,8 @@ Greece(1993),HS1992,GRD,Import,0.004536,Special,CIF,Consignment,300,1993
 Greece(1993),HS1992,GRD,Export,0.00453,Special,FOB,Last Known Destination,300,1993
 Ireland(1993),HS1992,IEP,Import,1.46415,General,CIF,Origin,372,1993
 Ireland(1993),HS1992,IEP,Export,1.46352,General,FOB,Last Known Destination,372,1993
-Italy(1993),SITC Rev.3,ITL,Import,6.37e-4,Special,CIF,Origin,381,1993
-Italy(1993),SITC Rev.3,ITL,Export,6.36e-4,Special,FOB,Last Known Destination,381,1993
+Italy(1993),SITC Rev.3,ITL,Import,0.000637,Special,CIF,Origin,381,1993
+Italy(1993),SITC Rev.3,ITL,Export,0.000636,Special,FOB,Last Known Destination,381,1993
 Malta(1993),SITC Rev.3,MTL,Import,2.61573,General,CIF,Origin,470,1993
 Malta(1993),SITC Rev.3,MTL,Export,2.61493,General,FOB,Last Known Destination,470,1993
 Netherlands(1993),HS1992,NLG,Import,0.538589,Special,CIF,Origin,528,1993
@@ -153,7 +153,7 @@ Jamaica(1993),HS1992,USD,Import,1,Special,CIF,Origin,388,1993
 Jamaica(1993),HS1992,USD,Export,1,Special,FOB,Last Known Destination,388,1993
 Japan(1993),HS1992,JPY,Import,0.008971,General,CIF,Origin,392,1993
 Japan(1993),HS1992,JPY,Export,0.008977,General,FOB,Last Known Destination,392,1993
-Jordan(1993),SITC Rev.3,JOD,Import,1.4512100000000001,General,CIF,Origin,400,1993
+Jordan(1993),SITC Rev.3,JOD,Import,1.45121,General,CIF,Origin,400,1993
 Jordan(1993),SITC Rev.3,JOD,Export,1.45226,General,FOB,Last Known Destination,400,1993
 Kiribati(1993),SITC Rev.3,AUD,Import,0.679312,General,FOB,Origin,296,1993
 Kiribati(1993),SITC Rev.3,AUD,Export,0.67931,General,FOB,Last Known Destination,296,1993
