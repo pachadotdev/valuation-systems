@@ -289,4 +289,7 @@ valuation <- valuation %>%
 valuation <- valuation %>%
   select(-reporter)
 
+valuation <- valuation %>%
+  mutate_if(is.character, function(x) { str_squish(str_to_lower(x))})
+
 write_csv(valuation, fout)
