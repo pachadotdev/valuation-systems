@@ -5,8 +5,6 @@
 # table that shows all reporters where we can see that some countries
 # report imports as FOB
 
-# see this post
-
 url_jar <- "https://github.com/SeleniumHQ/selenium/releases/download/selenium-3.9.1/selenium-server-standalone-3.9.1.jar"
 sel_jar <- "selenium-server-standalone-3.9.1.jar"
 
@@ -22,7 +20,6 @@ if (!file.exists(sel_jar)) {
 
 library(dplyr)
 library(tidyr)
-library(forcats)
 
 library(RSelenium)
 library(rvest)
@@ -31,14 +28,12 @@ library(janitor)
 library(stringr)
 library(readr)
 
-library(uncomtrademisc)
-
 rmDr <- remoteDriver(port = 4444L, browserName = "chrome")
 rmDr$open(silent = TRUE)
 
-Y <- c(2001, 1999:1962)
+Y <- 2021:1962
 
-fout <- "trade_valuation_system_per_country.rds"
+fout <- "trade_valuation_system_per_country.csv"
 
 # if (file.exists(fout)) {
 #   valuation <- readRDS(fout)
@@ -109,14 +104,14 @@ for (y in Y) {
     )
     
     write_csv(new_table, fout2)
-    rm(new_table); gc()
+    rm(new_table)
   # }
 }
 
-valuation <- purrr::map_df(
+valuation <- map_df(
   list.files("csv", full.names = T),
   function(x) {
-    readr::read_csv(x)
+    read_csv(x)
   }
 )
 
@@ -146,32 +141,49 @@ valuation <- valuation %>%
 
 load("~/github/un_escap/comtrade-codes/01-2-tidy-country-data/country-codes.RData")
 
-valuation <- valuation %>%
-  # filter(trade_flow == "Import", valuation != "CIF") %>%
-  left_join(
-    country_codes %>%
-      select(reporter = country_name_english, iso3_digit_alpha),
-      by = "reporter"
-  )
+valuation <- map_df(
+  sort(unique(valuation$year)),
+  function(y) {
+    valuation %>%
+      filter(year == y) %>%
+      left_join(
+        country_codes %>%
+          as_tibble() %>%
+          mutate(
+            start_valid_year = as.integer(start_valid_year),
+            end_valid_year = as.integer(end_valid_year)
+          ) %>%
+          filter(
+            start_valid_year <= y,
+            end_valid_year >= y
+          ) %>%
+          select(reporter = country_name_english, country_iso = iso3_digit_alpha, country_code),
+          by = "reporter"
+      )
+  }
+)
 
 valuation <- valuation %>%
   mutate(
     reporter = str_trim(reporter),
-    iso3_digit_alpha = tolower(iso3_digit_alpha),
-    iso3_digit_alpha = case_when(
-      iso3_digit_alpha == "rom" ~ "rou", # Romania
-      iso3_digit_alpha == "yug" ~ "scg", # Just for joins purposes, Yugoslavia splitted for the analyzed period
-      iso3_digit_alpha == "tmp" ~ "tls", # East Timor
-      iso3_digit_alpha == "zar" ~ "cod", # Congo (Democratic Republic of the)
-      TRUE ~ iso3_digit_alpha
+    country_iso = tolower(country_iso),
+    country_iso = case_when(
+      country_iso == "rom" ~ "rou", # Romania
+      country_iso == "tmp" ~ "tls", # East Timor
+      country_iso == "zar" ~ "cod", # Congo (Democratic Republic of the)
+      TRUE ~ country_iso
     )
   ) %>%
-  select(year, reporter, iso3_digit_alpha, everything())
+  select(year, reporter, country_iso, country_code, everything())
 
 valuation %>%
-  select(reporter, iso3_digit_alpha) %>%
-  distinct() %>%
-  filter(is.na(iso3_digit_alpha))
+  filter(country_iso %in% c("rou", "tls", "cod")) %>%
+  group_by(reporter) %>%
+  filter(year == min(year))
+
+valuation %>%
+  filter(is.na(country_iso)) %>%
+  distinct(reporter)
 
 # these matches are inexact, but can be obtained by looking at full country
 # names in the the official UN country names (i.e. So. African Customs Union vs
@@ -181,7 +193,7 @@ valuation %>%
 
 valuation <- valuation %>%
   mutate(
-    iso3_digit_alpha = case_when(
+    country_iso = case_when(
       reporter == "Belgium-Luxembourg" ~ "bel",
       reporter == "Bolivia" ~ "bol",
       reporter == "Cabo Verde" ~ "cpv",
@@ -190,29 +202,91 @@ valuation <- valuation %>%
       reporter == "Eswatini" ~ "swz",
       reporter == "Fmr Arab Rep. of Yemen" ~ "yem",
       reporter == "Fmr Ethiopia" ~ "eth",
-      reporter == "Fmr Fed. Rep. of Germany" ~ "deu",
+      reporter == "Fmr Fed. Rep. of Germany" ~ "ddr",
       reporter == "Fmr Panama, excl.Canal Zone" ~ "pan",
       reporter == "Fmr Rep. of Vietnam" ~ "vnm",
       reporter == "Fmr Sudan" ~ "sdn",
-      reporter == "India, excl. Sikkim" ~ "ind",
-      reporter == "Neth. Antilles and Aruba" ~ "nld",
+      reporter == "India [...1974]" ~ "ind", # India, excl. Sikkim
+      reporter == "Neth. Antilles and Aruba" ~ "ant",
       reporter == "North Macedonia" ~ "mkd",
       reporter == "Saint Kitts, Nevis and Anguilla" ~ "kna",
       reporter == "So. African Customs Union" ~ "zaf",
       reporter == "USA" ~ "usa",
-      TRUE ~ iso3_digit_alpha
+      TRUE ~ country_iso
+    ),
+    country_code = case_when(
+      reporter == "Belgium-Luxembourg" ~ 56,
+      reporter == "Bolivia" ~ 68,
+      reporter == "Cabo Verde" ~ 132,
+      reporter == "Czechia" ~ 203,
+      reporter == "East and West Pakistan" ~ 586,
+      reporter == "Eswatini" ~ 748,
+      reporter == "Fmr Arab Rep. of Yemen" ~ 886,
+      reporter == "Fmr Ethiopia" ~ 230,
+      reporter == "Fmr Fed. Rep. of Germany" ~ 278,
+      reporter == "Fmr Panama, excl.Canal Zone" ~ 590,
+      reporter == "Fmr Rep. of Vietnam" ~ 704,
+      reporter == "Fmr Sudan" ~ 736,
+      reporter == "India [...1974]" ~ 699, # India, excl. Sikkim
+      reporter == "Neth. Antilles and Aruba" ~ 532,
+      reporter == "North Macedonia" ~ 807,
+      reporter == "Saint Kitts, Nevis and Anguilla" ~ 658,
+      reporter == "So. African Customs Union" ~ 711,
+      reporter == "USA" & year < 1981 ~ 841,
+      reporter == "USA" & year >= 1981 ~ 842,
+      TRUE ~ country_code
     )
   )
 
 valuation %>%
-  select(reporter, iso3_digit_alpha) %>%
+  select(reporter, country_iso) %>%
   distinct() %>%
-  filter(is.na(iso3_digit_alpha))
+  filter(is.na(country_iso))
 
 valuation <- valuation %>%
+  mutate(
+    country_iso = case_when(
+      reporter == "Other Asia, nes" ~ "0-unspecified",
+      reporter == "State of Palestine" ~ "pse",
+      TRUE ~ country_iso
+    ),
+    country_code = case_when(
+      reporter == "Other Asia, nes" ~ 490,
+      reporter == "State of Palestine" ~ 275,
+      TRUE ~ country_code
+    )
+  )
+
+valuation %>%
+  select(reporter, country_iso, country_code) %>%
+  distinct() %>%
+  filter(is.na(country_iso))
+  
+valuation <- valuation %>%
+  filter(!reporter %in% c("EU", "EU-28")) %>%
   arrange(year, reporter)
 
-valuation <- valuation %>%
-  distinct() # some countries appear twice !!
+glimpse(valuation)
 
-saveRDS(valuation, "trade_valuation_system_per_country.rds")
+unique(valuation$trade_flow)
+
+valuation <- valuation %>%
+  distinct() %>% # there are duplicates !!!
+  pivot_wider(
+    names_from = trade_flow,
+    values_from = c(valuation, partner, currency_conversion_factor)
+  ) %>%
+  rename(
+    valuation_imports = valuation_Import,
+    valuation_exports = valuation_Export,
+    currency_conversion_factor_imports = currency_conversion_factor_Import,
+    currency_conversion_factor_exports = currency_conversion_factor_Export,
+    partner_imports = partner_Import,
+    partner_exports = partner_Export
+  ) %>%
+  select(year, reporter, country_iso:currency_conversion_factor_exports)
+
+valuation <- valuation %>%
+  select(-reporter)
+
+write_csv(valuation, fout)
