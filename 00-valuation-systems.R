@@ -354,4 +354,16 @@ valuation %>%
   filter(country_iso == "jpn", year == 1975) %>%
   select(starts_with("valuation"))
 
+valuation %>%
+  group_by(year, country_iso, country_code) %>%
+  count() %>%
+  filter(n > 1)
+
+valuation %>%
+  filter(country_iso == "ddr", year == 1988) %>%
+  glimpse()
+
+valuation <- valuation %>%
+  distinct(year, country_iso, country_code, .keep_all = T)
+
 write_csv(valuation, fout)
