@@ -124,7 +124,7 @@ valuation <- valuation %>%
   select(year, reporter, everything())
 
 valuation %>%
-  filter(reporter == "Japan" & year == 1975) 
+  filter(reporter == "Japan" & year == 1975)
 
 glimpse(valuation)
 
@@ -288,7 +288,8 @@ valuation <- valuation %>%
   ) %>%
   pivot_wider(
     names_from = trade_flow,
-    values_from = reported_classification:partner
+    values_from = c(reported_classification, reported_currency, currency_conversion_factor,
+      trade_system, valuation, partner)
   )
 
 valuation <- valuation %>%
