@@ -123,6 +123,9 @@ valuation <- valuation %>%
   ) %>%
   select(year, reporter, everything())
 
+valuation %>%
+  filter(reporter == "Japan" & year == 1975) 
+
 glimpse(valuation)
 
 valuation <- valuation %>%
@@ -144,7 +147,8 @@ load("~/github/un_escap/comtrade-codes/01-2-tidy-country-data/country-codes.RDat
 valuation <- map_df(
   sort(unique(valuation$year)),
   function(y) {
-    valuation %>%
+    # y = 1975
+    d <- valuation %>%
       filter(year == y) %>%
       left_join(
         country_codes %>%
@@ -160,6 +164,11 @@ valuation <- map_df(
           select(reporter = country_name_english, country_iso = iso3_digit_alpha, country_code),
           by = "reporter"
       )
+
+    # d %>%
+    #   filter(reporter == "Japan")
+
+    return(d)
   }
 )
 
@@ -272,19 +281,15 @@ unique(valuation$trade_flow)
 
 valuation <- valuation %>%
   distinct() %>% # there are duplicates !!!
+  select(-uncomtrade_id) %>%
+  mutate(
+    trade_flow = tolower(trade_flow),
+    trade_flow = paste0(trade_flow, "s")
+  ) %>%
   pivot_wider(
     names_from = trade_flow,
-    values_from = c(valuation, partner, currency_conversion_factor)
-  ) %>%
-  rename(
-    valuation_imports = valuation_Import,
-    valuation_exports = valuation_Export,
-    currency_conversion_factor_imports = currency_conversion_factor_Import,
-    currency_conversion_factor_exports = currency_conversion_factor_Export,
-    partner_imports = partner_Import,
-    partner_exports = partner_Export
-  ) %>%
-  select(year, reporter, country_iso:currency_conversion_factor_exports)
+    values_from = reported_classification:partner
+  )
 
 valuation <- valuation %>%
   select(-reporter)
@@ -298,13 +303,15 @@ valuation %>%
   filter(n > 1)
 
 valuation %>%
-  filter(country_iso == "bra", year == 1968) %>%
+  filter(country_iso == "ddr", year == 1985) %>%
   glimpse()
 
-# fix any "matrices" for cases such as Brazil 1968
+# fix duplicates
+
 valuation <- valuation %>%
-  group_by(year, country_iso, country_code) %>%
-  summarise_all(~max(.x, na.rm = T))
+  distinct()
+
+colnames(valuation)
 
 # fix valuation
 valuation %>%
@@ -341,5 +348,9 @@ valuation <- valuation %>%
 # replace all infinite values with NA
 valuation <- valuation %>%
   mutate_if(is.numeric, function(x) { ifelse(is.infinite(x), NA, x) })
+
+valuation %>%
+  filter(country_iso == "jpn", year == 1975) %>%
+  select(starts_with("valuation"))
 
 write_csv(valuation, fout)
