@@ -306,4 +306,40 @@ valuation <- valuation %>%
   group_by(year, country_iso, country_code) %>%
   summarise_all(~max(.x, na.rm = T))
 
+# fix valuation
+valuation %>%
+  ungroup() %>%
+  distinct(valuation_imports)
+
+valuation %>%
+  ungroup() %>%
+  distinct(valuation_exports)
+
+valuation <- valuation %>%
+  ungroup() %>%
+  mutate(
+    valuation_imports = ifelse(valuation_imports == "null", NA, valuation_imports),
+    valuation_exports = ifelse(valuation_exports == "null", NA, valuation_exports)
+  )
+
+valuation %>%
+  distinct(partner_imports)
+
+valuation %>%
+  distinct(partner_exports)
+
+valuation <- valuation %>%
+  mutate(
+    partner_imports = case_when(
+      partner_imports == "origin/consignment for intra eu" ~ "origin/consignment for intra-eu",
+      partner_imports == "n/a" ~ NA_character_,
+      TRUE ~ partner_imports
+    ),
+    partner_exports = ifelse(partner_exports == "n/a", NA, partner_exports)
+  )
+
+# replace all infinite values with NA
+valuation <- valuation %>%
+  mutate_if(is.numeric, function(x) { ifelse(is.infinite(x), NA, x) })
+
 write_csv(valuation, fout)
